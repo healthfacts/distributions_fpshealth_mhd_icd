@@ -1,0 +1,1041 @@
+﻿hfdst;icd_code;diagnose;klass_hosp;dag_hosp
+1 - Infectieziekten en parasitaire ziekten (001-139);1;Cholera;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);2;Typhus abdominalis en paratyfus;15;0
+1 - Infectieziekten en parasitaire ziekten (001-139);3;Andere salmonella infecties;755;5
+1 - Infectieziekten en parasitaire ziekten (001-139);4;Shigellose;53;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);5;Andere bacteriële voedselvergiftiging;248;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);6;Amoebiasis;22;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);7;Andere darmziekten door protozoen;181;34
+1 - Infectieziekten en parasitaire ziekten (001-139);8;Darminfecties door andere micro-organismen;9818;81
+1 - Infectieziekten en parasitaire ziekten (001-139);9;Niet scherp omschreven darminfecties;4175;371
+1 - Infectieziekten en parasitaire ziekten (001-139);10;Primaire tuberculeuze infectie;42;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);11;Longtuberculose;549;69
+1 - Infectieziekten en parasitaire ziekten (001-139);12;Andere vormen van tuberculose van de tractus respiratorius;78;9
+1 - Infectieziekten en parasitaire ziekten (001-139);13;Tuberculose van meningen en centraal zenuwstelsel;24;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);14;Tuberculose van darmen, peritoneum en mesenteriale klieren;29;6
+1 - Infectieziekten en parasitaire ziekten (001-139);15;Tuberculose van botten en gewrichten;38;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);16;Tuberculose van het urogenitaal stelsel;12;0
+1 - Infectieziekten en parasitaire ziekten (001-139);17;Tuberculose van andere organen;66;14
+1 - Infectieziekten en parasitaire ziekten (001-139);18;Miliaire tuberculose;28;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);20;Pest;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);21;Tularemie;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);22;Anthrax;< 5;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);23;Brucellose;11;0
+1 - Infectieziekten en parasitaire ziekten (001-139);24;Malleus;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);25;Melioidose;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);26;Rattebeetziekte;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);27;Andere bacteriële zoonosen;68;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);30;Lepra;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);31;Ziekten door andere mycobacteriën;84;30
+1 - Infectieziekten en parasitaire ziekten (001-139);32;Difterie;104;0
+1 - Infectieziekten en parasitaire ziekten (001-139);33;Kinkhoest;226;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);34;Streptokokken angina en roodvonk;910;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);35;Erysipelas;6249;16
+1 - Infectieziekten en parasitaire ziekten (001-139);36;Meningokokken infectie;118;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);37;Tetanus;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);38;Sepsis;10323;41
+1 - Infectieziekten en parasitaire ziekten (001-139);39;Actinomycoses;29;7
+1 - Infectieziekten en parasitaire ziekten (001-139);40;Andere bacteriële ziekten;46;0
+1 - Infectieziekten en parasitaire ziekten (001-139);41;Bacteriële infectie bij elders geclassificeerde aandoeningen en met niet gespecificeerde lokalisatie;311;101
+1 - Infectieziekten en parasitaire ziekten (001-139);42;HIV-ziekte (human immunodeficiency virus);656;113
+1 - Infectieziekten en parasitaire ziekten (001-139);45;Acute poliomyelitis;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);46;“Slow virus” infecties van het centrale zenuwstelsel;54;0
+1 - Infectieziekten en parasitaire ziekten (001-139);47;Meningitis door enterovirus;1274;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);48;Andere enterovirus ziekten van het centrale zenuwstelsel;28;0
+1 - Infectieziekten en parasitaire ziekten (001-139);49;Andere niet door arthropoden overgebrachte virale ziekten van het centrale zenuwstelsel;107;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);50;Pokken;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);51;Koepokken en paravaccinia;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);52;Waterpokken;760;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);53;Herpes zoster;1130;53
+1 - Infectieziekten en parasitaire ziekten (001-139);54;Herpes simplex;615;7
+1 - Infectieziekten en parasitaire ziekten (001-139);55;Mazelen;13;0
+1 - Infectieziekten en parasitaire ziekten (001-139);56;Rubella (rodehond);< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);57;Andere virus exanthemen;111;0
+1 - Infectieziekten en parasitaire ziekten (001-139);58;Andere human herpesvirus;105;0
+1 - Infectieziekten en parasitaire ziekten (001-139);59;Andere orthopokkenvirus infecties;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);60;Gele koorts;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);61;Dengue;27;0
+1 - Infectieziekten en parasitaire ziekten (001-139);62;Door muggen overgebrachte virus encefalitis;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);63;Door teken overgebrachte virus encefalitis;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);64;Virale encefalitis overgebracht door andere en niet gespecificeerde arthropoden;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);65;Door arthropoden overgebrachte hemorragische koorts;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);66;Andere door arthropoden overgebrachte virusziekte;7;0
+1 - Infectieziekten en parasitaire ziekten (001-139);70;Virus hepatitis;700;292
+1 - Infectieziekten en parasitaire ziekten (001-139);71;Rabiës;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);72;Bof;38;0
+1 - Infectieziekten en parasitaire ziekten (001-139);73;Ornithosis;5;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);74;Specifieke ziekten veroorzaakt door Coxsackie virus;383;0
+1 - Infectieziekten en parasitaire ziekten (001-139);75;Mononucleosis infectiosa;713;5
+1 - Infectieziekten en parasitaire ziekten (001-139);76;Trachoom;0;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);77;Andere ziekten van de conjunctiva door virussen en Chlamydiae veroorzaakt;14;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);78;Andere ziekten veroorzaakt door virussen en Chlamydiae;1014;3725
+1 - Infectieziekten en parasitaire ziekten (001-139);79;Virale en Chlamydia-infecties bij elders geclassificeerde aandoeningen en van niet gespecificeerde lokalisatie;5026;24
+1 - Infectieziekten en parasitaire ziekten (001-139);80;Door luizen overgebrachte tyfus;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);81;Andere vormen van vlektyfus;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);82;Door teken overgebrachte rickettsiosen;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);83;Andere rickettsiosen;17;0
+1 - Infectieziekten en parasitaire ziekten (001-139);84;Malaria;330;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);85;Leishmaniasis;9;24
+1 - Infectieziekten en parasitaire ziekten (001-139);86;Trypanosomiasis;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);87;Relapsing fever;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);88;Andere door arthropoden overgebrachte ziekten;328;17
+1 - Infectieziekten en parasitaire ziekten (001-139);90;Congenitale syfilis (lues);0;7
+1 - Infectieziekten en parasitaire ziekten (001-139);91;Vroege syfilis (lues), met symptomen;16;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);92;Vroege syfilis (lues), latent;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);93;Cardiovasculaire syfilis (lues);0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);94;Neurosyfilis (lues);34;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);95;Andere vormen van late syfilis, met symptomen;12;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);96;Late syfilis, latent;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);97;Andere en niet gespecificeerde syfilis;10;0
+1 - Infectieziekten en parasitaire ziekten (001-139);98;Gonokokken infecties;28;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);99;Andere geslachtsziekten;41;19
+1 - Infectieziekten en parasitaire ziekten (001-139);100;Leptospirosis;25;0
+1 - Infectieziekten en parasitaire ziekten (001-139);101;Angina van Plaut-Vincent;36;0
+1 - Infectieziekten en parasitaire ziekten (001-139);102;Framboesia;0;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);103;Pinta;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);104;Andere spirochetosen;< 5;29
+1 - Infectieziekten en parasitaire ziekten (001-139);110;Dermatofytosen;30;35
+1 - Infectieziekten en parasitaire ziekten (001-139);111;Andere en niet gespecificeerde dermatomycosen;19;5
+1 - Infectieziekten en parasitaire ziekten (001-139);112;Candidiasis;580;219
+1 - Infectieziekten en parasitaire ziekten (001-139);114;Coccidioidomycose;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);115;Histoplasmose;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);116;Blastomycotische infectie;< 5;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);117;Andere mycosen;304;76
+1 - Infectieziekten en parasitaire ziekten (001-139);118;Opportunistische mycosen;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);120;Schistosomiasis (bilharziasis);17;5
+1 - Infectieziekten en parasitaire ziekten (001-139);121;Andere trematoden infecties;0;0
+1 - Infectieziekten en parasitaire ziekten (001-139);122;Echinokokkose;47;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);123;Andere cestode infecties;9;6
+1 - Infectieziekten en parasitaire ziekten (001-139);124;Trichinosis;10;0
+1 - Infectieziekten en parasitaire ziekten (001-139);125;Filaria infectie en dracontiasis;< 5;0
+1 - Infectieziekten en parasitaire ziekten (001-139);126;Ancylostomiasis en necatoriasis;0;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);127;Andere intestinale helminthiasis;31;37
+1 - Infectieziekten en parasitaire ziekten (001-139);128;Andere en niet gespecificeerde vormen van helminthiasis;0;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);129;Intestinaal parasitisme, niet gespecificeerd;18;6
+1 - Infectieziekten en parasitaire ziekten (001-139);130;Toxoplasmose;28;17
+1 - Infectieziekten en parasitaire ziekten (001-139);131;Trichomoniasis;< 5;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);132;Pediculosis en phthirus besmetting (infestatie);7;0
+1 - Infectieziekten en parasitaire ziekten (001-139);133;Acariasis;84;0
+1 - Infectieziekten en parasitaire ziekten (001-139);134;Andere vormen van infestatie;< 5;5
+1 - Infectieziekten en parasitaire ziekten (001-139);135;Sarcoidosis;499;249
+1 - Infectieziekten en parasitaire ziekten (001-139);136;Andere en niet gespecificeerde infectie- en parasitaire ziekten;1163;22
+1 - Infectieziekten en parasitaire ziekten (001-139);137;Late gevolgen van tuberculose;19;6
+1 - Infectieziekten en parasitaire ziekten (001-139);138;Late gevolgen van acute poliomyelitis;7;0
+1 - Infectieziekten en parasitaire ziekten (001-139);139;Late gevolgen van andere infectie- en parasitaire ziekten;13;< 5
+1 - Infectieziekten en parasitaire ziekten (001-139);;;51198;5842
+2 - Neoplasmata (140-239);140;Maligne neoplasma van de lip;51;44
+2 - Neoplasmata (140-239);141;Maligne neoplasma van de tong;619;272
+2 - Neoplasmata (140-239);142;Maligne neoplasma van grote speekselklieren;197;27
+2 - Neoplasmata (140-239);143;Maligne neoplasma van het tandvlees;96;36
+2 - Neoplasmata (140-239);144;Maligne neoplasma van de mondbodem;341;69
+2 - Neoplasmata (140-239);145;Maligne neoplasmata van andere en niet gespecificeerde delen van mond;242;118
+2 - Neoplasmata (140-239);146;Maligne neoplasma van de orofarynx;541;275
+2 - Neoplasmata (140-239);147;Maligne neoplasma van de nasofarynx;97;59
+2 - Neoplasmata (140-239);148;Maligne neoplasma van de hypofarynx;397;224
+2 - Neoplasmata (140-239);149;Maligne neoplasma van andere en niet scherp omschreven lokalisaties binnen de lip, mondholte en farynx;64;40
+2 - Neoplasmata (140-239);150;Maligne neoplasma van de oesophagus;1307;610
+2 - Neoplasmata (140-239);151;Maligne neoplasma van de maag;2141;784
+2 - Neoplasmata (140-239);152;Maligne neoplasma van dunne darm, waaronder duodenum;247;68
+2 - Neoplasmata (140-239);153;Maligne neoplasmata van het colon;7476;4042
+2 - Neoplasmata (140-239);154;Maligne neoplasmata van rectum, overgang van sigmoïd in rectum en van anus;4289;2818
+2 - Neoplasmata (140-239);155;Maligne neoplasma van lever en intrahepatische gal;1922;332
+2 - Neoplasmata (140-239);156;Maligne neoplasma van galblaas en extrahepatische galwegen;624;106
+2 - Neoplasmata (140-239);157;Maligne neoplasmata van pancreas;2690;936
+2 - Neoplasmata (140-239);158;Maligne neoplasma van retroperitoneaal weefsel en peritoneum;204;53
+2 - Neoplasmata (140-239);159;Maligne neoplasma van andere en niet scherp omschreven lokalisaties binnen de digestieve organen en het peritoneum;49;10
+2 - Neoplasmata (140-239);160;Maligne neoplasma van neusholten, middenoor en accessoire sinussen;216;34
+2 - Neoplasmata (140-239);161;Maligne neoplasma van de larynx;604;454
+2 - Neoplasmata (140-239);162;Maligne neoplasma van trachea, bronchus en long;10042;4083
+2 - Neoplasmata (140-239);163;Maligne neoplasma van de pleura;441;72
+2 - Neoplasmata (140-239);164;Maligne neoplasma van thymus, hart en mediastinum;164;21
+2 - Neoplasmata (140-239);165;Maligne neoplasma van andere en niet scherp omschreven lokalisaties binnen het ademhalingsstelsel en intrathoracale organen;0;< 5
+2 - Neoplasmata (140-239);170;Maligne neoplasma van bot en gewrichtskraakbeen;303;143
+2 - Neoplasmata (140-239);171;Maligne neoplasma van bindweefsel en ander week weefsel;670;219
+2 - Neoplasmata (140-239);172;Maligne melanoom van de huid;1145;743
+2 - Neoplasmata (140-239);173;Andere maligne neoplasmata van de huid;1634;3879
+2 - Neoplasmata (140-239);174;Maligne neoplasma van vrouwelijke borst;12091;4168
+2 - Neoplasmata (140-239);175;Maligne neoplasma van de mannelijke borst;104;34
+2 - Neoplasmata (140-239);176;Kaposisarcoom;8;10
+2 - Neoplasmata (140-239);179;Maligne neoplasma van uterus, deel niet gespecificeerd;117;32
+2 - Neoplasmata (140-239);180;Maligne neoplasma van de cervix uteri;929;368
+2 - Neoplasmata (140-239);181;Maligne neoplasma van placenta;9;0
+2 - Neoplasmata (140-239);182;Maligne neoplasma van het corpus uteri;1599;586
+2 - Neoplasmata (140-239);183;Maligne neoplasma van ovarium en andere uterus adnexa;1567;480
+2 - Neoplasmata (140-239);184;Maligne neoplasma van andere en niet gespecificeerde vrouwelijke geslachtsorganen;405;118
+2 - Neoplasmata (140-239);185;Maligne neoplasma van prostaat;5827;1942
+2 - Neoplasmata (140-239);186;Maligne neoplasma van de testis;338;119
+2 - Neoplasmata (140-239);187;Maligne neoplasma van penis en andere mannelijke geslachtsorganen;103;36
+2 - Neoplasmata (140-239);188;Maligne neoplasma van de blaas;6237;2629
+2 - Neoplasmata (140-239);189;Maligne neoplasma van nier en andere en niet gespecificeerde organen;2712;331
+2 - Neoplasmata (140-239);190;Maligne neoplasma van het oog;168;153
+2 - Neoplasmata (140-239);191;Maligne neoplasma van de hersenen;2210;265
+2 - Neoplasmata (140-239);192;Maligne neoplasma van andere en niet gespecificeerde delen van het zenuwstelsel;172;67
+2 - Neoplasmata (140-239);193;Maligne neoplasma van schildklier (glandula thyreoidea);1650;19
+2 - Neoplasmata (140-239);194;Maligne neoplasma van andere endocriene klieren en verwante structuren;143;88
+2 - Neoplasmata (140-239);195;Maligne neoplasma van andere en slecht omschreven lokalisaties;138;67
+2 - Neoplasmata (140-239);196;Secundaire en niet gespecificeerde maligne neoplasma van lymfeklieren;1796;725
+2 - Neoplasmata (140-239);197;Metastasen in tractus respiratorius en tractus digestivus;5799;1642
+2 - Neoplasmata (140-239);198;Metastasen van andere gespecificeerde lokalisatie;5168;1272
+2 - Neoplasmata (140-239);199;Maligne neoplasma zonder specificatie van lokalisatie;481;160
+2 - Neoplasmata (140-239);200;Lymfosarcoom en reticulosarcoom en andere gespecificeerd maligne tumoren van de lymfweefsel;803;888
+2 - Neoplasmata (140-239);201;Ziekte van Hodgkin;378;502
+2 - Neoplasmata (140-239);202;Andere maligne neoplasmata van lymfoid en histiocytair weefsel;2115;2044
+2 - Neoplasmata (140-239);203;Multipel myeloom en immunoproliferatieve neoplasmata;1193;1917
+2 - Neoplasmata (140-239);204;Lymfoïde leukemie;819;1782
+2 - Neoplasmata (140-239);205;Myeloïde leukemie;1219;3006
+2 - Neoplasmata (140-239);206;Monocytaire leukemie;35;67
+2 - Neoplasmata (140-239);207;Andere gespecificeerde leukemieën;19;43
+2 - Neoplasmata (140-239);208;Leukemie van niet gespecificeerd celtype;59;47
+2 - Neoplasmata (140-239);209;Neuroendocriene tumoren;1332;471
+2 - Neoplasmata (140-239);210;Benigne neoplasma van lippen, mondholte en farynx;824;628
+2 - Neoplasmata (140-239);211;Benigne neoplasma van andere delen van de tractus;5510;47287
+2 - Neoplasmata (140-239);212;Benigne neoplasma van tractus respiratorius en intrathoracale organen;301;285
+2 - Neoplasmata (140-239);213;Benigne neoplasma van bot en gewrichtskraakbeen;504;1078
+2 - Neoplasmata (140-239);214;Lipoom;822;5953
+2 - Neoplasmata (140-239);215;Andere benigne neoplasmata van bindweefsel en andere weke delen;345;757
+2 - Neoplasmata (140-239);216;Benigne neoplasma van de huid;186;2805
+2 - Neoplasmata (140-239);217;Benigne neoplasma van de borst;476;1434
+2 - Neoplasmata (140-239);218;Leiomyoom van de uterus;5393;1315
+2 - Neoplasmata (140-239);219;Andere benigne neoplasmata van de uterus;197;112
+2 - Neoplasmata (140-239);220;Benigne neoplasma van het ovarium;2296;454
+2 - Neoplasmata (140-239);221;Benigne neoplasma van andere vrouwelijke geslachtsorganen;114;120
+2 - Neoplasmata (140-239);222;Benigne neoplasma van de mannelijke geslachtsorganen;34;64
+2 - Neoplasmata (140-239);223;Benigne neoplasma van nier en urinair stelsel;304;104
+2 - Neoplasmata (140-239);224;Benigne neoplasma van het oog;16;80
+2 - Neoplasmata (140-239);225;Benigne neoplasma van hersenen en andere delen van het zenuwstelsel;1319;42
+2 - Neoplasmata (140-239);226;Benigne neoplasma van de schildklier;752;7
+2 - Neoplasmata (140-239);227;Benigne neoplasma van andere endocriene klieren en verwante strukturen;1108;46
+2 - Neoplasmata (140-239);228;Hemangioom en lymfangioom, alle lokalisaties;667;872
+2 - Neoplasmata (140-239);229;Benigne neoplasma met andere en niet gespecificeerde lokalisaties;37;136
+2 - Neoplasmata (140-239);230;Carcinoma in situ van het digestief systeem;428;409
+2 - Neoplasmata (140-239);231;Carcinoma in situ van het respiratoir systeem;57;83
+2 - Neoplasmata (140-239);232;Carcinoma in situ van de huid;88;212
+2 - Neoplasmata (140-239);233;Carcinoma in situ van de borst en het urogenitaal systeem;3652;3943
+2 - Neoplasmata (140-239);234;Carcinoma in situ van andere en niet gespecificeerde lokalisaties;5;14
+2 - Neoplasmata (140-239);235;Neoplasma van digestief en respiratoir stelsel met onzeker gedrag;635;1352
+2 - Neoplasmata (140-239);236;Neoplasma met onzeker gedrag van het urinair stelsel;1156;1992
+2 - Neoplasmata (140-239);237;Neoplasma met onzeker gedrag van endocriene klieren en zenuwstelsel;343;80
+2 - Neoplasmata (140-239);238;Neoplasma met onzeker gedrag van andere en niet gespecificeerde lokalisaties en weefsels;1321;11842
+2 - Neoplasmata (140-239);239;Neoplasma van niet gespecificeerde aard;994;1155
+2 - Neoplasmata (140-239);;;126440;131311
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);240;Struma simplex en niet gespecificeerd struma;122;8
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);241;Niet-toxisch nodulair struma;3571;14
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);242;Thyreotoxicose met of zonder struma;1543;16
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);243;Congenitale hypothyreoïdie;7;< 5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);244;Verworven hypothyreoïdie;174;12
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);245;Thyreoïditis;197;5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);246;Andere aandoeningen van de schildklier;96;6
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);249;Secundaire diabetes mellitus;539;11
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);250;Diabetes mellitus;17145;418
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);251;Andere afwijkingen van de interne secretie van het pancreas;355;< 5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);252;Aandoeningen van de glandulae parathyreoideae;266;5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);253;Aandoeningen van de hypofyse en haar hypothalamische controle;443;14
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);254;Ziekten van de thymus;15;< 5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);255;Aandoeningen van de bijnieren;449;10
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);256;Dysfunctie van de ovaria;178;111
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);257;Dysfunctie van de testikels;6;< 5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);258;Polyglandulaire dysfunctie en verwante aandoeningen;19;19
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);259;Andere endocriene stoornissen;38;17
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);260;Kwashiorkor;6;0
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);261;Marasmus door ondervoeding;25;< 5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);262;Andere ernstige vorm van proteïne-calorische ondervoeding;295;< 5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);263;Andere en niet gespecificeerde vormen van proteïne-calorische ondervoeding;367;8
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);264;Vitamine A deficiëntie;0;0
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);265;Thiamine en niacine deficiëntie toestanden;125;< 5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);266;Deficiëntie van componenten uit het vitamine B complex;39;46
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);267;Ascorbinezuur (vitamine C) deficiëntie;0;0
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);268;Vitamine D deficiëntie;63;< 5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);269;Andere vormen van voedingsdeficiëntie;45;644
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);270;Stoornissen van het aminozuur transport en metabolisme;118;5
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);271;Stoornissen van het koolhydraat transport en metabolisme;223;191
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);272;Stoornissen van de lipoïde stofwisseling;98;181
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);273;Stoornissen van het plasma proteïne metabolisme;273;420
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);274;Jicht;780;221
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);275;Stoornissen van het mineraal metabolisme;590;235
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);276;Stoornissen van het vocht, elektrolyten en zuur-base evenwicht;11794;29
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);277;Andere en niet gespecificeerde stofwisselingsstoornissen;987;254
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);278;Obesitas en andere vormen van overvoeding;18745;756
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);279;Stoornissen van het immuniteitsmechanisme;306;576
+3 - Endocriene, nutritionele en stofwisselingsziekten en immuniteitsstoornissen (240-279);;;60042;4252
+4 - Ziekten van bloed en bloedvormende organen (280-289);280;Ijzergebreksanemie;4745;4418
+4 - Ziekten van bloed en bloedvormende organen (280-289);281;Andere deficiëntie anemieën;544;279
+4 - Ziekten van bloed en bloedvormende organen (280-289);282;Hereditaire hemolytische anemieën;924;1979
+4 - Ziekten van bloed en bloedvormende organen (280-289);283;Verworven hemolytische anemieën;302;479
+4 - Ziekten van bloed en bloedvormende organen (280-289);284;Aplastische anemie;819;2110
+4 - Ziekten van bloed en bloedvormende organen (280-289);285;Andere en niet gespecificeerde anemieën;3355;11104
+4 - Ziekten van bloed en bloedvormende organen (280-289);286;Stollingsdeficiëntie;98;155
+4 - Ziekten van bloed en bloedvormende organen (280-289);287;Purpura en andere hemorragische aandoeningen;1256;1634
+4 - Ziekten van bloed en bloedvormende organen (280-289);288;Aandoeningen van de witte bloedcellen;3032;136
+4 - Ziekten van bloed en bloedvormende organen (280-289);289;Andere ziekten van bloed en bloedvormende organen;1456;421
+4 - Ziekten van bloed en bloedvormende organen (280-289);;;16531;22715
+5 - Mentale aandoeningen (290-319);290;Dementie;3558;9
+5 - Mentale aandoeningen (290-319);291;Alcohol psychosen;1783;< 5
+5 - Mentale aandoeningen (290-319);292;Door drugs geïnduceerde mentale stoornissen;1060;< 5
+5 - Mentale aandoeningen (290-319);293;Passagère mentale stoornissen te wijten aan elders geclassificeerde aandoeningen;228;< 5
+5 - Mentale aandoeningen (290-319);294;Persisterende mentale stoornissen veroorzaakt door elders geclassificeerde aandoeningen;415;6
+5 - Mentale aandoeningen (290-319);295;Schizofrene stoornissen;409;28
+5 - Mentale aandoeningen (290-319);296;Episodische stemmingsstoornissen;2930;806
+5 - Mentale aandoeningen (290-319);297;Waanstoornissen;267;0
+5 - Mentale aandoeningen (290-319);298;Andere niet-organische psychosen;1786;< 5
+5 - Mentale aandoeningen (290-319);299;Pervasieve ontwikkelingsstoornissen;127;48
+5 - Mentale aandoeningen (290-319);300;Angst, dissociatieve en somatoforme stoornissen;3778;25
+5 - Mentale aandoeningen (290-319);301;Persoonlijkheidsstoornissen;481;0
+5 - Mentale aandoeningen (290-319);302;Seksuele en geslachtsidentiteitsstoornissen;218;27
+5 - Mentale aandoeningen (290-319);303;Alcoholverslavingssyndroom;6837;257
+5 - Mentale aandoeningen (290-319);304;Verslaving aan “drugs”;618;0
+5 - Mentale aandoeningen (290-319);305;Misbruik van drugs of andere middelen zonder verslaving;3284;77
+5 - Mentale aandoeningen (290-319);306;Fysiologische functiestoornissen veroorzaakt door mentale factoren;1511;170
+5 - Mentale aandoeningen (290-319);307;Speciale symptomen of syndromen, die niet elders geclassificeerd zijn;3497;94
+5 - Mentale aandoeningen (290-319);308;Acute reactie op stress;562;8
+5 - Mentale aandoeningen (290-319);309;Aanpassingsreactie;2140;6
+5 - Mentale aandoeningen (290-319);310;Gespecificeerde niet-psychotische psychische stoornissen ten gevolge van organische hersenschade;423;< 5
+5 - Mentale aandoeningen (290-319);311;Depressieve stoornissen, niet elders geclassificeerd;1876;153
+5 - Mentale aandoeningen (290-319);312;Gedragsstoornissen, niet elders geclassificeerd;644;26
+5 - Mentale aandoeningen (290-319);313;Stoornissen van de emoties specifiek voor kinderleeftijd of adolescentie;152;< 5
+5 - Mentale aandoeningen (290-319);314;Hyperkinetisch syndroom van de kinderleeftijd;55;7
+5 - Mentale aandoeningen (290-319);315;Specifieke vertraging in ontwikkeling;301;307
+5 - Mentale aandoeningen (290-319);316;Psychische factoren verband houdend met elders geclassificeerde ziekten;66;0
+5 - Mentale aandoeningen (290-319);317;Lichte zwakzinnigheid;21;5
+5 - Mentale aandoeningen (290-319);318;Andere gespecificeerde vorm van zwakzinnigheid;37;9
+5 - Mentale aandoeningen (290-319);319;Niet gespecificeerde zwakzinnigheid;58;36
+5 - Mentale aandoeningen (290-319);;;39122;2117
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);320;Bacteriële meningitis;291;0
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);321;Meningitis door andere organismen;< 5;0
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);322;Meningitis door niet gespecificeerde oorzaak;113;< 5
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);323;Encefalitis, myelitis en encefalomyelitis;255;15
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);324;Intracraniaal en intraspinaal abces;106;< 5
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);325;Flebitis en tromboflebitis van intracraniale veneuze sinussen;86;< 5
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);326;Late gevolgen van intracraniaal abces of pyogene infectie;5;< 5
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);327;Organische slaapstoornissen;52757;696
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);330;Cerebrale degeneraties gewoonlijk optredend op de kinderleeftijd;51;6
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);331;Andere cerebrale degeneraties;9051;56
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);332;Ziekte van Parkinson;2597;29
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);333;Andere extrapiramidale ziekten en abnormale bewegingsstoornissen;1813;26
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);334;Spinocerebellaire ziekten;181;< 5
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);335;Ziekten van voorhoorncellen;612;13
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);336;Andere ziekten van het ruggenmerg;144;28
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);337;Aandoeningen van het autonome zenuwstelsel;271;202
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);338;Pijn, niet elders geclassificeerd;5462;107562
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);339;Andere hoofdpijn syndromen;1008;145
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);340;Multiple sclerose;2092;436
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);341;Andere demyeliniserende ziekten van het centraal zenuwstelsel;238;28
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);342;Hemiplegie en hemiparese;256;24
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);343;Cerebrale infantiele paralyse;247;231
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);344;Andere paralytische syndromen;481;57
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);345;Epilepsie;14323;219
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);346;Migraine;2843;23
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);347;Kataplexie en narcolepsie;121;< 5
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);348;Andere aandoeningen van de hersenen;1084;89
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);349;Andere en niet gespecificeerde aandoeningen van het zenuwstelsel;846;113
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);350;Aandoeningen van de nervus trigeminus (vijfde hersenzenuw);522;177
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);351;Aandoeningen van de nervus facialis (zevende hersenzenuw);476;29
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);352;Aandoeningen van andere hersenzenuwen;59;10
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);353;Aandoeningen van ruggenmergswortels en plexus;513;422
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);354;Mononeuritis van de bovenste extremiteit en mononeuritis multiplex;1245;33789
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);355;Mononeuritis van onderste extremiteit;691;1440
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);356;Hereditaire of idiopathische perifere zenuwaandoening;701;72
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);357;Inflammatoire en toxische neuropathie;2017;212
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);358;Neuromusculaire aandoeningen;308;27
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);359;Spierdystrofieën en andere myopathieën;353;35
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);360;Aandoeningen van de oogbol;205;110
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);361;Netvliesloslating en netvliesdefecten;2202;889
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);362;Andere netvliesaandoeningen;1690;991
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);363;Chorioretinale ontstekingen, littekens en andere aandoeningen van het choroïd;24;14
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);364;Aandoeningen van iris en corpus ciliare;91;141
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);365;Glaucoom;950;1049
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);366;Cataract;3297;118005
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);367;Stoornissen van refractie en accommodatie;17;176
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);368;Visuele stoornissen;449;48
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);369;Blindheid en slechtziendheid;65;218
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);370;Keratitis;253;26
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);371;Cornea troebeling en andere aandoeningen van de cornea;494;184
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);372;Aandoeningen van de conjunctiva;111;707
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);373;Ontstekingen van de oogleden;109;612
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);374;Andere aandoeningen van de oogleden;273;9121
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);375;Aandoeningen van het traanapparaat;373;1228
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);376;Aandoeningen van de orbita;351;46
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);377;Aandoeningen van nervus opticus en optische banen;374;20
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);378;Strabismus en andere stoornissen van de binoculaire bewegingen;333;3631
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);379;Andere oogaandoeningen;1262;1154
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);380;Aandoeningen van het uitwendige oor;337;768
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);381;Niet-etterige otitis media en aandoeningen van de buis van Eustachius;605;17811
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);382;Etterige en niet gespecificeerde vormen van otitis media;1653;4875
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);383;Mastoïditis en verwante aandoeningen;387;39
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);384;Andere aandoeningen van het trommelvlies;1380;1192
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);385;Andere aandoeningen van middenoor en mastoïd;1338;481
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);386;Duizeligheidssyndromen en andere aandoeningen van het vestibulair systeem;4111;134
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);387;Otosclerose;636;53
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);388;Andere aandoeningen van het gehoororgaan;226;251
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);389;Gehoorverlies;756;451
+6 - Ziekten van zenuwstelsel en zintuiglijke organen (320-389);;;128572;310646
+7 - Ziekten van het circulatoir systeem (390-459);390;Acuut gewrichtsreuma zonder vermelding van hartaandoening;17;< 5
+7 - Ziekten van het circulatoir systeem (390-459);391;Acuut gewrichtsreuma met hartaandoening;15;< 5
+7 - Ziekten van het circulatoir systeem (390-459);392;Reumatische chorea;< 5;0
+7 - Ziekten van het circulatoir systeem (390-459);393;Chronische reumatische pericarditis;< 5;0
+7 - Ziekten van het circulatoir systeem (390-459);394;Reumatische aandoeningen van de mitraalklep;129;5
+7 - Ziekten van het circulatoir systeem (390-459);395;Aandoeningen van de aortaklep;35;< 5
+7 - Ziekten van het circulatoir systeem (390-459);396;Reumatische aandoeningen van de mitraal- en aortakleppen;63;13
+7 - Ziekten van het circulatoir systeem (390-459);397;Reumatische aandoeningen van andere endocard structuren;7;0
+7 - Ziekten van het circulatoir systeem (390-459);398;Andere reumatische hartaandoeningen;38;0
+7 - Ziekten van het circulatoir systeem (390-459);401;Essentiele hypertensie;2410;63
+7 - Ziekten van het circulatoir systeem (390-459);402;Hypertensieve hartziekte;1365;22
+7 - Ziekten van het circulatoir systeem (390-459);403;Hypertensieve chronische nierziekte;2267;158
+7 - Ziekten van het circulatoir systeem (390-459);404;Hypertensieve hartziekte en hypertensieve chronische nierziekte;1713;24
+7 - Ziekten van het circulatoir systeem (390-459);405;Secundaire hypertensie;59;< 5
+7 - Ziekten van het circulatoir systeem (390-459);410;Acuut myocard infarct;17925;719
+7 - Ziekten van het circulatoir systeem (390-459);411;Andere acute en subacute vormen van ischemische hartziekte;1416;207
+7 - Ziekten van het circulatoir systeem (390-459);412;Oud myocard infarct;19;< 5
+7 - Ziekten van het circulatoir systeem (390-459);413;Angina pectoris;2418;559
+7 - Ziekten van het circulatoir systeem (390-459);414;Andere vormen van chronische ischemische hartziekte;35163;9899
+7 - Ziekten van het circulatoir systeem (390-459);415;Acute pulmonale hartziekte;5487;16
+7 - Ziekten van het circulatoir systeem (390-459);416;Chronische pulmonale hartziekte;933;46
+7 - Ziekten van het circulatoir systeem (390-459);417;Andere ziekten van de pulmonale circulatie;28;< 5
+7 - Ziekten van het circulatoir systeem (390-459);420;Acute pericarditis;1295;7
+7 - Ziekten van het circulatoir systeem (390-459);421;Acute en subacute endocarditis;416;< 5
+7 - Ziekten van het circulatoir systeem (390-459);422;Acute myocarditis;244;8
+7 - Ziekten van het circulatoir systeem (390-459);423;Andere ziekten van het pericard;763;18
+7 - Ziekten van het circulatoir systeem (390-459);424;Andere ziekten van het endocard;7642;700
+7 - Ziekten van het circulatoir systeem (390-459);425;Cardiomyopathie;1164;176
+7 - Ziekten van het circulatoir systeem (390-459);426;Geleidingsstoornissen;4497;128
+7 - Ziekten van het circulatoir systeem (390-459);427;Cardiale dysritmieën;35336;5754
+7 - Ziekten van het circulatoir systeem (390-459);428;Hartfalen;24228;189
+7 - Ziekten van het circulatoir systeem (390-459);429;Slecht omschreven ziektebeelden en complicaties van hartziekte;952;142
+7 - Ziekten van het circulatoir systeem (390-459);430;Subarachnoïdale hemorragie;967;27
+7 - Ziekten van het circulatoir systeem (390-459);431;Intracerebrale hemorragie;2707;15
+7 - Ziekten van het circulatoir systeem (390-459);432;Andere en niet gespecificeerde intracraniale hemorragieën;1025;10
+7 - Ziekten van het circulatoir systeem (390-459);433;Afsluiting (occlusie) en stenose van precerebrale arteriën;5091;95
+7 - Ziekten van het circulatoir systeem (390-459);434;Afsluiting (occlusie) van cerebrale arteriën;15678;11
+7 - Ziekten van het circulatoir systeem (390-459);435;Passagère (transiënte) cerebrale ischemie;7206;50
+7 - Ziekten van het circulatoir systeem (390-459);436;Acute, maar slecht omschreven cerebrovasculaire ziekte;75;< 5
+7 - Ziekten van het circulatoir systeem (390-459);437;Andere en slecht omschreven cerebrovasculaire ziekten;2445;284
+7 - Ziekten van het circulatoir systeem (390-459);438;Late gevolgen van cerebrovasculaire ziekte;1061;61
+7 - Ziekten van het circulatoir systeem (390-459);440;Atherosclerose;18614;1432
+7 - Ziekten van het circulatoir systeem (390-459);441;Aneurysma en dissectie van de aorta;2847;80
+7 - Ziekten van het circulatoir systeem (390-459);442;Andere aneurysmata;751;59
+7 - Ziekten van het circulatoir systeem (390-459);443;Andere perifere vaatziekten;351;79
+7 - Ziekten van het circulatoir systeem (390-459);444;Arteriële embolie en trombose;2229;63
+7 - Ziekten van het circulatoir systeem (390-459);445;Atheroembolie;48;< 5
+7 - Ziekten van het circulatoir systeem (390-459);446;Polyarteriitis nodosa en verwante aandoeningen;787;292
+7 - Ziekten van het circulatoir systeem (390-459);447;Andere stoornissen van arteriën en arteriolen;525;177
+7 - Ziekten van het circulatoir systeem (390-459);448;Ziekte van de capillairen;92;286
+7 - Ziekten van het circulatoir systeem (390-459);449;Septische arteriële embolie;< 5;0
+7 - Ziekten van het circulatoir systeem (390-459);451;Flebitis en tromboflebitis;1145;40
+7 - Ziekten van het circulatoir systeem (390-459);452;Vena portae trombose;110;9
+7 - Ziekten van het circulatoir systeem (390-459);453;Andere veneuze embolieën en trombose;923;96
+7 - Ziekten van het circulatoir systeem (390-459);454;Varices van de onderste extremiteiten;2776;21731
+7 - Ziekten van het circulatoir systeem (390-459);455;Hemorroïden;4006;9086
+7 - Ziekten van het circulatoir systeem (390-459);456;Varices met andere lokalisaties;286;1981
+7 - Ziekten van het circulatoir systeem (390-459);457;Niet-infectieuze stoornissen van de lymfewegen;520;36
+7 - Ziekten van het circulatoir systeem (390-459);458;Hypotensie;4118;6
+7 - Ziekten van het circulatoir systeem (390-459);459;Andere stoornissen van het circulatoir systeem;1409;2828
+7 - Ziekten van het circulatoir systeem (390-459);;;225843;57706
+8 - Ziekten van het respiratoir stelsel (460-519);460;Acute nasofaryngitis (gewone verkoudheid);1411;< 5
+8 - Ziekten van het respiratoir stelsel (460-519);461;Acute sinusitis;729;73
+8 - Ziekten van het respiratoir stelsel (460-519);462;Acute faryngitis;1419;16
+8 - Ziekten van het respiratoir stelsel (460-519);463;Acute tonsillitis;2988;400
+8 - Ziekten van het respiratoir stelsel (460-519);464;Acute laryngitis en tracheïtis;694;104
+8 - Ziekten van het respiratoir stelsel (460-519);465;Acute bovenste luchtweginfecties van multipele of niet gespecificeerde lokalisaties;3069;125
+8 - Ziekten van het respiratoir stelsel (460-519);466;Acute bronchitis en bronchiolitis;19348;118
+8 - Ziekten van het respiratoir stelsel (460-519);470;Deviatie van het neusseptum;5556;3448
+8 - Ziekten van het respiratoir stelsel (460-519);471;Neuspoliepen;853;427
+8 - Ziekten van het respiratoir stelsel (460-519);472;Chronische faryngitis en nasofaryngitis;214;277
+8 - Ziekten van het respiratoir stelsel (460-519);473;Chronische sinusitis;3942;2619
+8 - Ziekten van het respiratoir stelsel (460-519);474;Chronische ziekte van tonsillen en adenoïden;6199;27010
+8 - Ziekten van het respiratoir stelsel (460-519);475;Peritonsillair abces;1447;70
+8 - Ziekten van het respiratoir stelsel (460-519);476;Chronische laryngitis en laryngotracheitis;18;56
+8 - Ziekten van het respiratoir stelsel (460-519);477;Allergische rhinitis;73;49
+8 - Ziekten van het respiratoir stelsel (460-519);478;Andere ziekten van de bovenste luchtwegen;3099;4989
+8 - Ziekten van het respiratoir stelsel (460-519);480;Virale pneumonie;1158;< 5
+8 - Ziekten van het respiratoir stelsel (460-519);481;Pneumokokken pneumonie (streptococcus pneumoniaepneumonie);1173;13
+8 - Ziekten van het respiratoir stelsel (460-519);482;Andere bacteriële pneumonieën;5023;53
+8 - Ziekten van het respiratoir stelsel (460-519);483;Pneumonie door andere gespecificeerde organismen;1650;6
+8 - Ziekten van het respiratoir stelsel (460-519);484;Pneumonie bij elders geclassificeerde infectieziekten;7;< 5
+8 - Ziekten van het respiratoir stelsel (460-519);485;Bronchopneumonie, (oorzakelijk) organisme niet gespecificeerd;6312;29
+8 - Ziekten van het respiratoir stelsel (460-519);486;Pneumonie, (oorzakelijk) organisme niet gespecificeerd;20214;174
+8 - Ziekten van het respiratoir stelsel (460-519);487;Influenza;1943;6
+8 - Ziekten van het respiratoir stelsel (460-519);488;Influenza door bepaalde geïdentificeerde influenzavirussen;122;0
+8 - Ziekten van het respiratoir stelsel (460-519);490;Bronchitis, niet gespecificeerd als acuut of chronisch;1176;160
+8 - Ziekten van het respiratoir stelsel (460-519);491;Chronische bronchitis;28020;638
+8 - Ziekten van het respiratoir stelsel (460-519);492;Emfyseem;162;20
+8 - Ziekten van het respiratoir stelsel (460-519);493;Astma;6505;122
+8 - Ziekten van het respiratoir stelsel (460-519);494;Bronchiëctasie;695;196
+8 - Ziekten van het respiratoir stelsel (460-519);495;Extrinsieke allergische alveolitis;111;28
+8 - Ziekten van het respiratoir stelsel (460-519);496;Chronische luchtwegobstructie, niet elders geclassificeerd;8;17
+8 - Ziekten van het respiratoir stelsel (460-519);500;Mijnwerkers pneumoconiose;72;31
+8 - Ziekten van het respiratoir stelsel (460-519);501;Asbestose;25;5
+8 - Ziekten van het respiratoir stelsel (460-519);502;Pneumoconiose door andere siliciumvormen of silicaten;22;7
+8 - Ziekten van het respiratoir stelsel (460-519);503;Pneumoconiose door ander anorganisch stof;< 5;0
+8 - Ziekten van het respiratoir stelsel (460-519);504;Pneumopathie door inhalatie van ander stof;< 5;0
+8 - Ziekten van het respiratoir stelsel (460-519);505;Pneumoconiose, niet gespecificeerd;6;0
+8 - Ziekten van het respiratoir stelsel (460-519);506;Respiratoire aandoeningen door chemische rook en dampen;41;6
+8 - Ziekten van het respiratoir stelsel (460-519);507;Pneumonitis door vaste stoffen en vloeistoffen;3522;8
+8 - Ziekten van het respiratoir stelsel (460-519);508;Respiratoire aandoeningen door andere en niet gespecificeerde externe agentia;133;21
+8 - Ziekten van het respiratoir stelsel (460-519);510;Empyeem;360;23
+8 - Ziekten van het respiratoir stelsel (460-519);511;Pleuritis;2565;115
+8 - Ziekten van het respiratoir stelsel (460-519);512;Pneumothorax;2018;< 5
+8 - Ziekten van het respiratoir stelsel (460-519);513;Abces van long en mediastinum;257;23
+8 - Ziekten van het respiratoir stelsel (460-519);514;Longstuwing en hypostase;30;< 5
+8 - Ziekten van het respiratoir stelsel (460-519);515;Postinflammatoire longfibrose;634;78
+8 - Ziekten van het respiratoir stelsel (460-519);516;Andere alveolaire en parieto-alveolaire pneumopathieën;833;61
+8 - Ziekten van het respiratoir stelsel (460-519);517;Longaantasting bij elders geclassificeerde aandoeningen;< 5;< 5
+8 - Ziekten van het respiratoir stelsel (460-519);518;Andere longziekten;3724;927
+8 - Ziekten van het respiratoir stelsel (460-519);519;Andere ziekten van het respiratoir systeem;2877;604
+8 - Ziekten van het respiratoir stelsel (460-519);;;142465;43161
+9 - Ziekten van spijsverteringsstelsel (520-579);520;Stoornissen van tandontwikkeling en tanddoorbraak;466;67397
+9 - Ziekten van spijsverteringsstelsel (520-579);521;Ziekten van de harde tandweefsels;489;22979
+9 - Ziekten van spijsverteringsstelsel (520-579);522;Ziekten van tandpulpa en periapicale weefsels;823;11314
+9 - Ziekten van spijsverteringsstelsel (520-579);523;Gingivale en periodontale ziekten;289;2044
+9 - Ziekten van spijsverteringsstelsel (520-579);524;Dentofaciale anomalieën, inclusief malocclusies;3578;5870
+9 - Ziekten van spijsverteringsstelsel (520-579);525;Andere ziekten en aandoeningen van de tanden en het parodontium;565;15461
+9 - Ziekten van spijsverteringsstelsel (520-579);526;Ziekten van boven- en onderkaak (de kaken);563;22041
+9 - Ziekten van spijsverteringsstelsel (520-579);527;Ziekten van de speekselklieren;703;510
+9 - Ziekten van spijsverteringsstelsel (520-579);528;Ziekten van de weke delen van de mond, behalve aandoeningen specifiek voor gingiva en tong;1573;2600
+9 - Ziekten van spijsverteringsstelsel (520-579);529;Ziekten en andere aandoeningen van de tong;82;279
+9 - Ziekten van spijsverteringsstelsel (520-579);530;Ziekten van de oesophagus;9639;17358
+9 - Ziekten van spijsverteringsstelsel (520-579);531;Ulcus ventriculi;2566;831
+9 - Ziekten van spijsverteringsstelsel (520-579);532;Ulcus duodeni;1752;262
+9 - Ziekten van spijsverteringsstelsel (520-579);533;Ulcus pepticum, lokalisatie niet gespecificeerd;60;6
+9 - Ziekten van spijsverteringsstelsel (520-579);534;Ulcus gastrojejunalis;407;134
+9 - Ziekten van spijsverteringsstelsel (520-579);535;Gastritis en duodenitis;4715;10218
+9 - Ziekten van spijsverteringsstelsel (520-579);536;Stoornissen van de maagfunctie;2474;1375
+9 - Ziekten van spijsverteringsstelsel (520-579);537;Andere stoornissen van maag en duodenum;1168;857
+9 - Ziekten van spijsverteringsstelsel (520-579);538;Gastro-intestinale mucositis (ulceratieve);18;< 5
+9 - Ziekten van spijsverteringsstelsel (520-579);540;Acute appendicitis;13504;63
+9 - Ziekten van spijsverteringsstelsel (520-579);541;Niet gekwalificeerde appendicitis;442;18
+9 - Ziekten van spijsverteringsstelsel (520-579);542;Andere appendicitis;299;23
+9 - Ziekten van spijsverteringsstelsel (520-579);543;Andere ziekten van de appendix;295;24
+9 - Ziekten van spijsverteringsstelsel (520-579);550;Hernia inguinalis;14485;8971
+9 - Ziekten van spijsverteringsstelsel (520-579);551;Andere hernia's van de abdominale holte, met gangreen;104;5
+9 - Ziekten van spijsverteringsstelsel (520-579);552;Andere hernia's van de abdominale holte, met obstructie maar zonder vermelding van gangreen;1805;165
+9 - Ziekten van spijsverteringsstelsel (520-579);553;Andere hernia's van de abdominale holte, zonder vermelding van obstructie of gangreen;10619;6500
+9 - Ziekten van spijsverteringsstelsel (520-579);555;Enteritis regionalis;2604;4760
+9 - Ziekten van spijsverteringsstelsel (520-579);556;Ulceratieve colitis;1222;2659
+9 - Ziekten van spijsverteringsstelsel (520-579);557;Vasculaire insufficiëntie van de darm;2199;126
+9 - Ziekten van spijsverteringsstelsel (520-579);558;Andere en niet gespecificeerde niet-infectieuze gastro-enteritis en colitis;9461;2496
+9 - Ziekten van spijsverteringsstelsel (520-579);560;Darmobstructie zonder vermelding van hernia;12092;438
+9 - Ziekten van spijsverteringsstelsel (520-579);562;Darmdivertikels;12309;15540
+9 - Ziekten van spijsverteringsstelsel (520-579);564;Functionele digestieve stoornissen, niet elders geclassificeerd;6406;10324
+9 - Ziekten van spijsverteringsstelsel (520-579);565;Fissura ani en fistula ani;1855;4141
+9 - Ziekten van spijsverteringsstelsel (520-579);566;Abces van de anale en rectale regio's;2329;898
+9 - Ziekten van spijsverteringsstelsel (520-579);567;Peritonitis en retroperitoneale infecties;810;17
+9 - Ziekten van spijsverteringsstelsel (520-579);568;Andere stoornissen van het peritoneum;840;198
+9 - Ziekten van spijsverteringsstelsel (520-579);569;Andere stoornissen van de darm;4249;6612
+9 - Ziekten van spijsverteringsstelsel (520-579);570;Acute en subacute levernecrose;303;6
+9 - Ziekten van spijsverteringsstelsel (520-579);571;Chronische leverziekte en cirrose;5038;941
+9 - Ziekten van spijsverteringsstelsel (520-579);572;Leverabces en sequelen van chronische leverziekte;1184;148
+9 - Ziekten van spijsverteringsstelsel (520-579);573;Andere stoornissen van de lever;736;143
+9 - Ziekten van spijsverteringsstelsel (520-579);574;Cholelithiasis;26249;1586
+9 - Ziekten van spijsverteringsstelsel (520-579);575;Andere stoornissen van de galblaas;3159;275
+9 - Ziekten van spijsverteringsstelsel (520-579);576;Andere stoornissen van de galwegen;2522;318
+9 - Ziekten van spijsverteringsstelsel (520-579);577;Ziekten van de pancreas;7465;856
+9 - Ziekten van spijsverteringsstelsel (520-579);578;Gastro-intestinale hemorragie;2224;1098
+9 - Ziekten van spijsverteringsstelsel (520-579);579;Absorptiestoornissen van de darm;471;480
+9 - Ziekten van spijsverteringsstelsel (520-579);;;179210;251368
+10 - Ziekten van urogenitaal stelsel (580-629);580;Acute glomerulonefritis;147;23
+10 - Ziekten van urogenitaal stelsel (580-629);581;Nefrotisch syndroom;426;73
+10 - Ziekten van urogenitaal stelsel (580-629);582;Chronische glomerulonefritis;132;19
+10 - Ziekten van urogenitaal stelsel (580-629);583;Nefritis en nefropathie, niet gespecificeerd als acuut of chronisch;356;60
+10 - Ziekten van urogenitaal stelsel (580-629);584;Acute nierinsufficiëntie;1240;8
+10 - Ziekten van urogenitaal stelsel (580-629);585;Chronische nierinsufficiëntie;2835;247
+10 - Ziekten van urogenitaal stelsel (580-629);586;Niet gespecificeerde nierinsufficiëntie;21;< 5
+10 - Ziekten van urogenitaal stelsel (580-629);587;Niet gespecificeerde nefrosclerose;41;5
+10 - Ziekten van urogenitaal stelsel (580-629);588;Aandoeningen als gevolg van verminderde nierfunctie;68;< 5
+10 - Ziekten van urogenitaal stelsel (580-629);589;Renale hypoplasie door onbekende oorzaak;0;0
+10 - Ziekten van urogenitaal stelsel (580-629);590;Nierinfecties;8676;35
+10 - Ziekten van urogenitaal stelsel (580-629);591;Hydronefrose;667;234
+10 - Ziekten van urogenitaal stelsel (580-629);592;Niersteen en uretersteen;17877;14523
+10 - Ziekten van urogenitaal stelsel (580-629);593;Andere aandoeningen van nier en ureter;2653;723
+10 - Ziekten van urogenitaal stelsel (580-629);594;Stenen van de lagere urinewegen;648;495
+10 - Ziekten van urogenitaal stelsel (580-629);595;Cystitis;2530;745
+10 - Ziekten van urogenitaal stelsel (580-629);596;Andere aandoeningen van de blaas;2314;3114
+10 - Ziekten van urogenitaal stelsel (580-629);597;Urethritis, niet overgebracht door geslachtsverkeer, urethraal syndroom;83;132
+10 - Ziekten van urogenitaal stelsel (580-629);598;Urethrastrictuur;2038;4077
+10 - Ziekten van urogenitaal stelsel (580-629);599;Andere aandoeningen van urethra en andere urinewegen;12848;2909
+10 - Ziekten van urogenitaal stelsel (580-629);600;Hyperplasie van de prostaat;9486;4655
+10 - Ziekten van urogenitaal stelsel (580-629);601;Inflammatoire ziekten van de prostaat;1711;510
+10 - Ziekten van urogenitaal stelsel (580-629);602;Andere aandoeningen van de prostaat;137;378
+10 - Ziekten van urogenitaal stelsel (580-629);603;Hydrocele;766;1316
+10 - Ziekten van urogenitaal stelsel (580-629);604;Orchitis en epididymitis;711;96
+10 - Ziekten van urogenitaal stelsel (580-629);605;Overtollig preputium en phimosis;360;19783
+10 - Ziekten van urogenitaal stelsel (580-629);606;Infertiliteit van de man;14;467
+10 - Ziekten van urogenitaal stelsel (580-629);607;Aandoeningen van de penis;596;778
+10 - Ziekten van urogenitaal stelsel (580-629);608;Andere aandoeningen van de mannelijke geslachtsorganen;1126;1499
+10 - Ziekten van urogenitaal stelsel (580-629);610;Benigne dysplasieën van de borst;332;573
+10 - Ziekten van urogenitaal stelsel (580-629);611;Andere aandoeningen van de borst;4774;1775
+10 - Ziekten van urogenitaal stelsel (580-629);612;Vormafwijking en misvorming van een gereconstrueerde borst;408;380
+10 - Ziekten van urogenitaal stelsel (580-629);614;Ontstekingsprocessen van ovarium, eileider, weke delen van het bekken en peritoneum;1365;334
+10 - Ziekten van urogenitaal stelsel (580-629);615;Inflammatoire aandoeningen van de uterus, behalve de cervix;117;177
+10 - Ziekten van urogenitaal stelsel (580-629);616;Inflammatoire aandoening van cervix, vagina en vulva;676;1206
+10 - Ziekten van urogenitaal stelsel (580-629);617;Endometriose;3648;1161
+10 - Ziekten van urogenitaal stelsel (580-629);618;Prolaps van geslachtsorganen;5968;194
+10 - Ziekten van urogenitaal stelsel (580-629);619;Fistel van vrouwelijke geslachtsorganen;251;57
+10 - Ziekten van urogenitaal stelsel (580-629);620;Niet-inflammatoire aandoeningen van ovarium, eileider en ligamentum latum;2769;766
+10 - Ziekten van urogenitaal stelsel (580-629);621;Aandoeningen van de uterus, niet elders geclassificeerd;1610;8082
+10 - Ziekten van urogenitaal stelsel (580-629);622;Niet-inflammatoire aandoeningen van de cervix;423;4136
+10 - Ziekten van urogenitaal stelsel (580-629);623;Niet-inflammatoire aandoeningen van de vagina;152;433
+10 - Ziekten van urogenitaal stelsel (580-629);624;Niet-inflammatoire aandoeningen van vulva en perineum;142;1167
+10 - Ziekten van urogenitaal stelsel (580-629);625;Pijn en andere symptomen in verband met de vrouwelijke geslachtsorganen;4419;1897
+10 - Ziekten van urogenitaal stelsel (580-629);626;Menstruatiestoornissen en overig abnormaal bloedverlies van de vrouwelijke genitale organen;1599;2583
+10 - Ziekten van urogenitaal stelsel (580-629);627;Menopauze en postmenopauze aandoeningen;346;1113
+10 - Ziekten van urogenitaal stelsel (580-629);628;Infertiliteit van de vrouw;352;2005
+10 - Ziekten van urogenitaal stelsel (580-629);629;Andere aandoeningen van vrouwelijke geslachtsorganen;48;78
+10 - Ziekten van urogenitaal stelsel (580-629);;;99906;85027
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);630;Hydatiforme mola;25;166
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);631;Andere abnormale zwangerschapsproducten;55;348
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);632;Missed abortion;530;3245
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);633;Ectopische zwangerschap;1543;325
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);634;Spontane abortus;1428;3571
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);635;Legale abortus;813;2482
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);636;Illegale abortus;14;35
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);637;Niet gespecificeerde abortus;38;717
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);638;Mislukte inleiding van abortus;8;7
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);639;Complicaties na abortus en ectopische en mola zwangerschap;149;99
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);640;Hemorragie vroeg in de zwangerschap;521;< 5
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);641;Antepartum hemorragie, abruptio placentae en placenta previa;2405;17
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);642;Hypertensie als complicatie van zwangerschap, geboorte en postpartum;4124;6
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);643;Hyperemesis gravidum;2713;0
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);644;Vroege of dreigende arbeid;9851;79
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);645;Late zwangerschap;26329;141
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);646;Andere complicaties van de zwangerschap, niet elders gespecificeerd;3964;74
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);647;Infectieuze en parasitaire aandoeningen van de moeder, elders classeerbaar maar complicatie van de zwangerschap, geboorte of postpartum;561;16
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);648;Andere aandoening van de moeder, elders geclassificeerd, maar met complicatie van de zwangerschap, geboorte of postpartum;18111;212
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);649;Andere aandoeningen of status van de moeder met complicatie van de zwangerschap, geboorte of postpartum;3906;37
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);650;Normale bevalling;6520;76
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);651;Multipele zwangerschap;796;27
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);652;Malpositie of malpresentatie van de foetus;4027;28
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);653;Disproportie bij bevalling;1261;< 5
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);654;Afwijkingen van bekkenorganen en weke delen van het bekken;7067;176
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);655;Bekende of vermoede afwijkingen van de vrucht die het beleid van de moeder bepalen;1114;789
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);656;Andere gekende of vermoede problemen van vrucht en placenta, niet gespecificeerd, die de behandeling van de moeder beïnvloede;5918;94
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);657;Polyhydramnion;119;12
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);658;Andere problemen verband houdend met amnionholte en membranen;5644;28
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);659;Andere indicaties voor zorg of ingrijpen in verband met de arbeid, nergens elders geclassificeerd;10007;83
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);660;Moeilijke bevalling met obstructie;4611;12
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);661;Abnormale sterkte van de weeën;2587;7
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);662;Langdurige bevalling;1781;< 5
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);663;Complicaties ontstaan door de navelstreng;5174;34
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);664;Trauma van perineum en vulva tijdens de geboorte;8786;57
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);665;Andere obstetrische traumata;226;6
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);666;Hemorragie post partum;625;458
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);667;Achtergebleven placenta of vliezen, zonder bloeding;203;452
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);668;Complicaties anesthesie of andere sedatie gedurende de zwangerschap of de bevalling;33;< 5
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);669;Andere complicaties van de bevalling, niet elders geclassificeerd;1274;< 5
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);670;Belangrijke puerperale infectie;161;11
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);671;Veneuze complicaties in zwangerschap en of postpartum;759;13
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);672;Koorts van onbekende oorsprong tijdens het postpartum;43;0
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);673;Obstetrische longembolie;28;0
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);674;Andere en niet gespecificeerde complicaties van het postpartum , niet elders geclassificeerd;436;63
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);675;Infecties van borst en tepel verband houdend met de geboorte;225;20
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);676;Andere aandoeningen van de borst in verband met geboorte en afwijkingen van lactatie;217;< 5
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);677;Late gevolgen van complicaties van zwangerschap, geboorte en postpartum;< 5;0
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);678;Andere foetale aandoeningen;22;< 5
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);679;Complicaties van in utero procedures;14;0
+11 - Complicaties van zwangerschap, bevalling en post-partum (630-679);;;146768;14043
+12 - Ziekten van huid en subcutis (680-709);680;Furunkel en karbonkel;71;40
+12 - Ziekten van huid en subcutis (680-709);681;Cellulitis en abces van vinger en teen;360;207
+12 - Ziekten van huid en subcutis (680-709);682;Andere vormen van cellulitis en abces;4670;1100
+12 - Ziekten van huid en subcutis (680-709);683;Acute lymfadenitis;417;125
+12 - Ziekten van huid en subcutis (680-709);684;Impetigo;221;< 5
+12 - Ziekten van huid en subcutis (680-709);685;Sinus pilonidalis;1655;2110
+12 - Ziekten van huid en subcutis (680-709);686;Andere lokale infecties van huid en subcutis;401;418
+12 - Ziekten van huid en subcutis (680-709);690;Erythematosquameuze dermatosen;32;14
+12 - Ziekten van huid en subcutis (680-709);691;Atopische dermatitis en verwante aandoeningen;133;< 5
+12 - Ziekten van huid en subcutis (680-709);692;Contact dermatitis en andere vorm van eczeem;375;41
+12 - Ziekten van huid en subcutis (680-709);693;Dermatitis door inwendig ingenomen stoffen;433;< 5
+12 - Ziekten van huid en subcutis (680-709);694;Bulleuze dermatosen;147;10
+12 - Ziekten van huid en subcutis (680-709);695;Erythemateuze aandoeningen;451;58
+12 - Ziekten van huid en subcutis (680-709);696;Psoriasis en verwante aandoeningen;205;131
+12 - Ziekten van huid en subcutis (680-709);697;Lichen;11;44
+12 - Ziekten van huid en subcutis (680-709);698;Pruritus en verwante aandoeningen;81;41
+12 - Ziekten van huid en subcutis (680-709);700;Eelt en likdoorns;23;257
+12 - Ziekten van huid en subcutis (680-709);701;Andere hypertrofische en atrofische huidaandoeningen;1401;988
+12 - Ziekten van huid en subcutis (680-709);702;Andere dermatosen;32;421
+12 - Ziekten van huid en subcutis (680-709);703;Nagelaandoeningen;103;2438
+12 - Ziekten van huid en subcutis (680-709);704;Ziekten van haar en haarfollikels;85;204
+12 - Ziekten van huid en subcutis (680-709);705;Aandoeningen van zweetklieren;310;407
+12 - Ziekten van huid en subcutis (680-709);706;Aandoeningen van talgklieren;220;4350
+12 - Ziekten van huid en subcutis (680-709);707;Chronisch ulcus van de huid;1995;167
+12 - Ziekten van huid en subcutis (680-709);708;Urticaria;598;< 5
+12 - Ziekten van huid en subcutis (680-709);709;Andere aandoeningen van huid en subcutis;774;3012
+12 - Ziekten van huid en subcutis (680-709);;;15204;16593
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);710;Diffuse ziekten van bindweefsel;935;311
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);711;Artropathie in combinatie met infecties;913;41
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);712;Artropathieën door kristallen;64;19
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);713;Artropathie in combinatie met andere elders geclassificeerd aandoeningen;< 5;< 5
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);714;Reumatoïde artritis en andere inflammatoire polyartropathieën;694;1588
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);715;Osteo-artrose en verwante afwijkingen;46984;3243
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);716;Andere en niet gespecificeerde artropathieën;1022;491
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);717;Interne afwijking van de knie;4108;31417
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);718;Afwijking van andere gewrichten;4637;3088
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);719;Andere en niet gespecificeerde gewrichtsaandoeningen;3634;2814
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);720;Ankyloserende spondylitis en andere inflammatoire spondylopathieën;414;732
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);721;Spondylose en verwante aandoeningen;5849;13071
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);722;Aandoeningen van tussenwervelschijven;28444;36096
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);723;Andere aandoeningen van de regio cervicalis;1645;10290
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);724;Andere en niet gespecificeerde aandoeningen van de rug;10816;57457
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);725;Polymyalgia rheumatica;441;17
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);726;Perifere enthesopathieën en verwante syndromen;11361;12299
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);727;Andere aandoeningen van synoviale membraan, pezen en bursae;7342;25041
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);728;Aandoeningen van spieren, ligamenten en fasciën;2439;4184
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);729;Andere aandoeningen van weke delen;2515;1703
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);730;Osteomyelitis, periostitis en andere infecties van het bot;981;174
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);731;Osteitis deformans en osteopathieën geassocieerd met elders geclassificeerde ziekten;37;11
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);732;Osteochondropathieën;444;479
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);733;Andere aandoeningen van bot en kraakbeen;10372;2574
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);734;Platvoeten;222;27
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);735;Verworven misvormingen van tenen;11425;4751
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);736;Andere verworven misvormingen van de ledematen;1328;794
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);737;Verkromming van de wervelkolom;405;92
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);738;Andere verworven misvormingen;1540;828
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);739;Niet-allopathische aandoeningen, niet elders geclassificeerd;5;< 5
+13 - Ziekten van musculoskeletale systeem en bindweefsel (710-739);;;161018;213637
+14 - Congenitale anomalieën (740-759);740;Anencefalie en verwante aandoeningen;0;0
+14 - Congenitale anomalieën (740-759);741;Spina-bifida;27;17
+14 - Congenitale anomalieën (740-759);742;Andere congenitale afwijkingen van het zenuwstelsel;166;114
+14 - Congenitale anomalieën (740-759);743;Congenitale afwijkingen van het oog;76;291
+14 - Congenitale anomalieën (740-759);744;Congenitale afwijkingen van oor, gelaat en hals;472;2022
+14 - Congenitale anomalieën (740-759);745;Congenitale afwijkingen van bulbus cordis en sluiten van cardiaal septum;1000;69
+14 - Congenitale anomalieën (740-759);746;Andere congenitale afwijkingen van het hart;766;88
+14 - Congenitale anomalieën (740-759);747;Andere congenitale afwijkingen van het circulatoir systeem;965;286
+14 - Congenitale anomalieën (740-759);748;Congenitale afwijkingen van de luchtwegen;296;122
+14 - Congenitale anomalieën (740-759);749;Gespleten verhemelte en gespleten lip;413;37
+14 - Congenitale anomalieën (740-759);750;Andere congenitale afwijkingen van het bovenste alimentaire tractus;296;859
+14 - Congenitale anomalieën (740-759);751;Andere congenitale afwijkingen van het digestief systeem;684;1520
+14 - Congenitale anomalieën (740-759);752;Congenitale afwijkingen van geslachtsorganen;907;2753
+14 - Congenitale anomalieën (740-759);753;Congenitale afwijkingen van nier en urinewegen;544;206
+14 - Congenitale anomalieën (740-759);754;Bepaalde congenitale misvormingen van het bewegingsstelsel;695;234
+14 - Congenitale anomalieën (740-759);755;Andere congenitale afwijkingen van de extremiteit;605;459
+14 - Congenitale anomalieën (740-759);756;Andere congenitale afwijkingen van het bewegingsstelsel;677;328
+14 - Congenitale anomalieën (740-759);757;Congenitale afwijkingen van de huid;184;197
+14 - Congenitale anomalieën (740-759);758;Chromosoom afwijkingen;61;30
+14 - Congenitale anomalieën (740-759);759;Andere en niet gespecificeerde congenitale afwijkijkingen;492;197
+14 - Congenitale anomalieën (740-759);;;9326;9829
+15 - Pathologieën van de perinatale periode (760-779);760;Vrucht of pasgeborene beïnvloed door aandoeningen misschien niet in verband met de zwangerschap;12;0
+15 - Pathologieën van de perinatale periode (760-779);761;Foetus of pasgeborene beïnvloed door zwangerschapscomplicaties bij de moeder;9;< 5
+15 - Pathologieën van de perinatale periode (760-779);762;Foetus of pasgeborene beïnvloed door complicatie van de placenta, navelstreng of membranen;< 5;0
+15 - Pathologieën van de perinatale periode (760-779);763;Foetus of pasgeborene beïnvloed door andere complicaties antepartum en partus;12;0
+15 - Pathologieën van de perinatale periode (760-779);764;Groeiretardatie van de foetus met foetale malnutritie;69;0
+15 - Pathologieën van de perinatale periode (760-779);765;Stoornissen verband houdend met korte zwangerschap en laag geboortegewicht;1180;0
+15 - Pathologieën van de perinatale periode (760-779);766;Stoornissen verband houdend met lange zwangerschap en hoog geboortegewicht;9;0
+15 - Pathologieën van de perinatale periode (760-779);767;Geboortetrauma;37;5
+15 - Pathologieën van de perinatale periode (760-779);768;Intra-uteriene hypoxie en asfyxie bij de geboorte;112;< 5
+15 - Pathologieën van de perinatale periode (760-779);769;Respiratory distress syndrome (van foetus of pasgeborene);270;< 5
+15 - Pathologieën van de perinatale periode (760-779);770;Andere respiratoire aandoeningen van foetus of pasgeborene;582;< 5
+15 - Pathologieën van de perinatale periode (760-779);771;Infecties specifiek voor de perinatale periode;426;9
+15 - Pathologieën van de perinatale periode (760-779);772;Foetale en neonatale hemorragie;18;< 5
+15 - Pathologieën van de perinatale periode (760-779);773;Hemolytische aandoeningen van foetus of pasgeborene, ten gevolge van iso-immunisatie;72;11
+15 - Pathologieën van de perinatale periode (760-779);774;Andere vormen van perinatale geelzucht;503;0
+15 - Pathologieën van de perinatale periode (760-779);775;Endocriene en stofwisselingsstoornissen specifiek voor de foetus en pasgeborene;35;0
+15 - Pathologieën van de perinatale periode (760-779);776;Hematologische stoornissen van de pasgeborene;25;0
+15 - Pathologieën van de perinatale periode (760-779);777;Perinatale stoornissen van het spijsverteringsstelsel;115;0
+15 - Pathologieën van de perinatale periode (760-779);778;Aandoeningen van de huid en van de thermoregulatie van de foetus en van de pasgeborene;240;239
+15 - Pathologieën van de perinatale periode (760-779);779;Andere en slecht omschreven aandoeningen die ontstaan in de perinatale periode;1171;22
+15 - Pathologieën van de perinatale periode (760-779);;;4900;298
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);780;Algemene symptomen;24927;468
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);781;Symptomen van zenuwstelsel en bewegingsstelsel;1005;41
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);782;Symptomen van huid en andere huidaanhangsels;1309;280
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);783;Symptomen betreffende voeding, metabolisme en ontwikkeling;3262;702
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);784;Symptomen van hoofd en hals;3386;792
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);785;Symptomen van het cardiovasculair systeem;1830;925
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);786;Symptomen van het respiratoir systeem en andere thoracale symptomen;19210;3722
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);787;Symptomen van de tractus digestivus;6157;6836
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);788;Symptomen van het urinair systeem;3514;2601
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);789;Andere symptomen van abdomen en pelvis;8091;6906
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);790;Niet-specifieke bevindingen bij bloedonderzoek;1579;819
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);791;Niet-specifieke bevindingen bij urineonderzoek;183;67
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);792;Niet-specifieke abnormale bevindingen in andere lichaamsubstanties;132;2705
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);793;Niet-specifieke abnormale bevindingen bij radiologische en andere onderzoeken van de lichaamsstructuur;206;596
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);794;Niet-specifieke abnormale resultaten van functioneel onderzoeken;755;411
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);795;Andere niet-specifieke abnormale bevindingen, cytologisch, histologisch, immunologisch en van de DNA test;135;717
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);796;Andere niet-specifieke abnormale bevindingen;128;57
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);797;Seniliteit zonder vermelding van psychose;488;0
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);798;Plotselinge dood, onbekende oorzaak;57;6
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);799;Andere slecht omschreven en onbekende oorzaken van morbiditeit en mortaliteit;1477;556
+16 - Symptomen, tekens en slecht omschreven pathologieën (780-799);;;77831;29207
+17 - Traumata en vergiftigingen (800-999);800;Schedeldakfractuur;780;6
+17 - Traumata en vergiftigingen (800-999);801;Schedelbasisfractuur;1929;33
+17 - Traumata en vergiftigingen (800-999);802;Fractuur van aangezichtsbeenderen;2688;2965
+17 - Traumata en vergiftigingen (800-999);803;Andere en niet nader omschreven schedelfracturen;177;0
+17 - Traumata en vergiftigingen (800-999);804;Multipele fracturen van schedel of gelaat samen met fractuur van andere beenderen;57;< 5
+17 - Traumata en vergiftigingen (800-999);805;Fractuur van de wervelkolom, zonder vermelding van ruggenmergletsel;6134;49
+17 - Traumata en vergiftigingen (800-999);806;Fractuur van de wervelkolom, met ruggenmergletsel;274;< 5
+17 - Traumata en vergiftigingen (800-999);807;Fractuur van rib(ben), sternum, larynx en trachea;3639;19
+17 - Traumata en vergiftigingen (800-999);808;Fractuur van het bekken;4345;12
+17 - Traumata en vergiftigingen (800-999);809;Slecht omschreven fracturen van beenderen van de romp;< 5;0
+17 - Traumata en vergiftigingen (800-999);810;Fractuur van de clavicula;2020;235
+17 - Traumata en vergiftigingen (800-999);811;Fractuur van de scapula;293;21
+17 - Traumata en vergiftigingen (800-999);812;Fractuur van de humerus;8013;356
+17 - Traumata en vergiftigingen (800-999);813;Fractuur van radius en ulna;12242;3954
+17 - Traumata en vergiftigingen (800-999);814;Fractuur van carpale been(deren);213;394
+17 - Traumata en vergiftigingen (800-999);815;Fractuur van metacarpale been(deren);658;2963
+17 - Traumata en vergiftigingen (800-999);816;Fractuur van een of meer falangen van de hand;774;1945
+17 - Traumata en vergiftigingen (800-999);817;Multipele fracturen van beenderen van de hand;13;41
+17 - Traumata en vergiftigingen (800-999);818;Slecht omschreven fracturen van het bovenste lidmaat;< 5;< 5
+17 - Traumata en vergiftigingen (800-999);819;Multipele fracturen van beide bovenste ledematen, en bovenste lidmaat met rib(ben) en sternum;0;0
+17 - Traumata en vergiftigingen (800-999);820;Fractuur van de femurhals;16072;9
+17 - Traumata en vergiftigingen (800-999);821;Fractuur van andere en niet gespecificeerde delen van de femur;2201;29
+17 - Traumata en vergiftigingen (800-999);822;Fractuur van de patella;867;21
+17 - Traumata en vergiftigingen (800-999);823;Fractuur van tibia en fibula;3365;96
+17 - Traumata en vergiftigingen (800-999);824;Fractuur van enkel;6394;381
+17 - Traumata en vergiftigingen (800-999);825;Fractuur van een of meer tarsale of metatarsale beenderen;1316;255
+17 - Traumata en vergiftigingen (800-999);826;Fractuur van een of meer falangen van de voet;116;155
+17 - Traumata en vergiftigingen (800-999);827;Andere, multipele en slecht omschreven fracturen van het onderste lidmaat;6;< 5
+17 - Traumata en vergiftigingen (800-999);828;Multipele fracturen van beide onderste ledematen, onderste met bovenste lidmaat, en onderste lidmaat/ledematen met rib(ben) en sternum;< 5;0
+17 - Traumata en vergiftigingen (800-999);829;Fractuur van niet gespecificeerde beenderen;< 5;< 5
+17 - Traumata en vergiftigingen (800-999);830;Luxatie van de kaak;28;48
+17 - Traumata en vergiftigingen (800-999);831;Schouderluxatie;1236;1365
+17 - Traumata en vergiftigingen (800-999);832;Elleboogluxatie;297;213
+17 - Traumata en vergiftigingen (800-999);833;Polsluxatie;69;64
+17 - Traumata en vergiftigingen (800-999);834;Luxatie van vinger;96;208
+17 - Traumata en vergiftigingen (800-999);835;Heupluxatie;138;19
+17 - Traumata en vergiftigingen (800-999);836;Knieluxatie;693;10803
+17 - Traumata en vergiftigingen (800-999);837;Enkelluxatie;51;9
+17 - Traumata en vergiftigingen (800-999);838;Luxatie van de voet;64;37
+17 - Traumata en vergiftigingen (800-999);839;Andere, multipele en slecht omschreven luxaties;138;35
+17 - Traumata en vergiftigingen (800-999);840;Distorsie van schouder en bovenarm;2982;757
+17 - Traumata en vergiftigingen (800-999);841;Distorsie van elleboog en voorarm;69;85
+17 - Traumata en vergiftigingen (800-999);842;Distorsie van pols en hand;178;814
+17 - Traumata en vergiftigingen (800-999);843;Distorsie van heup en dij;202;6
+17 - Traumata en vergiftigingen (800-999);844;Distorsie van knie en onderbeen;4707;976
+17 - Traumata en vergiftigingen (800-999);845;Distorsie van enkel en voet;1385;319
+17 - Traumata en vergiftigingen (800-999);846;Distorsie van de sacro-iliacale regio;< 5;< 5
+17 - Traumata en vergiftigingen (800-999);847;Distorsie van andere en niet gespecificeerde delen van de rug;110;57
+17 - Traumata en vergiftigingen (800-999);848;Andere en slecht omschreven distorsies;108;19
+17 - Traumata en vergiftigingen (800-999);850;Commotio cerebri;8734;12
+17 - Traumata en vergiftigingen (800-999);851;Cerebrale laceratie en contusie;860;< 5
+17 - Traumata en vergiftigingen (800-999);852;Subarachnoïdale, subdurale en extradurale bloeding, na trauma;2033;9
+17 - Traumata en vergiftigingen (800-999);853;Andere en niet gespecificeerde intracraniale bloeding, na trauma;564;< 5
+17 - Traumata en vergiftigingen (800-999);854;Intracraniaal letsel van andere en niet gespecificeerde aard;300;< 5
+17 - Traumata en vergiftigingen (800-999);860;Traumatische pneumothorax en hemothorax;1098;5
+17 - Traumata en vergiftigingen (800-999);861;Letsel van hart en longen;219;< 5
+17 - Traumata en vergiftigingen (800-999);862;Letsel van andere en niet gespecificeerde intrathoracale organen;82;< 5
+17 - Traumata en vergiftigingen (800-999);863;Letsel van de tractus gastrointestinalis;130;6
+17 - Traumata en vergiftigingen (800-999);864;Letsel van de lever;184;< 5
+17 - Traumata en vergiftigingen (800-999);865;Letsel van de milt;289;< 5
+17 - Traumata en vergiftigingen (800-999);866;Letsel van de nier;181;5
+17 - Traumata en vergiftigingen (800-999);867;Letsel van bekkenorganen;87;16
+17 - Traumata en vergiftigingen (800-999);868;Letsel van andere intra-abdominale organen;107;5
+17 - Traumata en vergiftigingen (800-999);869;Inwendig letsel van niet gespecificeerde of slecht omschreven organen;5;< 5
+17 - Traumata en vergiftigingen (800-999);870;Open wonde van de adnexen van het oog;103;115
+17 - Traumata en vergiftigingen (800-999);871;Open wonde van de oogbol;225;138
+17 - Traumata en vergiftigingen (800-999);872;Open wonde van het oor;107;348
+17 - Traumata en vergiftigingen (800-999);873;Andere open wonden van het hoofd;2338;1738
+17 - Traumata en vergiftigingen (800-999);874;Open wonde van de hals;67;14
+17 - Traumata en vergiftigingen (800-999);875;Open wonde van de thorax (wand);43;10
+17 - Traumata en vergiftigingen (800-999);876;Open wonde van de rug;15;8
+17 - Traumata en vergiftigingen (800-999);877;Open wonde van de billen (nates);19;< 5
+17 - Traumata en vergiftigingen (800-999);878;Open wonde van de (uitwendige) geslachtsorganen, inclusief traumatische amputatie;90;53
+17 - Traumata en vergiftigingen (800-999);879;Open wonde van andere en niet gespecificeerde lokalisaties, uitgezonderd de ledematen;148;99
+17 - Traumata en vergiftigingen (800-999);880;Open wonde van schouder en bovenarm;108;73
+17 - Traumata en vergiftigingen (800-999);881;Open wonde van de elleboog, voorarm en pols;731;741
+17 - Traumata en vergiftigingen (800-999);882;Open wonde van de hand, behalve enkel vinger(s);431;1364
+17 - Traumata en vergiftigingen (800-999);883;Open wonde van vinger(s);774;3781
+17 - Traumata en vergiftigingen (800-999);884;Multipele of niet gespecificeerde open wonde van het bovenste lidmaat;31;39
+17 - Traumata en vergiftigingen (800-999);885;Traumatische amputatie van de duim (compleet of partieel);118;88
+17 - Traumata en vergiftigingen (800-999);886;Traumatische amputatie van andere vinger(s) (compleet of partieel);424;413
+17 - Traumata en vergiftigingen (800-999);887;Traumatische amputatie van arm en hand (compleet of partieel);10;< 5
+17 - Traumata en vergiftigingen (800-999);890;Open wonde van heup en bovenbeen;137;77
+17 - Traumata en vergiftigingen (800-999);891;Open wonde van knie, onderbeen en enkel;852;420
+17 - Traumata en vergiftigingen (800-999);892;Open wonde van de voet, behalve alleen teen of tenen;232;187
+17 - Traumata en vergiftigingen (800-999);893;Open wonde van teen of tenen;76;115
+17 - Traumata en vergiftigingen (800-999);894;Multipele en niet gespecificeerde open wonde van het onderste lidmaat;39;9
+17 - Traumata en vergiftigingen (800-999);895;Traumatische amputatie van teen of tenen (compleet of partieel);16;< 5
+17 - Traumata en vergiftigingen (800-999);896;Traumatische amputatie van voet (compleet of partieel);5;0
+17 - Traumata en vergiftigingen (800-999);897;Traumatische amputatie van been of benen (compleet) (partieel);12;0
+17 - Traumata en vergiftigingen (800-999);900;Letsel van bloedvaten van hoofd en hals;41;< 5
+17 - Traumata en vergiftigingen (800-999);901;Letsel van bloedvaten van de thorax;29;0
+17 - Traumata en vergiftigingen (800-999);902;Letsel van bloedvaten en abdomen en kleine bekken;29;< 5
+17 - Traumata en vergiftigingen (800-999);903;Letsel van bloedvat van de bovenste extremiteit;91;21
+17 - Traumata en vergiftigingen (800-999);904;Letsel van bloedvaten van onderste extremiteit en van niet gespecificeerde lokalisaties;32;8
+17 - Traumata en vergiftigingen (800-999);905;Late gevolgen van letsels van spieren, skelet en bindweefsel;147;207
+17 - Traumata en vergiftigingen (800-999);906;Late gevolgen van letsels van de huid en van de subcutane weefsels;39;49
+17 - Traumata en vergiftigingen (800-999);907;Late gevolgen van letsels van het zenuwstelsel;16;7
+17 - Traumata en vergiftigingen (800-999);908;Late gevolgen van andere en niet gespecificeerde letsels;31;19
+17 - Traumata en vergiftigingen (800-999);909;Late gevolgen van andere en niet gespecificeerde externe oorzaken;59;22
+17 - Traumata en vergiftigingen (800-999);910;Oppervlakkig letsel van gelaat, hals en behaarde hoofdhuid, uitgezonderd het oog;152;92
+17 - Traumata en vergiftigingen (800-999);911;Oppervlakkig letsel van de romp;28;45
+17 - Traumata en vergiftigingen (800-999);912;Oppervlakkig letsel van schouder of bovenarm;17;21
+17 - Traumata en vergiftigingen (800-999);913;Oppervlakkig letsel van elleboog, voorarm en pols;61;62
+17 - Traumata en vergiftigingen (800-999);914;Oppervlakkig letsel van de hand(en) , behalve enkel vinger(s);27;169
+17 - Traumata en vergiftigingen (800-999);915;Oppervlakkig letsel van vinger(s);27;364
+17 - Traumata en vergiftigingen (800-999);916;Oppervlakkig letsel van heup, dij, been en enkel;113;83
+17 - Traumata en vergiftigingen (800-999);917;Oppervlakkig letsel van voet en teen (tenen);43;145
+17 - Traumata en vergiftigingen (800-999);918;Oppervlakkig letsel van oog en adnexa;18;13
+17 - Traumata en vergiftigingen (800-999);919;Oppervlakkig letsel van andere, multipele en niet gespecificeerde lokalisaties;53;109
+17 - Traumata en vergiftigingen (800-999);920;Contusie van gelaat, behaarde hoofd en hals, behalve ogen;1253;52
+17 - Traumata en vergiftigingen (800-999);921;Contusie van oog en adnexen;285;12
+17 - Traumata en vergiftigingen (800-999);922;Contusie van de romp;1118;43
+17 - Traumata en vergiftigingen (800-999);923;Contusie van bovenste lidmaat;399;62
+17 - Traumata en vergiftigingen (800-999);924;Contusie van onderste lidmaat en van andere en niet gespecificeerde lokalisaties;2298;194
+17 - Traumata en vergiftigingen (800-999);925;Crush letsel van gelaat, behaarde hoofd en hals;6;< 5
+17 - Traumata en vergiftigingen (800-999);926;Crush letsel van de romp;14;0
+17 - Traumata en vergiftigingen (800-999);927;Crush letsel van het bovenste lidmaat;239;324
+17 - Traumata en vergiftigingen (800-999);928;Crush letsel van het onderste lidmaat;164;20
+17 - Traumata en vergiftigingen (800-999);929;Crush letsel van multipele of niet gespecificeerde lokalisaties;45;0
+17 - Traumata en vergiftigingen (800-999);930;Corpus alienum op het uitwendige oog;13;41
+17 - Traumata en vergiftigingen (800-999);931;Corpus alienum in het oor;8;250
+17 - Traumata en vergiftigingen (800-999);932;Corpus alienum in de neus;15;72
+17 - Traumata en vergiftigingen (800-999);933;Corpus alienum in farynx en larynx;267;70
+17 - Traumata en vergiftigingen (800-999);934;Corpus alienum in trachea, bronchus en long;323;96
+17 - Traumata en vergiftigingen (800-999);935;Corpus alienum in mond, oesophagus en maag;467;354
+17 - Traumata en vergiftigingen (800-999);936;Corpus alienum in dunne darm en colon;92;10
+17 - Traumata en vergiftigingen (800-999);937;Corpus alienum in anus en rectum;44;41
+17 - Traumata en vergiftigingen (800-999);938;Corpus alienum in tractus digestivus, niet gespecificeerd;59;18
+17 - Traumata en vergiftigingen (800-999);939;Corpus alienum in tractus urogenitalis;22;38
+17 - Traumata en vergiftigingen (800-999);940;Brandwonde beperkt tot het oog en zijn adnexa;20;0
+17 - Traumata en vergiftigingen (800-999);941;Brandwonde van gelaat, hoofd en hals;276;9
+17 - Traumata en vergiftigingen (800-999);942;Brandwonde van de romp;205;13
+17 - Traumata en vergiftigingen (800-999);943;Brandwonde van het bovenste lidmaat, behalve pols en hand;209;28
+17 - Traumata en vergiftigingen (800-999);944;Brandwonde van pols(en) en hand(en);191;48
+17 - Traumata en vergiftigingen (800-999);945;Brandwonde van het onderste lidmaat;332;36
+17 - Traumata en vergiftigingen (800-999);946;Brandwonde van multipele gespecificeerde lokalisaties;14;0
+17 - Traumata en vergiftigingen (800-999);947;Brandwonde van inwendige organen;39;0
+17 - Traumata en vergiftigingen (800-999);948;Brandwonden geclassificeerd volgens de uitgebreidheid van de betrokken lichaamsoppervlakte;24;< 5
+17 - Traumata en vergiftigingen (800-999);949;Brandwonde, niet gespecificeerd;6;0
+17 - Traumata en vergiftigingen (800-999);950;Letsel van nervus opticus en optische banen;8;0
+17 - Traumata en vergiftigingen (800-999);951;Letsel van andere craniale zenuwen;15;< 5
+17 - Traumata en vergiftigingen (800-999);952;Letsel van het ruggenmerg zonder evidente botletsels van de wervels;101;< 5
+17 - Traumata en vergiftigingen (800-999);953;Letsel van zenuwwortels en spinale plexus;15;0
+17 - Traumata en vergiftigingen (800-999);954;Letsel van andere zenuw(en) van de romp, uitgezonderd schouder- en bekkengordel;< 5;0
+17 - Traumata en vergiftigingen (800-999);955;Letsel van de perifere zenuw(en) van schoudergordel en bovenste lidmaat;140;240
+17 - Traumata en vergiftigingen (800-999);956;Letsel van perifere zenuw(en) van bekkengordel en onderste lidmaat, nervus ischiaticus;20;14
+17 - Traumata en vergiftigingen (800-999);957;Letsel van andere en niet gespecificeerde zenuwen;14;24
+17 - Traumata en vergiftigingen (800-999);958;Bepaalde vroege complicaties van trauma;1596;104
+17 - Traumata en vergiftigingen (800-999);959;Ander en niet gespecificeerd letsel;637;96
+17 - Traumata en vergiftigingen (800-999);960;Vergiftiging door antibiotica;36;0
+17 - Traumata en vergiftigingen (800-999);961;Vergiftiging door andere anti-infectieuze middelen;30;0
+17 - Traumata en vergiftigingen (800-999);962;Vergiftiging door hormonen en synthetische substitutiemiddelen;353;< 5
+17 - Traumata en vergiftigingen (800-999);963;Vergiftiging door primair systemisch werkende middelen;101;0
+17 - Traumata en vergiftigingen (800-999);964;Vergiftiging door middelen die primair de bestanddelen van het bloed beïnvloeden;109;0
+17 - Traumata en vergiftigingen (800-999);965;Vergiftiging door analgetica, antipyretica en antireumatica;1830;< 5
+17 - Traumata en vergiftigingen (800-999);966;Vergiftiging door anticonvulsiva en anti-Parkinsonmiddelen;194;0
+17 - Traumata en vergiftigingen (800-999);967;Vergiftiging door sedativa en hypnotica;613;< 5
+17 - Traumata en vergiftigingen (800-999);968;Vergiftiging door andere onderdrukkers van het centrale zenuwstelsel en anesthetica;24;0
+17 - Traumata en vergiftigingen (800-999);969;Vergiftiging door psychofarmaca;5914;10
+17 - Traumata en vergiftigingen (800-999);970;Vergiftiging door stimulantia van het centrale zenuwstelsel;96;< 5
+17 - Traumata en vergiftigingen (800-999);971;Vergiftiging door middelen met primaire werking op het autonome zenuwstelsel;148;0
+17 - Traumata en vergiftigingen (800-999);972;Vergiftiging door middelen met primaire werking op het cardiovasculair systeem;336;0
+17 - Traumata en vergiftigingen (800-999);973;Vergiftiging door middelen met primaire werking op het gastro-intestinaal systeem;61;0
+17 - Traumata en vergiftigingen (800-999);974;Vergiftiging door middelen met primaire werking op het water-, elektrolyten- en urinezuurmetabolisme;62;0
+17 - Traumata en vergiftigingen (800-999);975;Vergiftiging door middelen met primaire werking op de gladde en skeletspieren en het respiratoir systeem;84;< 5
+17 - Traumata en vergiftigingen (800-999);976;Vergiftiging door middelen met primaire werking op de huid en op de muceuze membranen, middelen voor oftalmologisch, otorinolaryngologisch en dentaal gebruik;53;< 5
+17 - Traumata en vergiftigingen (800-999);977;Vergiftiging door andere en niet gespecificeerde geneesmiddelen en stoffen met geneeskrachtige werking;573;< 5
+17 - Traumata en vergiftigingen (800-999);978;Vergiftiging door bacteriële vaccins;0;0
+17 - Traumata en vergiftigingen (800-999);979;Vergiftiging door andere vaccins en biologische stoffen;< 5;0
+17 - Traumata en vergiftigingen (800-999);980;Toxisch gevolg van alcohol;793;< 5
+17 - Traumata en vergiftigingen (800-999);981;Toxisch gevolg van aardolie producten;32;0
+17 - Traumata en vergiftigingen (800-999);982;Toxisch gevolg van niet op aardolie gebaseerde oplosmiddelen;53;0
+17 - Traumata en vergiftigingen (800-999);983;Toxisch gevolg van corrosieve aromatica, zuren en caustische alkaliën;140;< 5
+17 - Traumata en vergiftigingen (800-999);984;Toxisch gevolg van lood en loodverbindingen (inclusief dampen);< 5;0
+17 - Traumata en vergiftigingen (800-999);985;Toxisch gevolg van andere metalen;21;< 5
+17 - Traumata en vergiftigingen (800-999);986;Toxisch gevolg van koolmonoxide;244;0
+17 - Traumata en vergiftigingen (800-999);987;Toxisch gevolg van andere gassen, dampen of rook;113;< 5
+17 - Traumata en vergiftigingen (800-999);988;Toxisch gevolg van schadelijke stoffen, als voedsel gegeten;87;0
+17 - Traumata en vergiftigingen (800-999);989;Toxisch gevolg van andere stoffen, overwegend niet medicinaal, naar bron;382;< 5
+17 - Traumata en vergiftigingen (800-999);990;Gevolgen van bestraling, niet gespecificeerd;22;6
+17 - Traumata en vergiftigingen (800-999);991;Gevolgen van lage temperatuur;229;< 5
+17 - Traumata en vergiftigingen (800-999);992;Gevolgen van hitte en licht;93;0
+17 - Traumata en vergiftigingen (800-999);993;Gevolgen van luchtdruk (veranderingen);23;< 5
+17 - Traumata en vergiftigingen (800-999);994;Gevolgen van andere externe oorzaken;305;0
+17 - Traumata en vergiftigingen (800-999);995;Bepaalde nadelige gevolgen niet elders geclassificeerd;2008;24
+17 - Traumata en vergiftigingen (800-999);996;Complicaties eigen aan bepaalde gespecificeerde procedures;23904;7443
+17 - Traumata en vergiftigingen (800-999);997;Complicaties die gespecificeerde lichaamssystemen aantasten, niet elders geclassificeerd;5385;1063
+17 - Traumata en vergiftigingen (800-999);998;Andere complicaties van procedures, niet elders geclassificeerd;12542;3038
+17 - Traumata en vergiftigingen (800-999);999;Complicaties van medische zorg, niet elders geclassificeerd;809;81
+17 - Traumata en vergiftigingen (800-999);;;179029;55154
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V01;Personen met potentiele gezondheidsrisico's gerelateerd aan contact met of blootstelling aan overdraagbare ziekten;8;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V02;Personen met potentiele gezondheidsrisico's, carrier of vermoedelijke carrier van infectieuze ziekten;11;6
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V03;Nood aan profylactische vaccinatie of inenting tegen bacteriële ziekten;0;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V04;Nood aan profylactische vaccinatie of inenting tegen bepaalde virale ziekten;< 5;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V05;Nood aan andere profylactische vaccinatie of inenting tegen enkelvoudige ziekten;< 5;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V06;Nood aan profylactische vaccinatie of inenting tegen combinaties van ziekten;7;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V07;Nood aan isolatie en andere profylactische of behandelingsmaatregelen;239;7135
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V08;Asymptomatische HIV infectietoestand;7;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V09;Infectie met micro-organismen resistent tegen geneesmiddelen;0;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V10;Persoonlijke anamnese met maligne neoplasma;61;394
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V11;Persoonlijke anamnese met een mentale stoornis;< 5;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V12;Persoonlijke anamnese met bepaalde andere ziekten;65;495
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V13;Persoonlijke voorgeschiedenis van andere ziekten;21;68
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V14;Persoonlijke voorgeschiedenis van allergie voor geneesmiddelen;22;6
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V15;Andere persoonlijke voorgeschiedenis met risico voor de gezondheid;1863;20
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V16;Familiale voorgeschiedenis van maligne neoplasma;11;199
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V17;Familiale voorgeschiedenis van bepaalde chronische invaliderende ziekten;27;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V18;Familiale voorgeschiedenis van bepaalde andere specifieke aandoeningen;< 5;49
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V19;Familiale voorgeschiedenis van andere aandoeningen;< 5;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V20;Supervisie van gezondheid van zuigeling of kind;96;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V21;Constitutionele stadia in de ontwikkeling;12;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V22;Normale zwangerschap;147;7
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V23;Supervisie van zwangerschap met hoog risico;7;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V24;Onderzoek en zorg post partum;503;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V25;Contact voor contraceptief management;513;13755
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V26;Procreatief management;476;17562
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V27;Resultaat van de bevalling;21;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V28;Contact voor prenatale screening van moeder;10;3317
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V29;Observatie en evaluatie van pasgeborenen voor vermoeden van een aandoening die niet wordt gevonden;151;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V30;Enkelvoudige levendgeborene;3386;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V31;Tweeling, tweelingbroer/zus levendgeboren;1022;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V32;Tweeling, tweelingbroer/zus doodgeboren;18;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V33;Tweeling, toestand tweelingbroer/zus niet gespecificeerd;0;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V34;Andere meerlinggeboorte, meerlingbroers/zussen allen levendgeboren;68;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V35;Andere meerlinggeboorte, meerlingbroers/zussen allen doodgeboren;0;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V36;Andere meerlinggeboorte, meerlingbroers/zussen levendgeboren en doodgeboren;< 5;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V37;Andere meerlinggeboorte, toestand meerlingbroers/zussen niet gespecificeerd;0;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V39;Levendgeborene, niet gespecificeerde geboorte;< 5;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V40;Psychische en gedragsproblematiek;8;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V41;Problematiek met betrekking tot speciale zintuigen en andere speciale functies;0;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V42;Een orgaan of weefsel dat door transplantatie vervangen is;17;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V43;Een orgaan of weefsel dat op andere wijze vervangen is;35;19
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V44;Status met een kunstmatige lichaamsopening;25;28
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V45;Andere postprocedurele toestanden;145;270
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V46;Andere afhankelijkheid van apparaten en toestellen;35;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V47;Andere problemen met inwendige organen;6;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V48;Problemen met hoofd, hals en romp;< 5;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V49;Andere aandoeningen die de gezondheidstoestand beïnvloeden;21;18
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V50;Electieve chirurgie omwille van andere redenen dan het beter maken van de gezondheidstoestand;3117;6002
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V51;Nazorg met gebruik van plastische chirurgie;1728;794
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V52;Plaatsen en aanpassen van prothese en implantaat;343;1178
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V53;Plaatsen en aanpassen van ander toestel;7238;7456
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V54;Andere orthopedische nazorg;3787;17811
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V55;Zorg voor kunstmatige lichaamsopeningen;2704;1445
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V56;Contact voor dialyse en dialysekatheter zorg;692;404
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V57;Zorg met gebruik van revalidatieprocedures;24986;14
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V58;Contact voor andere en niet gespecificeerde procedures en nazorg;36104;377757
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V59;Donoren;172;413
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V60;Behuizing, huishouding en economische omstandigheden;1947;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V61;Andere familiale omstandigheden;312;249
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V62;Andere psychosociale omstandigheden;245;17
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V63;Onbeschikbaarheid van andere medische faciliteiten voor zorgen;359;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V64;Personen die contact hebben met gezondheidsdiensten voor specifieke procedures niet uitgevoerd;81;80
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V65;Anderen personen die op consultatie komen;2286;22
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V66;Reconvalescentie en palliatieve zorg;389;43
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V67;Follow-up onderzoek;6364;28761
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V68;Contacten voor administratieve doeleinden;2691;30
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V69;Problemen in verband met levensstijl;299;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V70;Algemeen medisch onderzoek;2373;151
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V71;Observatie en evaluatie voor verdachte maar niet gevonden aandoening;15250;5945
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V72;Speciale onderzoekingen en onderzoeken;22480;38406
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V73;Speciaal screeningsonderzoek voor virale en chlamydiale ziekten;< 5;24
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V74;Speciaal screeningsonderzoek op door bacteriën en spirocheten veroorzaakte ziekten;5;10
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V75;Speciaal screeningsonderzoek op andere infectieuze ziekten;0;10
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V76;Speciaal screening op maligne neoplasmata;586;27769
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V77;Screening op endocriene, nutritionele, metabole en immuniteitsstoornissen;10;5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V78;Screening op stoornissen van bloed en bloedvormende organen;< 5;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V79;Screening op psychische stoornissen en ontwikkelingshandicaps;0;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V80;Screening op neurologische, oog- en oorziekten;55;11
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V81;Screening op cardiovasculaire, respiratoire en urogenitale ziekten;194;177
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V82;Screening op andere aandoeningen;113;1809
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V83;Status van genetisch dragerschap;5;8
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V84;Genetische susceptibiliteit voor een ziekte;33;28
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V85;Body mass index (BMI);29;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V86;Oestrogeen receptor status;0;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V87;Andere gespecificeerde persoonlijke blootstellingen en voorgeschiedenis met risico voor gezondheid;12;16
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V88;Verworven afwezigheid van andere organen en weefsel;8;< 5
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V89;Andere verdachte maar niet gevonden aandoeningen;104;72
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V90;Retentie van vreemde voorwerpen;8;87
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);V91;Placenta status in geval van meerlingzwangerschap;5;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);;;146200;560396
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);AAA;Psychiatrisch specialisme;0;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);MMM;Daghospitalisatie : prestatie met miniforfait of zonder forfait;0;27612
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);UUU;Spoedgevallen;0;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);XXX;Dummy diagnose;0;0
+18 - Factoren die de gezondheidstoestand beïnvloeden (V01-V91);;;0;27612

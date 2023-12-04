@@ -1,0 +1,1041 @@
+﻿chap;code_icd;diagnostic;hosp_class;hosp_de_jour
+1 - Maladies infectieuses et parasitaires (001-139);1;Choléra;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);2;Fièvres typhoïde et paratyphoïde;15;0
+1 - Maladies infectieuses et parasitaires (001-139);3;Autres salmonelloses;755;5
+1 - Maladies infectieuses et parasitaires (001-139);4;Shigellose;53;< 5
+1 - Maladies infectieuses et parasitaires (001-139);5;Autres intoxications alimentaires (bactériennes);248;< 5
+1 - Maladies infectieuses et parasitaires (001-139);6;Amibiase;22;< 5
+1 - Maladies infectieuses et parasitaires (001-139);7;Autres maladies intestinales à protozoaires;181;34
+1 - Maladies infectieuses et parasitaires (001-139);8;Infections intestinales dues à d'autres micro-organismes;9818;81
+1 - Maladies infectieuses et parasitaires (001-139);9;Infections intestinales mal définies;4175;371
+1 - Maladies infectieuses et parasitaires (001-139);10;Primo-infection tuberculeuse;42;< 5
+1 - Maladies infectieuses et parasitaires (001-139);11;Tuberculose pulmonaire;549;69
+1 - Maladies infectieuses et parasitaires (001-139);12;Autres tuberculoses du système respiratoire;78;9
+1 - Maladies infectieuses et parasitaires (001-139);13;Tuberculose des méninges et du système nerveux central;24;< 5
+1 - Maladies infectieuses et parasitaires (001-139);14;Tuberculose de l'intestin, du péritoine et des ganglions mésentériques;29;6
+1 - Maladies infectieuses et parasitaires (001-139);15;Tuberculose des os et des articulations;38;< 5
+1 - Maladies infectieuses et parasitaires (001-139);16;Tuberculose du système génito-urinaire;12;0
+1 - Maladies infectieuses et parasitaires (001-139);17;Tuberculose d'autres organes;66;14
+1 - Maladies infectieuses et parasitaires (001-139);18;Tuberculose miliaire;28;< 5
+1 - Maladies infectieuses et parasitaires (001-139);20;Peste;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);21;Tularémie;0;0
+1 - Maladies infectieuses et parasitaires (001-139);22;Charbon;< 5;< 5
+1 - Maladies infectieuses et parasitaires (001-139);23;Brucellose;11;0
+1 - Maladies infectieuses et parasitaires (001-139);24;Morve;0;0
+1 - Maladies infectieuses et parasitaires (001-139);25;Mélioïdose;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);26;Fièvre par morsure de rat;0;0
+1 - Maladies infectieuses et parasitaires (001-139);27;Autres anthropozoonoses bactériennes;68;< 5
+1 - Maladies infectieuses et parasitaires (001-139);30;Lèpre;0;0
+1 - Maladies infectieuses et parasitaires (001-139);31;Maladies dues à d'autres mycobactéries;84;30
+1 - Maladies infectieuses et parasitaires (001-139);32;Diphtérie;104;0
+1 - Maladies infectieuses et parasitaires (001-139);33;Coqueluche;226;< 5
+1 - Maladies infectieuses et parasitaires (001-139);34;Angine à streptocoques et scarlatine;910;< 5
+1 - Maladies infectieuses et parasitaires (001-139);35;Érysipèle;6249;16
+1 - Maladies infectieuses et parasitaires (001-139);36;Infection à méningocoques;118;< 5
+1 - Maladies infectieuses et parasitaires (001-139);37;Tétanos;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);38;Septicémie;10323;41
+1 - Maladies infectieuses et parasitaires (001-139);39;Infections actinomycosiques;29;7
+1 - Maladies infectieuses et parasitaires (001-139);40;Autres maladies bactériennes;46;0
+1 - Maladies infectieuses et parasitaires (001-139);41;Infection bactérienne avec affections classées ailleurs et de site non spécifié;311;101
+1 - Maladies infectieuses et parasitaires (001-139);42;Maladie du VIH (virus d'immunodéficience humaine);656;113
+1 - Maladies infectieuses et parasitaires (001-139);45;Poliomyélite aiguë;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);46;Infections à virus lents et maladies à prions du système nerveux central;54;0
+1 - Maladies infectieuses et parasitaires (001-139);47;Méningite à entérovirus;1274;< 5
+1 - Maladies infectieuses et parasitaires (001-139);48;Autres maladies à entérovirus du système nerveux central;28;0
+1 - Maladies infectieuses et parasitaires (001-139);49;Autres maladies virales du système nerveux central non transmises par les arthropodes;107;< 5
+1 - Maladies infectieuses et parasitaires (001-139);50;Variole;0;0
+1 - Maladies infectieuses et parasitaires (001-139);51;Vaccine et paravaccine;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);52;Varicelle;760;< 5
+1 - Maladies infectieuses et parasitaires (001-139);53;Herpes zoster (zona);1130;53
+1 - Maladies infectieuses et parasitaires (001-139);54;Herpes simplex;615;7
+1 - Maladies infectieuses et parasitaires (001-139);55;Rougeole;13;0
+1 - Maladies infectieuses et parasitaires (001-139);56;Rubéole;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);57;Autres exanthèmes viraux;111;0
+1 - Maladies infectieuses et parasitaires (001-139);58;Autres virus humains de l'herpès;105;0
+1 - Maladies infectieuses et parasitaires (001-139);59;Autres infections à virus orthopox;0;0
+1 - Maladies infectieuses et parasitaires (001-139);60;Fièvre jaune;0;0
+1 - Maladies infectieuses et parasitaires (001-139);61;Dengue;27;0
+1 - Maladies infectieuses et parasitaires (001-139);62;Encéphalite virale transmise par des moustiques;0;0
+1 - Maladies infectieuses et parasitaires (001-139);63;Encéphalite virale transmise par des tiques;0;0
+1 - Maladies infectieuses et parasitaires (001-139);64;Encéphalite virale transmise par des arthropodes autres et non spécifiés;0;0
+1 - Maladies infectieuses et parasitaires (001-139);65;Fièvre hémorragique transmise par des arthropodes;0;0
+1 - Maladies infectieuses et parasitaires (001-139);66;Autres maladies virales transmises par des arthropodes;7;0
+1 - Maladies infectieuses et parasitaires (001-139);70;Hépatite virale;700;292
+1 - Maladies infectieuses et parasitaires (001-139);71;Rage;0;0
+1 - Maladies infectieuses et parasitaires (001-139);72;Oreillons;38;0
+1 - Maladies infectieuses et parasitaires (001-139);73;Ornithose;5;< 5
+1 - Maladies infectieuses et parasitaires (001-139);74;Maladies spécifiques dues au virus Coxsackie;383;0
+1 - Maladies infectieuses et parasitaires (001-139);75;Mononucléose infectieuse;713;5
+1 - Maladies infectieuses et parasitaires (001-139);76;Trachome;0;< 5
+1 - Maladies infectieuses et parasitaires (001-139);77;Autres maladies de la conjonctive à virus et à Chlamydiae;14;< 5
+1 - Maladies infectieuses et parasitaires (001-139);78;Autres maladies à virus et à Chlamydiae;1014;3725
+1 - Maladies infectieuses et parasitaires (001-139);79;Infection à virus et à Chlamydiae dans des affections classées ailleurs et de site non spécifié;5026;24
+1 - Maladies infectieuses et parasitaires (001-139);80;Typhus transmis par des poux;0;0
+1 - Maladies infectieuses et parasitaires (001-139);81;Autres typhus;0;0
+1 - Maladies infectieuses et parasitaires (001-139);82;Rickettsioses véhiculées par les tiques;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);83;Autres rickettsioses;17;0
+1 - Maladies infectieuses et parasitaires (001-139);84;Malaria;330;< 5
+1 - Maladies infectieuses et parasitaires (001-139);85;Leishmaniose;9;24
+1 - Maladies infectieuses et parasitaires (001-139);86;Trypanosomiase;0;0
+1 - Maladies infectieuses et parasitaires (001-139);87;Fièvre récurrente;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);88;Autres maladies transmises par les arthropodes;328;17
+1 - Maladies infectieuses et parasitaires (001-139);90;Syphilis congénitale;0;7
+1 - Maladies infectieuses et parasitaires (001-139);91;Syphilis précoce, symptomatique;16;< 5
+1 - Maladies infectieuses et parasitaires (001-139);92;Syphilis précoce, latente;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);93;Syphilis cardio-vasculaire;0;0
+1 - Maladies infectieuses et parasitaires (001-139);94;Neurosyphilis;34;< 5
+1 - Maladies infectieuses et parasitaires (001-139);95;Autres formes de syphilis tardive, symptomatique;12;< 5
+1 - Maladies infectieuses et parasitaires (001-139);96;Syphilis tardive, latente;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);97;Syphilis, autres et non spécifiées;10;0
+1 - Maladies infectieuses et parasitaires (001-139);98;Infections gonococciques;28;< 5
+1 - Maladies infectieuses et parasitaires (001-139);99;Autres maladies vénériennes;41;19
+1 - Maladies infectieuses et parasitaires (001-139);100;Leptospirose;25;0
+1 - Maladies infectieuses et parasitaires (001-139);101;Angine de Vincent;36;0
+1 - Maladies infectieuses et parasitaires (001-139);102;Pian;0;< 5
+1 - Maladies infectieuses et parasitaires (001-139);103;Pinta;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);104;Autres infections à spirochète;< 5;29
+1 - Maladies infectieuses et parasitaires (001-139);110;Dermatophytoses;30;35
+1 - Maladies infectieuses et parasitaires (001-139);111;Dermatomycoses, autres et non spécifiées;19;5
+1 - Maladies infectieuses et parasitaires (001-139);112;Candidoses;580;219
+1 - Maladies infectieuses et parasitaires (001-139);114;Coccidioïdomycose;0;0
+1 - Maladies infectieuses et parasitaires (001-139);115;Histoplasmose;0;0
+1 - Maladies infectieuses et parasitaires (001-139);116;Infection blastomycosique;< 5;< 5
+1 - Maladies infectieuses et parasitaires (001-139);117;Autres mycoses;304;76
+1 - Maladies infectieuses et parasitaires (001-139);118;Mycoses opportunistes;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);120;Schistosomiases (bilharzioses);17;5
+1 - Maladies infectieuses et parasitaires (001-139);121;Autres infections à trématodes;0;0
+1 - Maladies infectieuses et parasitaires (001-139);122;Échinococcose;47;< 5
+1 - Maladies infectieuses et parasitaires (001-139);123;Autres infections à cestodes;9;6
+1 - Maladies infectieuses et parasitaires (001-139);124;Trichinose;10;0
+1 - Maladies infectieuses et parasitaires (001-139);125;Filariose et dracunculose;< 5;0
+1 - Maladies infectieuses et parasitaires (001-139);126;Ankylostomiase et nécatoriose;0;< 5
+1 - Maladies infectieuses et parasitaires (001-139);127;Autres helminthiases intestinales;31;37
+1 - Maladies infectieuses et parasitaires (001-139);128;Helminthiases, autres et non spécifiées;0;< 5
+1 - Maladies infectieuses et parasitaires (001-139);129;Parasitose intestinale, non spécifiée;18;6
+1 - Maladies infectieuses et parasitaires (001-139);130;Toxoplasmose;28;17
+1 - Maladies infectieuses et parasitaires (001-139);131;Trichomonase;< 5;< 5
+1 - Maladies infectieuses et parasitaires (001-139);132;Pédiculose et infestation par phtirius;7;0
+1 - Maladies infectieuses et parasitaires (001-139);133;Acariase;84;0
+1 - Maladies infectieuses et parasitaires (001-139);134;Autres infestations;< 5;5
+1 - Maladies infectieuses et parasitaires (001-139);135;Sarcoïdose;499;249
+1 - Maladies infectieuses et parasitaires (001-139);136;Maladies infectieuses et parasitaires, autres et non spécifiées;1163;22
+1 - Maladies infectieuses et parasitaires (001-139);137;Séquelles de la tuberculose;19;6
+1 - Maladies infectieuses et parasitaires (001-139);138;Séquelles de la poliomyélite aiguë;7;0
+1 - Maladies infectieuses et parasitaires (001-139);139;Séquelles d'autres maladies infectieuses et parasitaires;13;< 5
+1 - Maladies infectieuses et parasitaires (001-139);;;51198;5842
+2 - Néoplasmes (140-239);140;Néoplasme malin des lèvres;51;44
+2 - Néoplasmes (140-239);141;Néoplasme malin de la langue;619;272
+2 - Néoplasmes (140-239);142;Néoplasme malin des glandes salivaires principales;197;27
+2 - Néoplasmes (140-239);143;Néoplasme malin des gencives;96;36
+2 - Néoplasmes (140-239);144;Néoplasme malin du plancher buccal;341;69
+2 - Néoplasmes (140-239);145;Néoplasme malin de parties de la bouche autres et non spécifiées;242;118
+2 - Néoplasmes (140-239);146;Néoplasme malin de l'oropharynx;541;275
+2 - Néoplasmes (140-239);147;Néoplasme malin du nasopharynx;97;59
+2 - Néoplasmes (140-239);148;Néoplasme malin de l'hypopharynx;397;224
+2 - Néoplasmes (140-239);149;Néoplasme malin de sites autres et mal définis de la lèvre, de la cavité buccale et du pharynx;64;40
+2 - Néoplasmes (140-239);150;Néoplasme malin de l'œsophage;1307;610
+2 - Néoplasmes (140-239);151;Néoplasme malin de l'estomac;2141;784
+2 - Néoplasmes (140-239);152;Néoplasme malin de l'intestin grêle, y compris le duodénum;247;68
+2 - Néoplasmes (140-239);153;Néoplasme malin du côlon;7476;4042
+2 - Néoplasmes (140-239);154;Néoplasme malin du rectum, de la jonction recto-sigmoïdienne et de l'anus;4289;2818
+2 - Néoplasmes (140-239);155;Néoplasme malin du foie et des voies biliaires intrahépatiques;1922;332
+2 - Néoplasmes (140-239);156;Néoplasme malin de la vésicule biliaire et des voies biliaires extrahépatiques;624;106
+2 - Néoplasmes (140-239);157;Néoplasme malin du pancréas;2690;936
+2 - Néoplasmes (140-239);158;Néoplasme malin du rétropéritoine et du péritoine;204;53
+2 - Néoplasmes (140-239);159;Néoplasme malin de sites autres et mal définis des organes digestifs et du péritoine;49;10
+2 - Néoplasmes (140-239);160;Néoplasme malin des fosses nasales, de l'oreille moyenne et des sinus annexes;216;34
+2 - Néoplasmes (140-239);161;Néoplasme malin du larynx;604;454
+2 - Néoplasmes (140-239);162;Néoplasme malin de la trachée, des bronches et du poumon;10042;4083
+2 - Néoplasmes (140-239);163;Néoplasme malin de la plèvre;441;72
+2 - Néoplasmes (140-239);164;Néoplasme malin du thymus, du cœur et du médiastin;164;21
+2 - Néoplasmes (140-239);165;Néoplasme malin de sites autres et mal définis du système respiratoire et des organes intrathoraciques;0;< 5
+2 - Néoplasmes (140-239);170;Néoplasme malin des os et du cartilage articulaire;303;143
+2 - Néoplasmes (140-239);171;Néoplasme malin du tissu conjonctif et d'autres tissus mous;670;219
+2 - Néoplasmes (140-239);172;Mélanome malin de la peau;1145;743
+2 - Néoplasmes (140-239);173;Autres néoplasmes malins de la peau;1634;3879
+2 - Néoplasmes (140-239);174;Néoplasme malin du sein féminin;12091;4168
+2 - Néoplasmes (140-239);175;Néoplasme malin du sein masculin;104;34
+2 - Néoplasmes (140-239);176;Sarcome de Kaposi;8;10
+2 - Néoplasmes (140-239);179;Néoplasme malin de l'utérus, partie non spécifiée;117;32
+2 - Néoplasmes (140-239);180;Néoplasme malin du col de l'utérus;929;368
+2 - Néoplasmes (140-239);181;Néoplasme malin du placenta;9;0
+2 - Néoplasmes (140-239);182;Néoplasme malin du corps de l'utérus;1599;586
+2 - Néoplasmes (140-239);183;Néoplasme malin de l'ovaire et des autres annexes utérines;1567;480
+2 - Néoplasmes (140-239);184;Néoplasme malin d'organes génitaux féminins autres et non spécifiés;405;118
+2 - Néoplasmes (140-239);185;Néoplasme malin de la prostate;5827;1942
+2 - Néoplasmes (140-239);186;Néoplasme malin du testicule;338;119
+2 - Néoplasmes (140-239);187;Néoplasme malin de la verge et d'autres organes génitaux masculins;103;36
+2 - Néoplasmes (140-239);188;Néoplasme malin de la vessie;6237;2629
+2 - Néoplasmes (140-239);189;Néoplasme malin du rein et d'organes urinaires autres et non spécifiés;2712;331
+2 - Néoplasmes (140-239);190;Néoplasme malin de l'œil;168;153
+2 - Néoplasmes (140-239);191;Néoplasme malin du cerveau;2210;265
+2 - Néoplasmes (140-239);192;Néoplasme malin de parties autres et non spécifiées du système nerveux;172;67
+2 - Néoplasmes (140-239);193;Néoplasme malin de la glande thyroïde;1650;19
+2 - Néoplasmes (140-239);194;Néoplasme malin d'autres glandes endocrines et structures apparentées;143;88
+2 - Néoplasmes (140-239);195;Néoplasme malin de sites autres et mal définis;138;67
+2 - Néoplasmes (140-239);196;Néoplasme malin secondaire et non spécifié des ganglions lymphatiques;1796;725
+2 - Néoplasmes (140-239);197;Néoplasme malin secondaire des systèmes respiratoire et digestif;5799;1642
+2 - Néoplasmes (140-239);198;Néoplasme malin secondaire d'autres sites spécifiés;5168;1272
+2 - Néoplasmes (140-239);199;Néoplasme malin sans spécification du site;481;160
+2 - Néoplasmes (140-239);200;Lymphosarcome et réticulosarcome et autres tumeurs malignes spécifiées du tissu lymphatique;803;888
+2 - Néoplasmes (140-239);201;Maladie de Hodgkin;378;502
+2 - Néoplasmes (140-239);202;Autres néoplasmes malins des tissus lymphoïde et histiocytaire;2115;2044
+2 - Néoplasmes (140-239);203;Myélome multiple et néoplasmes immunoprolifératifs;1193;1917
+2 - Néoplasmes (140-239);204;Leucémie lymphoïde;819;1782
+2 - Néoplasmes (140-239);205;Leucémie myéloïde;1219;3006
+2 - Néoplasmes (140-239);206;Leucémie monocytaire;35;67
+2 - Néoplasmes (140-239);207;Autres leucémies spécifiées;19;43
+2 - Néoplasmes (140-239);208;Leucémie de type cellulaire non spécifié;59;47
+2 - Néoplasmes (140-239);209;Tumeurs neuro-endocrines;1332;471
+2 - Néoplasmes (140-239);210;Néoplasme bénin de la lèvre, de la cavité buccale et du pharynx;824;628
+2 - Néoplasmes (140-239);211;Néoplasmes bénins d'autres parties du système digestif;5510;47287
+2 - Néoplasmes (140-239);212;Néoplasme bénin d'organes respiratoires et intrathoraciques;301;285
+2 - Néoplasmes (140-239);213;Néoplasme bénin des os et du cartilage articulaire;504;1078
+2 - Néoplasmes (140-239);214;Lipome;822;5953
+2 - Néoplasmes (140-239);215;Autres néoplasmes bénins du tissu conjonctif et d'autres tissus mous;345;757
+2 - Néoplasmes (140-239);216;Néoplasme bénin de la peau;186;2805
+2 - Néoplasmes (140-239);217;Néoplasme bénin du sein;476;1434
+2 - Néoplasmes (140-239);218;Léiomyome utérin;5393;1315
+2 - Néoplasmes (140-239);219;Autres néoplasmes bénins de l'utérus;197;112
+2 - Néoplasmes (140-239);220;Néoplasme bénin de l'ovaire;2296;454
+2 - Néoplasmes (140-239);221;Néoplasme bénin d'autres organes génitaux féminins;114;120
+2 - Néoplasmes (140-239);222;Néoplasme bénin des organes génitaux masculins;34;64
+2 - Néoplasmes (140-239);223;Néoplasme bénin du rein et d'autres organes urinaires;304;104
+2 - Néoplasmes (140-239);224;Néoplasme bénin de l'œil;16;80
+2 - Néoplasmes (140-239);225;Néoplasme bénin du cerveau et d'autres parties du système nerveux;1319;42
+2 - Néoplasmes (140-239);226;Néoplasme bénin de la glande thyroïde;752;7
+2 - Néoplasmes (140-239);227;Néoplasme bénin d'autres glandes endocrines et structures apparentées;1108;46
+2 - Néoplasmes (140-239);228;Hémangiomes et lymphangiomes, tout site;667;872
+2 - Néoplasmes (140-239);229;Néoplasmes bénins de sites autres et non spécifiés;37;136
+2 - Néoplasmes (140-239);230;Carcinomes in situ du système digestif;428;409
+2 - Néoplasmes (140-239);231;Carcinome in situ du système respiratoire;57;83
+2 - Néoplasmes (140-239);232;Carcinome in situ de la peau;88;212
+2 - Néoplasmes (140-239);233;Carcinome in situ du sein et du système génito-urinaire;3652;3943
+2 - Néoplasmes (140-239);234;Carcinome in situ de sites autres et non spécifiés;5;14
+2 - Néoplasmes (140-239);235;Néoplasmes à évolution imprévisible des systèmes digestif et respiratoire;635;1352
+2 - Néoplasmes (140-239);236;Néoplasmes à évolution imprévisible des organes génito-urinaires;1156;1992
+2 - Néoplasmes (140-239);237;Néoplasme à évolution imprévisible des glandes endocrines et du système nerveux;343;80
+2 - Néoplasmes (140-239);238;Néoplasmes à évolution imprévisible de sites et tissus autres et non spécifiés;1321;11842
+2 - Néoplasmes (140-239);239;Néoplasme de nature non spécifiée;994;1155
+2 - Néoplasmes (140-239);;;126440;131311
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);240;Goitre simple ou non spécifié;122;8
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);241;Goitre nodulaire non toxique;3571;14
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);242;Thyréotoxicose avec ou sans goitre;1543;16
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);243;Hypothyroïdie congénitale;7;< 5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);244;Hypothyroïdie acquise;174;12
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);245;Thyroïdite;197;5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);246;Autres troubles de la thyroïde;96;6
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);249;Diabète sucré secondaire;539;11
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);250;Diabète sucré;17145;418
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);251;Autres troubles de la sécrétion pancréatique interne;355;< 5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);252;Troubles de la glande parathyroïde;266;5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);253;Troubles de l'hypophyse et de son contrôle hypothalamique;443;14
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);254;Maladies du thymus;15;< 5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);255;Troubles des glandes surrénales;449;10
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);256;Dysfonction ovarienne;178;111
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);257;Dysfonction testiculaire;6;< 5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);258;Dysfonction pluriglandulaire et troubles apparentés;19;19
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);259;Autres troubles endocriniens;38;17
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);260;Kwashiorkor;6;0
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);261;Marasme nutritionnel;25;< 5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);262;Autre malnutrition protéino-calorique sévère;295;< 5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);263;Malnutritions protéino-caloriques, autres et non spécifiées;367;8
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);264;Carence en vitamine A;0;0
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);265;États de carence en thiamine et niacine;125;< 5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);266;Carence en composants du complexe de vitamines B;39;46
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);267;Carence en acide ascorbique (vitamine C);0;0
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);268;Carence en vitamine D;63;< 5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);269;Autres carences nutritionnelles;45;644
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);270;Troubles du métabolisme et du transport des acides aminés;118;5
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);271;Troubles du transport et du métabolisme des hydrates de carbone;223;191
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);272;Troubles du métabolisme des lipides;98;181
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);273;Troubles du métabolisme des protéines plasmatiques;273;420
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);274;Goutte;780;221
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);275;Troubles du métabolisme des minéraux;590;235
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);276;Troubles de l'équilibre liquidien, électrolytique et acido-basique;11794;29
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);277;Troubles du métabolisme, autres et non spécifiés;987;254
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);278;Excès pondéral, obésité et autres formes de suralimentation;18745;756
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);279;Troubles impliquant le mécanisme immunitaire;306;576
+3 - Maladies endocrines, nutritionnelles et métaboliques et troubles immunitaires (240-279);;;60042;4252
+4 - Maladies du sang et des organes hématopoïétiques (280-289);280;Anémies ferriprives;4745;4418
+4 - Maladies du sang et des organes hématopoïétiques (280-289);281;Autres anémies par carence;544;279
+4 - Maladies du sang et des organes hématopoïétiques (280-289);282;Anémies hémolytiques héréditaires;924;1979
+4 - Maladies du sang et des organes hématopoïétiques (280-289);283;Anémies hémolytiques acquises;302;479
+4 - Maladies du sang et des organes hématopoïétiques (280-289);284;Anémie aplastique et autres syndromes d'insuffisance médullaire;819;2110
+4 - Maladies du sang et des organes hématopoïétiques (280-289);285;Anémies, autres et non spécifiées;3355;11104
+4 - Maladies du sang et des organes hématopoïétiques (280-289);286;Anomalies de la coagulation;98;155
+4 - Maladies du sang et des organes hématopoïétiques (280-289);287;Purpura et autres affections hémorragiques;1256;1634
+4 - Maladies du sang et des organes hématopoïétiques (280-289);288;Maladies des globules blancs;3032;136
+4 - Maladies du sang et des organes hématopoïétiques (280-289);289;Autres maladies du sang et des organes hématopoïétiques;1456;421
+4 - Maladies du sang et des organes hématopoïétiques (280-289);;;16531;22715
+5 - Troubles mentaux (290-319);290;Démences;3558;9
+5 - Troubles mentaux (290-319);291;Troubles mentaux induits par l'alcool;1783;< 5
+5 - Troubles mentaux (290-319);292;Troubles mentaux induits par la drogue;1060;< 5
+5 - Troubles mentaux (290-319);293;Troubles mentaux transitoires dus à des affections classées ailleurs;228;< 5
+5 - Troubles mentaux (290-319);294;Troubles mentaux persistants spécifiques dus à des affections classées ailleurs;415;6
+5 - Troubles mentaux (290-319);295;Troubles schizophréniques;409;28
+5 - Troubles mentaux (290-319);296;Troubles épisodiques de l'humeur;2930;806
+5 - Troubles mentaux (290-319);297;États délirants;267;0
+5 - Troubles mentaux (290-319);298;Autres psychoses non organiques;1786;< 5
+5 - Troubles mentaux (290-319);299;Troubles développementaux envahissants;127;48
+5 - Troubles mentaux (290-319);300;Anxiété, troubles dissociatifs et somatoformes;3778;25
+5 - Troubles mentaux (290-319);301;Troubles de la personnalité;481;0
+5 - Troubles mentaux (290-319);302;Troubles sexuels et de l'identité de genre;218;27
+5 - Troubles mentaux (290-319);303;Syndrome de dépendance alcoolique;6837;257
+5 - Troubles mentaux (290-319);304;Pharmacodépendance;618;0
+5 - Troubles mentaux (290-319);305;Abus de drogues sans dépendance;3284;77
+5 - Troubles mentaux (290-319);306;Dysfonctions physiologiques psychogènes;1511;170
+5 - Troubles mentaux (290-319);307;Symptômes ou syndromes spéciaux, non classés ailleurs;3497;94
+5 - Troubles mentaux (290-319);308;Réaction aiguë au stress;562;8
+5 - Troubles mentaux (290-319);309;Réaction d'adaptation;2140;6
+5 - Troubles mentaux (290-319);310;Troubles mentaux spécifiques non psychotiques dus à une lésion cérébrale organique;423;< 5
+5 - Troubles mentaux (290-319);311;Troubles dépressifs, non classés ailleurs;1876;153
+5 - Troubles mentaux (290-319);312;Troubles du comportement, non classés ailleurs;644;26
+5 - Troubles mentaux (290-319);313;Troubles de l'affectivité spécifiques de l'enfance et de l'adolescence;152;< 5
+5 - Troubles mentaux (290-319);314;Syndrome hyperkinétique de l'enfance;55;7
+5 - Troubles mentaux (290-319);315;Retards spécifiques du développement;301;307
+5 - Troubles mentaux (290-319);316;Facteurs psychiques associés à des maladies classées ailleurs;66;0
+5 - Troubles mentaux (290-319);317;Retard mental léger;21;5
+5 - Troubles mentaux (290-319);318;Autre retard mental spécifié;37;9
+5 - Troubles mentaux (290-319);319;Retard mental de niveau non spécifié;58;36
+5 - Troubles mentaux (290-319);;;39122;2117
+6 - Maladies du système nerveux et des organes des sens (320-389);320;Méningite bactérienne;291;0
+6 - Maladies du système nerveux et des organes des sens (320-389);321;Méningite due à d'autres organismes;< 5;0
+6 - Maladies du système nerveux et des organes des sens (320-389);322;Méningite de cause non spécifiée;113;< 5
+6 - Maladies du système nerveux et des organes des sens (320-389);323;Encéphalite, myélite et encéphalomyélite;255;15
+6 - Maladies du système nerveux et des organes des sens (320-389);324;Abcès intracrânien et intrarachidien;106;< 5
+6 - Maladies du système nerveux et des organes des sens (320-389);325;Phlébite et thrombophlébite de sinus veineux intracrâniens;86;< 5
+6 - Maladies du système nerveux et des organes des sens (320-389);326;Séquelles d'abcès intracrânien ou d'infection pyogène;5;< 5
+6 - Maladies du système nerveux et des organes des sens (320-389);327;Troubles organiques du sommeil;52757;696
+6 - Maladies du système nerveux et des organes des sens (320-389);330;Dégénérescences cérébrales se manifestant en général pendant l'enfance;51;6
+6 - Maladies du système nerveux et des organes des sens (320-389);331;Autres dégénérescences cérébrales;9051;56
+6 - Maladies du système nerveux et des organes des sens (320-389);332;Maladie de Parkinson;2597;29
+6 - Maladies du système nerveux et des organes des sens (320-389);333;Autres maladies extrapyramidales et troubles accompagnés de mouvements anormaux;1813;26
+6 - Maladies du système nerveux et des organes des sens (320-389);334;Maladies spinocérébelleuses;181;< 5
+6 - Maladies du système nerveux et des organes des sens (320-389);335;Maladies des cellules de la corne antérieure de la moelle;612;13
+6 - Maladies du système nerveux et des organes des sens (320-389);336;Autres maladies de la moelle épinière;144;28
+6 - Maladies du système nerveux et des organes des sens (320-389);337;Troubles du système nerveux autonome;271;202
+6 - Maladies du système nerveux et des organes des sens (320-389);338;Douleur, non classée ailleurs;5462;107562
+6 - Maladies du système nerveux et des organes des sens (320-389);339;Autres syndromes de céphalée;1008;145
+6 - Maladies du système nerveux et des organes des sens (320-389);340;Sclérose en plaques;2092;436
+6 - Maladies du système nerveux et des organes des sens (320-389);341;Autres maladies démyélinisantes du système nerveux central;238;28
+6 - Maladies du système nerveux et des organes des sens (320-389);342;Hémiplégie et hémiparésie;256;24
+6 - Maladies du système nerveux et des organes des sens (320-389);343;Paralysie cérébrale infantile;247;231
+6 - Maladies du système nerveux et des organes des sens (320-389);344;Autres syndromes paralytiques;481;57
+6 - Maladies du système nerveux et des organes des sens (320-389);345;Épilepsie et attaques récurrentes;14323;219
+6 - Maladies du système nerveux et des organes des sens (320-389);346;Migraine;2843;23
+6 - Maladies du système nerveux et des organes des sens (320-389);347;Cataplexie et narcolepsie;121;< 5
+6 - Maladies du système nerveux et des organes des sens (320-389);348;Autres affections cérébrales;1084;89
+6 - Maladies du système nerveux et des organes des sens (320-389);349;Troubles du système nerveux, autres et non spécifiés;846;113
+6 - Maladies du système nerveux et des organes des sens (320-389);350;Troubles du nerf trijumeau (cinquième nerf crânien);522;177
+6 - Maladies du système nerveux et des organes des sens (320-389);351;Troubles du nerf facial (septième nerf crânien);476;29
+6 - Maladies du système nerveux et des organes des sens (320-389);352;Troubles d'autres nerfs crâniens;59;10
+6 - Maladies du système nerveux et des organes des sens (320-389);353;Troubles des racines et du plexus nerveux;513;422
+6 - Maladies du système nerveux et des organes des sens (320-389);354;Mononévrites du membre supérieur et mononévrites multiples;1245;33789
+6 - Maladies du système nerveux et des organes des sens (320-389);355;Mononévrite du membre inférieur;691;1440
+6 - Maladies du système nerveux et des organes des sens (320-389);356;Neuropathie périphérique héréditaire ou idiopathique;701;72
+6 - Maladies du système nerveux et des organes des sens (320-389);357;Neuropathie inflammatoire ou toxique;2017;212
+6 - Maladies du système nerveux et des organes des sens (320-389);358;Troubles neuromusculaires;308;27
+6 - Maladies du système nerveux et des organes des sens (320-389);359;Dystrophies musculaires et autres myopathies;353;35
+6 - Maladies du système nerveux et des organes des sens (320-389);360;Troubles du globe oculaire;205;110
+6 - Maladies du système nerveux et des organes des sens (320-389);361;Décollement et anomalies de la rétine;2202;889
+6 - Maladies du système nerveux et des organes des sens (320-389);362;Autres troubles de rétine;1690;991
+6 - Maladies du système nerveux et des organes des sens (320-389);363;Chorio-rétinite, cicatrices chorio-rétiniennes et autres troubles de la choroïde;24;14
+6 - Maladies du système nerveux et des organes des sens (320-389);364;Troubles de l'iris et du corps ciliaire;91;141
+6 - Maladies du système nerveux et des organes des sens (320-389);365;Glaucome;950;1049
+6 - Maladies du système nerveux et des organes des sens (320-389);366;Cataracte;3297;118005
+6 - Maladies du système nerveux et des organes des sens (320-389);367;Troubles de la réfraction et de l'accommodation;17;176
+6 - Maladies du système nerveux et des organes des sens (320-389);368;Troubles de la vision;449;48
+6 - Maladies du système nerveux et des organes des sens (320-389);369;Cécité et baisse de vision;65;218
+6 - Maladies du système nerveux et des organes des sens (320-389);370;Kératite;253;26
+6 - Maladies du système nerveux et des organes des sens (320-389);371;Opacité cornéenne et autres troubles de cornée;494;184
+6 - Maladies du système nerveux et des organes des sens (320-389);372;Troubles de la conjonctive;111;707
+6 - Maladies du système nerveux et des organes des sens (320-389);373;Inflammations des paupières;109;612
+6 - Maladies du système nerveux et des organes des sens (320-389);374;Autres troubles des paupières;273;9121
+6 - Maladies du système nerveux et des organes des sens (320-389);375;Troubles du système lacrymal;373;1228
+6 - Maladies du système nerveux et des organes des sens (320-389);376;Troubles de l'orbite;351;46
+6 - Maladies du système nerveux et des organes des sens (320-389);377;Troubles du nerf et des voies optiques;374;20
+6 - Maladies du système nerveux et des organes des sens (320-389);378;Strabisme et autres troubles des mouvements binoculaires;333;3631
+6 - Maladies du système nerveux et des organes des sens (320-389);379;Autres troubles de l'œil;1262;1154
+6 - Maladies du système nerveux et des organes des sens (320-389);380;Troubles de l'oreille externe;337;768
+6 - Maladies du système nerveux et des organes des sens (320-389);381;Otite moyenne non suppurative et troubles de la trompe d'Eustache;605;17811
+6 - Maladies du système nerveux et des organes des sens (320-389);382;Otite moyenne suppurative ou de forme non spécifiée;1653;4875
+6 - Maladies du système nerveux et des organes des sens (320-389);383;Mastoïdite et affections apparentées;387;39
+6 - Maladies du système nerveux et des organes des sens (320-389);384;Autres troubles de la membrane tympanique;1380;1192
+6 - Maladies du système nerveux et des organes des sens (320-389);385;Autres troubles de l'oreille moyenne et de la mastoïde;1338;481
+6 - Maladies du système nerveux et des organes des sens (320-389);386;Syndromes vertigineux et autres troubles du système vestibulaire;4111;134
+6 - Maladies du système nerveux et des organes des sens (320-389);387;Otosclérose;636;53
+6 - Maladies du système nerveux et des organes des sens (320-389);388;Autres troubles de l'oreille;226;251
+6 - Maladies du système nerveux et des organes des sens (320-389);389;Surdité;756;451
+6 - Maladies du système nerveux et des organes des sens (320-389);;;128572;310646
+7 - Maladies de l'appareil circulatoire (390-459);390;Rhumatisme articulaire aigu, sans mention de complication cardiaque;17;< 5
+7 - Maladies de l'appareil circulatoire (390-459);391;Rhumatisme articulaire aigu, avec complication cardiaque;15;< 5
+7 - Maladies de l'appareil circulatoire (390-459);392;Chorée rhumatismale;< 5;0
+7 - Maladies de l'appareil circulatoire (390-459);393;Péricardite rhumatismale chronique;< 5;0
+7 - Maladies de l'appareil circulatoire (390-459);394;Maladies rhumatismales de la valve mitrale;129;5
+7 - Maladies de l'appareil circulatoire (390-459);395;Maladies rhumatismales de la valve aortique;35;< 5
+7 - Maladies de l'appareil circulatoire (390-459);396;Maladies rhumatismales des valves mitrale et aortique;63;13
+7 - Maladies de l'appareil circulatoire (390-459);397;Maladies rhumatismales d'autres structures endocardiques;7;0
+7 - Maladies de l'appareil circulatoire (390-459);398;Autres cardiopathies rhumatismales;38;0
+7 - Maladies de l'appareil circulatoire (390-459);401;Hypertension essentielle;2410;63
+7 - Maladies de l'appareil circulatoire (390-459);402;Cardiopathie hypertensive;1365;22
+7 - Maladies de l'appareil circulatoire (390-459);403;Néphropathie due à l'hypertension artérielle;2267;158
+7 - Maladies de l'appareil circulatoire (390-459);404;Cardiopathie hypertensive et néphropathie chronique;1713;24
+7 - Maladies de l'appareil circulatoire (390-459);405;Hypertension secondaire;59;< 5
+7 - Maladies de l'appareil circulatoire (390-459);410;Infarctus aigu du myocarde;17925;719
+7 - Maladies de l'appareil circulatoire (390-459);411;Autres formes aiguës et subaiguës de cardiopathie ischémique;1416;207
+7 - Maladies de l'appareil circulatoire (390-459);412;Infarctus ancien du myocarde;19;< 5
+7 - Maladies de l'appareil circulatoire (390-459);413;Angine de poitrine;2418;559
+7 - Maladies de l'appareil circulatoire (390-459);414;Autres formes de cardiopathie ischémique chronique;35163;9899
+7 - Maladies de l'appareil circulatoire (390-459);415;Maladie cardio-pulmonaire aiguë;5487;16
+7 - Maladies de l'appareil circulatoire (390-459);416;Maladie cardio-pulmonaire chronique;933;46
+7 - Maladies de l'appareil circulatoire (390-459);417;Autres maladies de la circulation pulmonaire;28;< 5
+7 - Maladies de l'appareil circulatoire (390-459);420;Péricardite aiguë;1295;7
+7 - Maladies de l'appareil circulatoire (390-459);421;Endocardites aiguë et subaiguë;416;< 5
+7 - Maladies de l'appareil circulatoire (390-459);422;Myocardite aiguë;244;8
+7 - Maladies de l'appareil circulatoire (390-459);423;Autres maladies du péricarde;763;18
+7 - Maladies de l'appareil circulatoire (390-459);424;Autres maladies de l'endocarde;7642;700
+7 - Maladies de l'appareil circulatoire (390-459);425;Cardiomyopathie;1164;176
+7 - Maladies de l'appareil circulatoire (390-459);426;Troubles de la conduction;4497;128
+7 - Maladies de l'appareil circulatoire (390-459);427;Dysrythmies cardiaques;35336;5754
+7 - Maladies de l'appareil circulatoire (390-459);428;Insuffisance cardiaque;24228;189
+7 - Maladies de l'appareil circulatoire (390-459);429;Symptômes et complications mal définies de cardiopathie;952;142
+7 - Maladies de l'appareil circulatoire (390-459);430;Hémorragie sous-arachnoïdienne;967;27
+7 - Maladies de l'appareil circulatoire (390-459);431;Hémorragie intracérébrale;2707;15
+7 - Maladies de l'appareil circulatoire (390-459);432;Hémorragies intracrâniennes, autres et non spécifiées;1025;10
+7 - Maladies de l'appareil circulatoire (390-459);433;Occlusion et sténose des artères précérébrales;5091;95
+7 - Maladies de l'appareil circulatoire (390-459);434;Occlusion des artères cérébrales;15678;11
+7 - Maladies de l'appareil circulatoire (390-459);435;Ischémie cérébrale transitoire;7206;50
+7 - Maladies de l'appareil circulatoire (390-459);436;Maladie cérébro-vasculaire aiguë mais mal définie;75;< 5
+7 - Maladies de l'appareil circulatoire (390-459);437;Maladies cérébro-vasculaires, autres et mal définies;2445;284
+7 - Maladies de l'appareil circulatoire (390-459);438;Séquelles d'une maladie cérébro-vasculaire;1061;61
+7 - Maladies de l'appareil circulatoire (390-459);440;Athérosclérose;18614;1432
+7 - Maladies de l'appareil circulatoire (390-459);441;Anévrisme et dissection de l'aorte;2847;80
+7 - Maladies de l'appareil circulatoire (390-459);442;Autres anévrismes;751;59
+7 - Maladies de l'appareil circulatoire (390-459);443;Autres maladies vasculaires périphériques;351;79
+7 - Maladies de l'appareil circulatoire (390-459);444;Embolie et thrombose artérielles;2229;63
+7 - Maladies de l'appareil circulatoire (390-459);445;Athéro-embolie;48;< 5
+7 - Maladies de l'appareil circulatoire (390-459);446;Polyartérite noueuse et affections apparentées;787;292
+7 - Maladies de l'appareil circulatoire (390-459);447;Autres troubles des artères et des artérioles;525;177
+7 - Maladies de l'appareil circulatoire (390-459);448;Maladie des capillaires;92;286
+7 - Maladies de l'appareil circulatoire (390-459);449;Embolie artérielle septique;< 5;0
+7 - Maladies de l'appareil circulatoire (390-459);451;Phlébite et thrombophlébite;1145;40
+7 - Maladies de l'appareil circulatoire (390-459);452;Thrombose de la veine porte;110;9
+7 - Maladies de l'appareil circulatoire (390-459);453;Autres embolies et thromboses veineuses;923;96
+7 - Maladies de l'appareil circulatoire (390-459);454;Varices des membres inférieurs;2776;21731
+7 - Maladies de l'appareil circulatoire (390-459);455;Hémorroïdes;4006;9086
+7 - Maladies de l'appareil circulatoire (390-459);456;Varices d'autres sites;286;1981
+7 - Maladies de l'appareil circulatoire (390-459);457;Troubles non infectieux des vaisseaux lymphatiques;520;36
+7 - Maladies de l'appareil circulatoire (390-459);458;Hypotension;4118;6
+7 - Maladies de l'appareil circulatoire (390-459);459;Autres troubles du système circulatoire;1409;2828
+7 - Maladies de l'appareil circulatoire (390-459);;;225843;57706
+8 - Maladies de l'appareil respiratoire (460-519);460;Rhinopharyngite aiguë (rhume ordinaire);1411;< 5
+8 - Maladies de l'appareil respiratoire (460-519);461;Sinusite aiguë;729;73
+8 - Maladies de l'appareil respiratoire (460-519);462;Pharyngite aiguë;1419;16
+8 - Maladies de l'appareil respiratoire (460-519);463;Amygdalite aiguë;2988;400
+8 - Maladies de l'appareil respiratoire (460-519);464;Laryngite et trachéite aiguës;694;104
+8 - Maladies de l'appareil respiratoire (460-519);465;Infections aiguës des voies respiratoires supérieures de sites multiples ou non spécifiés;3069;125
+8 - Maladies de l'appareil respiratoire (460-519);466;Bronchite et bronchiolite aiguës;19348;118
+8 - Maladies de l'appareil respiratoire (460-519);470;Déviation de la cloison nasale;5556;3448
+8 - Maladies de l'appareil respiratoire (460-519);471;Polypes du nez;853;427
+8 - Maladies de l'appareil respiratoire (460-519);472;Pharyngite et rhinopharyngite chroniques;214;277
+8 - Maladies de l'appareil respiratoire (460-519);473;Sinusite chronique;3942;2619
+8 - Maladies de l'appareil respiratoire (460-519);474;Affection chronique des amygdales et des végétations adénoïdes;6199;27010
+8 - Maladies de l'appareil respiratoire (460-519);475;Abcès péritonsillaire;1447;70
+8 - Maladies de l'appareil respiratoire (460-519);476;Laryngite et laryngo-trachéite chroniques;18;56
+8 - Maladies de l'appareil respiratoire (460-519);477;Rhinite allergique;73;49
+8 - Maladies de l'appareil respiratoire (460-519);478;Autres maladies des voies respiratoires supérieures;3099;4989
+8 - Maladies de l'appareil respiratoire (460-519);480;Pneumonie à virus;1158;< 5
+8 - Maladies de l'appareil respiratoire (460-519);481;Pneumonie à pneumocoques;1173;13
+8 - Maladies de l'appareil respiratoire (460-519);482;Autres pneumonies bactériennes;5023;53
+8 - Maladies de l'appareil respiratoire (460-519);483;Pneumonie due à d'autres organismes spécifiés;1650;6
+8 - Maladies de l'appareil respiratoire (460-519);484;Pneumonie au cours d'autres maladies infectieuses classées ailleurs;7;< 5
+8 - Maladies de l'appareil respiratoire (460-519);485;Broncho-pneumonie due à un organisme non spécifié;6312;29
+8 - Maladies de l'appareil respiratoire (460-519);486;Pneumonie due à un organisme non spécifié;20214;174
+8 - Maladies de l'appareil respiratoire (460-519);487;Influenza;1943;6
+8 - Maladies de l'appareil respiratoire (460-519);488;Influenza due à certains virus identifiés de l'influenza;122;0
+8 - Maladies de l'appareil respiratoire (460-519);490;Bronchite, non spécifiée aiguë ni chronique;1176;160
+8 - Maladies de l'appareil respiratoire (460-519);491;Bronchite chronique;28020;638
+8 - Maladies de l'appareil respiratoire (460-519);492;Emphysème;162;20
+8 - Maladies de l'appareil respiratoire (460-519);493;Asthme;6505;122
+8 - Maladies de l'appareil respiratoire (460-519);494;Bronchectasie;695;196
+8 - Maladies de l'appareil respiratoire (460-519);495;Alvéolite allergique extrinsèque;111;28
+8 - Maladies de l'appareil respiratoire (460-519);496;Obstruction chronique des voies respiratoires, non classée ailleurs;8;17
+8 - Maladies de l'appareil respiratoire (460-519);500;Pneumoconiose des ouvriers de la mine;72;31
+8 - Maladies de l'appareil respiratoire (460-519);501;Asbestose;25;5
+8 - Maladies de l'appareil respiratoire (460-519);502;Pneumoconiose due à d'autres silicates ou silices;22;7
+8 - Maladies de l'appareil respiratoire (460-519);503;Pneumoconiose due à d'autres poussières inorganiques;< 5;0
+8 - Maladies de l'appareil respiratoire (460-519);504;Pneumopathie due à l'inhalation d'autres poussières;< 5;0
+8 - Maladies de l'appareil respiratoire (460-519);505;Pneumoconiose, non spécifiée;6;0
+8 - Maladies de l'appareil respiratoire (460-519);506;Affections respiratoires dues aux fumées et vapeurs chimiques;41;6
+8 - Maladies de l'appareil respiratoire (460-519);507;Pneumonie due aux substances solides et liquides;3522;8
+8 - Maladies de l'appareil respiratoire (460-519);508;Affections respiratoires dues à des agents externes autres et non spécifiés;133;21
+8 - Maladies de l'appareil respiratoire (460-519);510;Empyème;360;23
+8 - Maladies de l'appareil respiratoire (460-519);511;Pleurésie;2565;115
+8 - Maladies de l'appareil respiratoire (460-519);512;Pneumothorax;2018;< 5
+8 - Maladies de l'appareil respiratoire (460-519);513;Abcès du poumon et du médiastin;257;23
+8 - Maladies de l'appareil respiratoire (460-519);514;Congestion pulmonaire et hypostase;30;< 5
+8 - Maladies de l'appareil respiratoire (460-519);515;Fibrose pulmonaire postinflammatoire;634;78
+8 - Maladies de l'appareil respiratoire (460-519);516;Autres pneumopathies alvéolaires et pariéto-alvéolaires;833;61
+8 - Maladies de l'appareil respiratoire (460-519);517;Affection pulmonaire lors de maladies classées ailleurs;< 5;< 5
+8 - Maladies de l'appareil respiratoire (460-519);518;Autres maladies pulmonaires;3724;927
+8 - Maladies de l'appareil respiratoire (460-519);519;Autres maladies du système respiratoire;2877;604
+8 - Maladies de l'appareil respiratoire (460-519);;;142465;43161
+9 - Maladies de l'appareil digestif (520-579);520;Troubles du développement et de l'éruption des dents;466;67397
+9 - Maladies de l'appareil digestif (520-579);521;Maladies des tissus dentaires durs;489;22979
+9 - Maladies de l'appareil digestif (520-579);522;Maladies de la pulpe et des tissus périapicaux;823;11314
+9 - Maladies de l'appareil digestif (520-579);523;Maladies gingivales et périodontales;289;2044
+9 - Maladies de l'appareil digestif (520-579);524;Anomalies dento-faciales, y compris les malocclusions;3578;5870
+9 - Maladies de l'appareil digestif (520-579);525;Autres maladies et affections des dents et du parodonte;565;15461
+9 - Maladies de l'appareil digestif (520-579);526;Maladies des mâchoires;563;22041
+9 - Maladies de l'appareil digestif (520-579);527;Maladies des glandes salivaires;703;510
+9 - Maladies de l'appareil digestif (520-579);528;Maladies des tissus mous de la bouche, sauf lésions spécifiques des gencives et de la langue;1573;2600
+9 - Maladies de l'appareil digestif (520-579);529;Maladies et autres affections de la langue;82;279
+9 - Maladies de l'appareil digestif (520-579);530;Maladies de l'œsophage;9639;17358
+9 - Maladies de l'appareil digestif (520-579);531;Ulcère gastrique;2566;831
+9 - Maladies de l'appareil digestif (520-579);532;Ulcère du duodénum;1752;262
+9 - Maladies de l'appareil digestif (520-579);533;Ulcère peptique, site non spécifié;60;6
+9 - Maladies de l'appareil digestif (520-579);534;Ulcère gastro-jéjunal;407;134
+9 - Maladies de l'appareil digestif (520-579);535;Gastrite et duodénite;4715;10218
+9 - Maladies de l'appareil digestif (520-579);536;Troubles fonctionnels de l'estomac;2474;1375
+9 - Maladies de l'appareil digestif (520-579);537;Autres troubles de l'estomac et du duodénum;1168;857
+9 - Maladies de l'appareil digestif (520-579);538;Mucosite gastro-intestinale (ulcérée);18;< 5
+9 - Maladies de l'appareil digestif (520-579);540;Appendicite aiguë;13504;63
+9 - Maladies de l'appareil digestif (520-579);541;Appendicite, non qualifiée;442;18
+9 - Maladies de l'appareil digestif (520-579);542;Autres formes d'appendicite;299;23
+9 - Maladies de l'appareil digestif (520-579);543;Autres affections de l'appendice;295;24
+9 - Maladies de l'appareil digestif (520-579);550;Hernie inguinale;14485;8971
+9 - Maladies de l'appareil digestif (520-579);551;Autres hernies abdominales, avec gangrène;104;5
+9 - Maladies de l'appareil digestif (520-579);552;Autres hernies abdominales, avec occlusion mais sans mention de gangrène;1805;165
+9 - Maladies de l'appareil digestif (520-579);553;Autres hernies abdominales sans mention d'occlusion ni de gangrène;10619;6500
+9 - Maladies de l'appareil digestif (520-579);555;Entérite régionale;2604;4760
+9 - Maladies de l'appareil digestif (520-579);556;Colite ulcéreuse;1222;2659
+9 - Maladies de l'appareil digestif (520-579);557;Insuffisance vasculaire intestinale;2199;126
+9 - Maladies de l'appareil digestif (520-579);558;Gastro-entérites et colites non infectieuses, autres et non spécifiées;9461;2496
+9 - Maladies de l'appareil digestif (520-579);560;Occlusion intestinale sans mention de hernie;12092;438
+9 - Maladies de l'appareil digestif (520-579);562;Diverticule de l'intestin;12309;15540
+9 - Maladies de l'appareil digestif (520-579);564;Troubles digestifs fonctionnels, non classés ailleurs;6406;10324
+9 - Maladies de l'appareil digestif (520-579);565;Fissure et fistule anales;1855;4141
+9 - Maladies de l'appareil digestif (520-579);566;Abcès des régions anale et rectale;2329;898
+9 - Maladies de l'appareil digestif (520-579);567;Péritonite et infections rétropéritonéales;810;17
+9 - Maladies de l'appareil digestif (520-579);568;Autres affections du péritoine;840;198
+9 - Maladies de l'appareil digestif (520-579);569;Autres affections intestinales;4249;6612
+9 - Maladies de l'appareil digestif (520-579);570;Nécroses aiguë et subaiguë du foie;303;6
+9 - Maladies de l'appareil digestif (520-579);571;Cirrhose et affection chronique du foie;5038;941
+9 - Maladies de l'appareil digestif (520-579);572;Abcès du foie et séquelles de maladie chronique du foie;1184;148
+9 - Maladies de l'appareil digestif (520-579);573;Autres affections du foie;736;143
+9 - Maladies de l'appareil digestif (520-579);574;Lithiase biliaire;26249;1586
+9 - Maladies de l'appareil digestif (520-579);575;Autres affections de la vésicule biliaire;3159;275
+9 - Maladies de l'appareil digestif (520-579);576;Autres affections des voies biliaires;2522;318
+9 - Maladies de l'appareil digestif (520-579);577;Maladies du pancréas;7465;856
+9 - Maladies de l'appareil digestif (520-579);578;Hémorragie gastro-intestinale;2224;1098
+9 - Maladies de l'appareil digestif (520-579);579;Malabsorption intestinale;471;480
+9 - Maladies de l'appareil digestif (520-579);;;179210;251368
+10 - Maladies de l'appareil génito-urinaire (580-629);580;Glomérulonéphrite aiguë;147;23
+10 - Maladies de l'appareil génito-urinaire (580-629);581;Syndrome néphrotique;426;73
+10 - Maladies de l'appareil génito-urinaire (580-629);582;Glomérulonéphrite chronique;132;19
+10 - Maladies de l'appareil génito-urinaire (580-629);583;Néphrite et néphropathie, non spécifiées aiguës ni chroniques;356;60
+10 - Maladies de l'appareil génito-urinaire (580-629);584;Insuffisance rénale aiguë;1240;8
+10 - Maladies de l'appareil génito-urinaire (580-629);585;Insuffisance rénale chronique;2835;247
+10 - Maladies de l'appareil génito-urinaire (580-629);586;Insuffisance rénale, non spécifiée;21;< 5
+10 - Maladies de l'appareil génito-urinaire (580-629);587;Sclérose rénale, non spécifiée;41;5
+10 - Maladies de l'appareil génito-urinaire (580-629);588;Troubles résultant d'une insuffisance rénale;68;< 5
+10 - Maladies de l'appareil génito-urinaire (580-629);589;Hypoplasie rénale d'origine inconnue;0;0
+10 - Maladies de l'appareil génito-urinaire (580-629);590;Infections rénales;8676;35
+10 - Maladies de l'appareil génito-urinaire (580-629);591;Hydronéphrose;667;234
+10 - Maladies de l'appareil génito-urinaire (580-629);592;Lithiases du rein et de l'uretère;17877;14523
+10 - Maladies de l'appareil génito-urinaire (580-629);593;Autres affections du rein et de l'uretère;2653;723
+10 - Maladies de l'appareil génito-urinaire (580-629);594;Lithiase des voies urinaires inférieures;648;495
+10 - Maladies de l'appareil génito-urinaire (580-629);595;Cystite;2530;745
+10 - Maladies de l'appareil génito-urinaire (580-629);596;Autres troubles de la vessie;2314;3114
+10 - Maladies de l'appareil génito-urinaire (580-629);597;Urétrite, non vénérienne, et syndrome urétral;83;132
+10 - Maladies de l'appareil génito-urinaire (580-629);598;Sténose urétrale;2038;4077
+10 - Maladies de l'appareil génito-urinaire (580-629);599;Autres troubles de l'urètre et des voies urinaires;12848;2909
+10 - Maladies de l'appareil génito-urinaire (580-629);600;Hyperplasie de la prostate;9486;4655
+10 - Maladies de l'appareil génito-urinaire (580-629);601;Maladies inflammatoires de la prostate;1711;510
+10 - Maladies de l'appareil génito-urinaire (580-629);602;Autres troubles de la prostate;137;378
+10 - Maladies de l'appareil génito-urinaire (580-629);603;Hydrocèle;766;1316
+10 - Maladies de l'appareil génito-urinaire (580-629);604;Orchite et épididymite;711;96
+10 - Maladies de l'appareil génito-urinaire (580-629);605;Phimosis et hypertrophie du prépuce;360;19783
+10 - Maladies de l'appareil génito-urinaire (580-629);606;Stérilité masculine;14;467
+10 - Maladies de l'appareil génito-urinaire (580-629);607;Troubles du pénis;596;778
+10 - Maladies de l'appareil génito-urinaire (580-629);608;Autres troubles des organes génitaux masculins;1126;1499
+10 - Maladies de l'appareil génito-urinaire (580-629);610;Dysplasies mammaires bénignes;332;573
+10 - Maladies de l'appareil génito-urinaire (580-629);611;Autres troubles du sein;4774;1775
+10 - Maladies de l'appareil génito-urinaire (580-629);612;Déformation et disproportion d'une reconstruction mammaire;408;380
+10 - Maladies de l'appareil génito-urinaire (580-629);614;Maladie inflammatoire de l'ovaire, de la trompe de Fallope, du tissu cellulaire pelvien et du péritoine;1365;334
+10 - Maladies de l'appareil génito-urinaire (580-629);615;Maladies inflammatoires de l'utérus, sauf du col;117;177
+10 - Maladies de l'appareil génito-urinaire (580-629);616;Maladies inflammatoires du col utérin, du vagin et de la vulve;676;1206
+10 - Maladies de l'appareil génito-urinaire (580-629);617;Endométriose;3648;1161
+10 - Maladies de l'appareil génito-urinaire (580-629);618;Prolapsus génital;5968;194
+10 - Maladies de l'appareil génito-urinaire (580-629);619;Fistule concernant les organes génitaux de la femme;251;57
+10 - Maladies de l'appareil génito-urinaire (580-629);620;Troubles non inflammatoires de l'ovaire, de la trompe de Fallope et du ligament large;2769;766
+10 - Maladies de l'appareil génito-urinaire (580-629);621;Troubles de l'utérus, non classés ailleurs;1610;8082
+10 - Maladies de l'appareil génito-urinaire (580-629);622;Troubles non inflammatoires du col de l'utérus;423;4136
+10 - Maladies de l'appareil génito-urinaire (580-629);623;Troubles non inflammatoires du vagin;152;433
+10 - Maladies de l'appareil génito-urinaire (580-629);624;Troubles non inflammatoires de la vulve et du périnée;142;1167
+10 - Maladies de l'appareil génito-urinaire (580-629);625;Douleurs et autres symptômes en relation avec les organes génitaux féminins;4419;1897
+10 - Maladies de l'appareil génito-urinaire (580-629);626;Troubles menstruels et autres hémorragies génitales anormales;1599;2583
+10 - Maladies de l'appareil génito-urinaire (580-629);627;Troubles ménopausiques et postménopausiques;346;1113
+10 - Maladies de l'appareil génito-urinaire (580-629);628;Stérilité féminine;352;2005
+10 - Maladies de l'appareil génito-urinaire (580-629);629;Autres troubles des organes génitaux féminins;48;78
+10 - Maladies de l'appareil génito-urinaire (580-629);;;99906;85027
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);630;Môle hydatiforme;25;166
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);631;Autres produits anormaux de la conception;55;348
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);632;Grossesse non évolutive;530;3245
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);633;Grossesse ectopique;1543;325
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);634;Avortement spontané;1428;3571
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);635;Avortement provoqué légalement;813;2482
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);636;Avortement provoqué illégalement;14;35
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);637;Avortement, non spécifié;38;717
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);638;Échec d'une tentative d'avortement;8;7
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);639;Complications après avortement et grossesses ectopique et môlaire;149;99
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);640;Hémorragie du début de la grossesse;521;< 5
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);641;Hémorragie antepartum, placenta praevia et décollement placentaire;2405;17
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);642;Hypertension compliquant la grossesse, l'accouchement et le puerperium;4124;6
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);643;Vomissements excessifs pendant la grossesse;2713;0
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);644;Travail prématuré ou faux travail;9851;79
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);645;Grossesse prolongée;26329;141
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);646;Autres complications de la grossesse, non classées ailleurs;3964;74
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);647;Maladies infectieuses et parasitaires de la mère, classées ailleurs, mais compliquant la grossesse, l'accouchement ou le pueperium;561;16
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);648;Autres affections de la mère, classées ailleurs, mais compliquant la grossesse, l'accouchement, ou le puerperium;18111;212
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);649;Autres affections actuelles ou états de la mère compliquant la grossesse, la naissance ou le puerperium;3906;37
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);650;Eutocie;6520;76
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);651;Grossesse multiple;796;27
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);652;Position et présentation anormales du fœtus;4027;28
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);653;Disproportion;1261;< 5
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);654;Anomalies des tissus mous du bassin et des organes pelviens;7067;176
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);655;Anomalies fœtales connues ou présumées affectant la prise en charge de la mère;1114;789
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);656;Autres problèmes fœto-placentaires connus ou présumés affectant la prise en charge de la mère;5918;94
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);657;Polyhydramnios;119;12
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);658;Autres problèmes de la cavité amniotique et de membranes;5644;28
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);659;Autres indications d'intervention ou de soins liés au travail et à l'accouchement, non classées ailleurs;10007;83
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);660;Dystocie d'obstacle;4611;12
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);661;Anomalies des forces en jeu au cours du travail;2587;7
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);662;Travail prolongé;1781;< 5
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);663;Complications concernant le cordon ombilical;5174;34
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);664;Traumatisme obstétrical du périnée et de la vulve;8786;57
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);665;Autres traumatismes obstétricaux;226;6
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);666;Hémorragie post-partum;625;458
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);667;Rétention du placenta ou de membranes, sans hémorragie;203;452
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);668;Complications de l'administration d'anesthésique ou d'une autre sédation lors du travail et de l'accouchement;33;< 5
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);669;Autres complications du travail et de l'accouchement, non classées ailleurs;1274;< 5
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);670;Infection puerpérale grave;161;11
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);671;Complications veineuses de la grossesse et du puerperium;759;13
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);672;Pyrexie d'origine inconnue durant le puerperium;43;0
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);673;Embolie pulmonaire obstétricale;28;0
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);674;Complications puerpérales, autres et non spécifiées, non classées ailleurs;436;63
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);675;Infections du sein et du mamelon, liées à la naissance;225;20
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);676;Autres troubles de la lactation et affections du sein liées à la naissance;217;< 5
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);677;Séquelles de complication de grossesse, accouchement et puerperium;< 5;0
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);678;Autres maladies fœtales;22;< 5
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);679;Complications lors de procédures in utero;14;0
+11 - Complications de la grossesse, de l'accouchement et du postpartum (630-679);;;146768;14043
+12 - Maladies de la peau et du tissu sous-cutané (680-709);680;Furoncle et anthrax;71;40
+12 - Maladies de la peau et du tissu sous-cutané (680-709);681;Cellulite et abcès du doigt et des orteils;360;207
+12 - Maladies de la peau et du tissu sous-cutané (680-709);682;Autres formes de cellulite et d'abcès;4670;1100
+12 - Maladies de la peau et du tissu sous-cutané (680-709);683;Lymphadénite aiguë;417;125
+12 - Maladies de la peau et du tissu sous-cutané (680-709);684;Impétigo;221;< 5
+12 - Maladies de la peau et du tissu sous-cutané (680-709);685;Kyste pilonidal;1655;2110
+12 - Maladies de la peau et du tissu sous-cutané (680-709);686;Autres infections locales de la peau et du tissu sous-cutané;401;418
+12 - Maladies de la peau et du tissu sous-cutané (680-709);690;Dermatoses érythémato-squameuses;32;14
+12 - Maladies de la peau et du tissu sous-cutané (680-709);691;Dermatite atopique et affections apparentées;133;< 5
+12 - Maladies de la peau et du tissu sous-cutané (680-709);692;Dermatite de contact et autres eczémas;375;41
+12 - Maladies de la peau et du tissu sous-cutané (680-709);693;Dermatite due à l'ingestion de substances;433;< 5
+12 - Maladies de la peau et du tissu sous-cutané (680-709);694;Dermatoses bulleuses;147;10
+12 - Maladies de la peau et du tissu sous-cutané (680-709);695;Affections érythémateuses;451;58
+12 - Maladies de la peau et du tissu sous-cutané (680-709);696;Psoriasis et troubles similaires;205;131
+12 - Maladies de la peau et du tissu sous-cutané (680-709);697;Lichen;11;44
+12 - Maladies de la peau et du tissu sous-cutané (680-709);698;Prurit et affections apparentées;81;41
+12 - Maladies de la peau et du tissu sous-cutané (680-709);700;Cors et callosités;23;257
+12 - Maladies de la peau et du tissu sous-cutané (680-709);701;Autres affections hypertrophiques et atrophiques de la peau;1401;988
+12 - Maladies de la peau et du tissu sous-cutané (680-709);702;Autres dermatoses;32;421
+12 - Maladies de la peau et du tissu sous-cutané (680-709);703;Maladies des ongles;103;2438
+12 - Maladies de la peau et du tissu sous-cutané (680-709);704;Maladies des poils et des follicules pileux;85;204
+12 - Maladies de la peau et du tissu sous-cutané (680-709);705;Affections des glandes sudoripares;310;407
+12 - Maladies de la peau et du tissu sous-cutané (680-709);706;Maladies des glandes sébacées;220;4350
+12 - Maladies de la peau et du tissu sous-cutané (680-709);707;Ulcère chronique de la peau;1995;167
+12 - Maladies de la peau et du tissu sous-cutané (680-709);708;Urticaire;598;< 5
+12 - Maladies de la peau et du tissu sous-cutané (680-709);709;Autres troubles de la peau et du tissu sous-cutané;774;3012
+12 - Maladies de la peau et du tissu sous-cutané (680-709);;;15204;16593
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);710;Maladies diffuses du tissu conjonctif;935;311
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);711;Arthropathie avec infections;913;41
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);712;Arthropathies dues à des microcristaux;64;19
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);713;Arthropathies associées à d'autres affections classées ailleurs;< 5;< 5
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);714;Arthrite rhumatoïde et autres polyarthropathies inflammatoires;694;1588
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);715;Ostéo-arthrose et affections apparentées;46984;3243
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);716;Arthropathies, autres et non spécifiées;1022;491
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);717;Lésion interne de genou;4108;31417
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);718;Autres lésions articulaires;4637;3088
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);719;Affections articulaires, autres et non spécifiées;3634;2814
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);720;Spondylarthrite ankylosante et autres spondylopathies inflammatoires;414;732
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);721;Spondylose et troubles apparentés;5849;13071
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);722;Lésions des disques intervertébraux;28444;36096
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);723;Autres troubles de la région cervicale;1645;10290
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);724;Troubles du dos, autres et non spécifiés;10816;57457
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);725;Pseudo-polyarthrite rhizomélique;441;17
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);726;Enthésopathies périphériques et syndromes apparentés;11361;12299
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);727;Autres troubles des synoviales, tendons et bourses;7342;25041
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);728;Troubles de muscles, ligaments et aponévroses;2439;4184
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);729;Autres troubles des tissus mous;2515;1703
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);730;Ostéomyélite, périostite et autres infections touchant l'os;981;174
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);731;Ostéite déformante et ostéopathies associées à d'autres troubles classés ailleurs;37;11
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);732;Ostéochondropathies;444;479
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);733;Autres troubles des os et des cartilages;10372;2574
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);734;Pied plat;222;27
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);735;Déformations acquises des orteils;11425;4751
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);736;Autres déformations acquises des membres;1328;794
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);737;Déviation de la colonne vertébrale;405;92
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);738;Autres déformations acquises;1540;828
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);739;Troubles somatiques, non classés ailleurs;5;< 5
+13 - Maladies du système musculo-squelettique et du tissu conjonctif (710-739);;;161018;213637
+14 - Anomalies congénitales (740-759);740;Anencéphalie et anomalies similaires;0;0
+14 - Anomalies congénitales (740-759);741;Spina-bifida;27;17
+14 - Anomalies congénitales (740-759);742;Autres anomalies congénitales du système nerveux;166;114
+14 - Anomalies congénitales (740-759);743;Anomalies congénitales de l'œil;76;291
+14 - Anomalies congénitales (740-759);744;Anomalies congénitales de l'oreille, de la face et du cou;472;2022
+14 - Anomalies congénitales (740-759);745;Anomalies du bulbus cordis et anomalies de fermeture du septum cardiaque;1000;69
+14 - Anomalies congénitales (740-759);746;Autres anomalies congénitales du cœur;766;88
+14 - Anomalies congénitales (740-759);747;Autres anomalies congénitales du système circulatoire;965;286
+14 - Anomalies congénitales (740-759);748;Anomalies congénitales du système respiratoire;296;122
+14 - Anomalies congénitales (740-759);749;Fente palatine et bec-de-lièvre;413;37
+14 - Anomalies congénitales (740-759);750;Autres anomalies congénitales du système digestif supérieur;296;859
+14 - Anomalies congénitales (740-759);751;Autres anomalies congénitales du système digestif;684;1520
+14 - Anomalies congénitales (740-759);752;Anomalies congénitales des organes génitaux;907;2753
+14 - Anomalies congénitales (740-759);753;Anomalies congénitales du système urinaire;544;206
+14 - Anomalies congénitales (740-759);754;Certaines malformations congénitales musculo-squelettiques;695;234
+14 - Anomalies congénitales (740-759);755;Autres anomalies congénitales des membres;605;459
+14 - Anomalies congénitales (740-759);756;Autres anomalies congénitales musculo-squelettiques;677;328
+14 - Anomalies congénitales (740-759);757;Anomalies congénitales du tégument;184;197
+14 - Anomalies congénitales (740-759);758;Aberrations chromosomiques;61;30
+14 - Anomalies congénitales (740-759);759;Anomalies congénitales, autres et non spécifiées;492;197
+14 - Anomalies congénitales (740-759);;;9326;9829
+15 - Pathologies de la période périnatale (760-779);760;Fœtus ou nouveau-né atteint par des affections de la mère peut-être sans lien avec sa grossesse;12;0
+15 - Pathologies de la période périnatale (760-779);761;Fœtus ou nouveau-né affecté par des complications chez la mère en rapport avec la grossesse;9;< 5
+15 - Pathologies de la période périnatale (760-779);762;Fœtus ou nouveau-né affecté par des complications au placenta, au cordon ombilical ou aux membranes;< 5;0
+15 - Pathologies de la période périnatale (760-779);763;Fœtus ou nouveau-né affecté par d'autres complications du travail et de l'accouchement;12;0
+15 - Pathologies de la période périnatale (760-779);764;Retard de croissance et malnutrition du fœtus;69;0
+15 - Pathologies de la période périnatale (760-779);765;Troubles associés à une gestation trop courte ou un poids de naissance insuffisant;1180;0
+15 - Pathologies de la période périnatale (760-779);766;Troubles associés à une longue gestation ou à un poids de naissance excessif;9;0
+15 - Pathologies de la période périnatale (760-779);767;Traumatisme obstétrical;37;5
+15 - Pathologies de la période périnatale (760-779);768;Hypoxie intra-utérine et asphyxie à la naissance;112;< 5
+15 - Pathologies de la période périnatale (760-779);769;Syndrome de détresse respiratoire (du fœtus ou du nouveau-né);270;< 5
+15 - Pathologies de la période périnatale (760-779);770;Autres affections respiratoires du fœtus et du nouveau-né;582;< 5
+15 - Pathologies de la période périnatale (760-779);771;Infections spécifiques de la période périnatale;426;9
+15 - Pathologies de la période périnatale (760-779);772;Hémorragies fœtale et néonatale;18;< 5
+15 - Pathologies de la période périnatale (760-779);773;Maladie hémolytique du fœtus ou du nouveau-né, due à une iso-immunisation;72;11
+15 - Pathologies de la période périnatale (760-779);774;Autres ictères périnatals;503;0
+15 - Pathologies de la période périnatale (760-779);775;Troubles endocriniens et métaboliques spécifiques du fœtus et du nouveau-né;35;0
+15 - Pathologies de la période périnatale (760-779);776;Troubles hématologiques du nouveau-né;25;0
+15 - Pathologies de la période périnatale (760-779);777;Troubles périnatals du système digestif;115;0
+15 - Pathologies de la période périnatale (760-779);778;Affections tégumentaires et troubles de la thermorégulation du fœtus et du nouveau-né;240;239
+15 - Pathologies de la période périnatale (760-779);779;Autres désordres et désordres mal définis apparus pendant la période périnatale;1171;22
+15 - Pathologies de la période périnatale (760-779);;;4900;298
+16 - Symptômes, signes et pathologies mal définies (780-799);780;Symptômes généraux;24927;468
+16 - Symptômes, signes et pathologies mal définies (780-799);781;Symptômes impliquant les systèmes nerveux et musculo-squelettiques;1005;41
+16 - Symptômes, signes et pathologies mal définies (780-799);782;Symptômes impliquant la peau et d'autres tissus tégumentaires;1309;280
+16 - Symptômes, signes et pathologies mal définies (780-799);783;Symptômes concernant la nutrition, le métabolisme et le développement;3262;702
+16 - Symptômes, signes et pathologies mal définies (780-799);784;Symptômes impliquant la tête et le cou;3386;792
+16 - Symptômes, signes et pathologies mal définies (780-799);785;Symptômes concernant le système cardio-vasculaire;1830;925
+16 - Symptômes, signes et pathologies mal définies (780-799);786;Symptômes impliquant le système respiratoire et autres symptômes thoraciques;19210;3722
+16 - Symptômes, signes et pathologies mal définies (780-799);787;Symptômes impliquant le système digestif;6157;6836
+16 - Symptômes, signes et pathologies mal définies (780-799);788;Symptômes impliquant le système urinaire;3514;2601
+16 - Symptômes, signes et pathologies mal définies (780-799);789;Autres symptômes concernant l'abdomen et le bassin;8091;6906
+16 - Symptômes, signes et pathologies mal définies (780-799);790;Résultats non spécifiques d'examen sanguin;1579;819
+16 - Symptômes, signes et pathologies mal définies (780-799);791;Résultats non spécifiques d'examen d'urine;183;67
+16 - Symptômes, signes et pathologies mal définies (780-799);792;Résultats anormaux non spécifiques d'examen d'autres substances corporelles;132;2705
+16 - Symptômes, signes et pathologies mal définies (780-799);793;Résultats anormaux non spécifiques d'examens radiologiques et d'autres examens des structures corporelles;206;596
+16 - Symptômes, signes et pathologies mal définies (780-799);794;Résultats anormaux non spécifiques d'explorations fonctionnelles;755;411
+16 - Symptômes, signes et pathologies mal définies (780-799);795;Autres résultats anormaux non spécifiques de tests cytologiques, histologiques, immunologiques et ADN;135;717
+16 - Symptômes, signes et pathologies mal définies (780-799);796;Autres résultats anormaux non spécifiques;128;57
+16 - Symptômes, signes et pathologies mal définies (780-799);797;Sénilité, sans mention de psychose;488;0
+16 - Symptômes, signes et pathologies mal définies (780-799);798;Mort subite, de cause inconnue;57;6
+16 - Symptômes, signes et pathologies mal définies (780-799);799;Autres causes mal définies ou inconnues de morbidité et de mortalité;1477;556
+16 - Symptômes, signes et pathologies mal définies (780-799);;;77831;29207
+17 - Traumatismes et empoisonnements (800-999);800;Fracture de la voûte du crâne;780;6
+17 - Traumatismes et empoisonnements (800-999);801;Fracture de la base du crâne;1929;33
+17 - Traumatismes et empoisonnements (800-999);802;Fracture des os de la face;2688;2965
+17 - Traumatismes et empoisonnements (800-999);803;Fractures du crâne, autres et non qualifiées;177;0
+17 - Traumatismes et empoisonnements (800-999);804;Fractures multiples impliquant le crâne ou la face, avec fractures d'autres os;57;< 5
+17 - Traumatismes et empoisonnements (800-999);805;Fracture de la colonne vertébrale, sans mention de lésion médullaire;6134;49
+17 - Traumatismes et empoisonnements (800-999);806;Fracture de colonne vertébrale, avec mention de lésion médullaire;274;< 5
+17 - Traumatismes et empoisonnements (800-999);807;Fracture de côte(s), du sternum, du larynx et de la trachée;3639;19
+17 - Traumatismes et empoisonnements (800-999);808;Fracture du bassin;4345;12
+17 - Traumatismes et empoisonnements (800-999);809;Fractures du tronc, mal définies;< 5;0
+17 - Traumatismes et empoisonnements (800-999);810;Fracture de la clavicule;2020;235
+17 - Traumatismes et empoisonnements (800-999);811;Fracture de l'omoplate;293;21
+17 - Traumatismes et empoisonnements (800-999);812;Fracture de l'humérus;8013;356
+17 - Traumatismes et empoisonnements (800-999);813;Fractures du radius et du cubitus;12242;3954
+17 - Traumatismes et empoisonnements (800-999);814;Fracture d'un (ou plusieurs) os du carpe;213;394
+17 - Traumatismes et empoisonnements (800-999);815;Fracture de(s) métacarpien(s);658;2963
+17 - Traumatismes et empoisonnements (800-999);816;Fracture d'une ou de plusieurs phalanges de la main;774;1945
+17 - Traumatismes et empoisonnements (800-999);817;Fractures multiples des os de la main;13;41
+17 - Traumatismes et empoisonnements (800-999);818;Fractures d'un membre supérieur, mal définies;< 5;< 5
+17 - Traumatismes et empoisonnements (800-999);819;Fractures multiples impliquant les deux membres supérieurs, ou un membre supérieur avec côte(s) et sternum;0;0
+17 - Traumatismes et empoisonnements (800-999);820;Fracture du col du fémur;16072;9
+17 - Traumatismes et empoisonnements (800-999);821;Fracture de parties du fémur, autres et non spécifiées;2201;29
+17 - Traumatismes et empoisonnements (800-999);822;Fracture de la rotule;867;21
+17 - Traumatismes et empoisonnements (800-999);823;Fracture de tibia et de péroné;3365;96
+17 - Traumatismes et empoisonnements (800-999);824;Fracture de la cheville;6394;381
+17 - Traumatismes et empoisonnements (800-999);825;Fracture d'un ou de plusieurs os du tarse et du métatarse;1316;255
+17 - Traumatismes et empoisonnements (800-999);826;Fracture d'une ou de plusieurs phalanges du pied;116;155
+17 - Traumatismes et empoisonnements (800-999);827;Fractures du membre inférieur, autres, multiples et mal définies;6;< 5
+17 - Traumatismes et empoisonnements (800-999);828;Fractures multiples impliquant les deux membres inférieurs, ou un membre inférieur et un membre supérieur, ou un ou plusieurs membres inférieurs avec côte(s) et sternum;< 5;0
+17 - Traumatismes et empoisonnements (800-999);829;Fracture d'os non spécifiés;< 5;< 5
+17 - Traumatismes et empoisonnements (800-999);830;Luxation de la joue;28;48
+17 - Traumatismes et empoisonnements (800-999);831;Luxation de l'épaule;1236;1365
+17 - Traumatismes et empoisonnements (800-999);832;Luxation du coude;297;213
+17 - Traumatismes et empoisonnements (800-999);833;Luxation du poignet;69;64
+17 - Traumatismes et empoisonnements (800-999);834;Luxation d'un doigt;96;208
+17 - Traumatismes et empoisonnements (800-999);835;Luxation de la hanche;138;19
+17 - Traumatismes et empoisonnements (800-999);836;Luxation de genou;693;10803
+17 - Traumatismes et empoisonnements (800-999);837;Luxation de la cheville;51;9
+17 - Traumatismes et empoisonnements (800-999);838;Luxation du pied;64;37
+17 - Traumatismes et empoisonnements (800-999);839;Luxations, autres, multiples et mal définies;138;35
+17 - Traumatismes et empoisonnements (800-999);840;Entorses de l'épaule et du bras;2982;757
+17 - Traumatismes et empoisonnements (800-999);841;Entorses du coude et de l'avant-bras;69;85
+17 - Traumatismes et empoisonnements (800-999);842;Entorses du poignet et de la main;178;814
+17 - Traumatismes et empoisonnements (800-999);843;Entorses de la hanche et de la cuisse;202;6
+17 - Traumatismes et empoisonnements (800-999);844;Entorses du genou et de la jambe;4707;976
+17 - Traumatismes et empoisonnements (800-999);845;Entorses de la cheville et du pied;1385;319
+17 - Traumatismes et empoisonnements (800-999);846;Entorses de la région sacro-iliaque;< 5;< 5
+17 - Traumatismes et empoisonnements (800-999);847;Entorses de parties du dos, autres et non spécifiées;110;57
+17 - Traumatismes et empoisonnements (800-999);848;Entorses, autres et mal définies;108;19
+17 - Traumatismes et empoisonnements (800-999);850;Commotion cérébrale;8734;12
+17 - Traumatismes et empoisonnements (800-999);851;Lacération et contusion cérébrales;860;< 5
+17 - Traumatismes et empoisonnements (800-999);852;Hémorragies sous-arachnoïdienne, sous-durale et extradurale consécutives à une lésion;2033;9
+17 - Traumatismes et empoisonnements (800-999);853;Hémorragies intracrâniennes traumatiques, autres et non spécifiées;564;< 5
+17 - Traumatismes et empoisonnements (800-999);854;Lésion intracrânienne de nature autre ou non spécifiée;300;< 5
+17 - Traumatismes et empoisonnements (800-999);860;Pneumothorax et hémothorax traumatiques;1098;5
+17 - Traumatismes et empoisonnements (800-999);861;Lésions du cœur et des poumons;219;< 5
+17 - Traumatismes et empoisonnements (800-999);862;Lésion d'organes intrathoraciques autres et non spécifiés;82;< 5
+17 - Traumatismes et empoisonnements (800-999);863;Lésion du tractus gastro-intestinal;130;6
+17 - Traumatismes et empoisonnements (800-999);864;Lésion du foie;184;< 5
+17 - Traumatismes et empoisonnements (800-999);865;Lésion de la rate;289;< 5
+17 - Traumatismes et empoisonnements (800-999);866;Lésion du rein;181;5
+17 - Traumatismes et empoisonnements (800-999);867;Lésion des organes pelviens;87;16
+17 - Traumatismes et empoisonnements (800-999);868;Lésion d'autres organes intra-abdominaux;107;5
+17 - Traumatismes et empoisonnements (800-999);869;Lésion interne d'organes non spécifiés ou mal définis;5;< 5
+17 - Traumatismes et empoisonnements (800-999);870;Plaie ouverte des annexes de l'œil;103;115
+17 - Traumatismes et empoisonnements (800-999);871;Plaie ouverte du globe oculaire;225;138
+17 - Traumatismes et empoisonnements (800-999);872;Plaie ouverte de l'oreille;107;348
+17 - Traumatismes et empoisonnements (800-999);873;Autres plaies ouvertes de la tête;2338;1738
+17 - Traumatismes et empoisonnements (800-999);874;Plaie ouverte du cou;67;14
+17 - Traumatismes et empoisonnements (800-999);875;Plaie ouverte du thorax (paroi);43;10
+17 - Traumatismes et empoisonnements (800-999);876;Plaie ouverte du dos;15;8
+17 - Traumatismes et empoisonnements (800-999);877;Plaie ouverte du siège;19;< 5
+17 - Traumatismes et empoisonnements (800-999);878;Plaie ouverte des organes génitaux (externes), y compris l'amputation traumatique;90;53
+17 - Traumatismes et empoisonnements (800-999);879;Plaie ouverte de parties autres et non spécifiées, excepté les membres;148;99
+17 - Traumatismes et empoisonnements (800-999);880;Plaies ouvertes de l'épaule et du bras;108;73
+17 - Traumatismes et empoisonnements (800-999);881;Plaies ouvertes du coude, de l'avant-bras et du poignet;731;741
+17 - Traumatismes et empoisonnements (800-999);882;Plaie ouverte de la main, excepté doigt(s) seul(s);431;1364
+17 - Traumatismes et empoisonnements (800-999);883;Plaie ouverte d'un ou de plusieurs doigts;774;3781
+17 - Traumatismes et empoisonnements (800-999);884;Plaie ouverte d'un membre supérieur, multiple ou non spécifiée;31;39
+17 - Traumatismes et empoisonnements (800-999);885;Amputation traumatique du pouce (complète ou partielle);118;88
+17 - Traumatismes et empoisonnements (800-999);886;Amputation traumatique d'autre(s) doigt(s) (complète ou partielle);424;413
+17 - Traumatismes et empoisonnements (800-999);887;Amputations traumatiques du bras et de la main (complète ou partielle);10;< 5
+17 - Traumatismes et empoisonnements (800-999);890;Plaies ouvertes de la hanche et de la cuisse;137;77
+17 - Traumatismes et empoisonnements (800-999);891;Plaies ouvertes du genou, de la jambe (excepté la cuisse) et de la cheville;852;420
+17 - Traumatismes et empoisonnements (800-999);892;Plaie ouverte du pied, excepté orteil(s) seul(s);232;187
+17 - Traumatismes et empoisonnements (800-999);893;Plaie ouverte d'un ou de plusieurs orteils;76;115
+17 - Traumatismes et empoisonnements (800-999);894;Plaie ouverte d'un membre inférieur, multiple ou non spécifiée;39;9
+17 - Traumatismes et empoisonnements (800-999);895;Amputation traumatique d'un ou de plusieurs orteils (complète ou partielle);16;< 5
+17 - Traumatismes et empoisonnements (800-999);896;Amputation traumatique du pied (complète ou partielle);5;0
+17 - Traumatismes et empoisonnements (800-999);897;Amputation traumatique d'une ou des deux jambes (complète ou partielle);12;0
+17 - Traumatismes et empoisonnements (800-999);900;Lésion des vaisseaux sanguins de la tête et du cou;41;< 5
+17 - Traumatismes et empoisonnements (800-999);901;Lésion des vaisseaux sanguins du thorax;29;0
+17 - Traumatismes et empoisonnements (800-999);902;Lésion des vaisseaux sanguins de l'abdomen ou du pelvis;29;< 5
+17 - Traumatismes et empoisonnements (800-999);903;Lésion des vaisseaux sanguins du membre supérieur;91;21
+17 - Traumatismes et empoisonnements (800-999);904;Lésion de vaisseaux sanguins du membre inférieur ou de site non spécifié;32;8
+17 - Traumatismes et empoisonnements (800-999);905;Séquelles de lésions musculo-squelettiques et de tissus conjonctifs;147;207
+17 - Traumatismes et empoisonnements (800-999);906;Séquelles de lésions de la peau et de tissus sous-cutanés;39;49
+17 - Traumatismes et empoisonnements (800-999);907;Séquelles de lésions du système nerveux;16;7
+17 - Traumatismes et empoisonnements (800-999);908;Séquelles de lésions autres et non spécifiées;31;19
+17 - Traumatismes et empoisonnements (800-999);909;Séquelles de causes externes autres et non spécifiées;59;22
+17 - Traumatismes et empoisonnements (800-999);910;Lésion superficielle du cou, du cuir chevelu, de la face (sauf l'œil);152;92
+17 - Traumatismes et empoisonnements (800-999);911;Lésion superficielle du tronc;28;45
+17 - Traumatismes et empoisonnements (800-999);912;Lésion superficielle de l'épaule et du bras;17;21
+17 - Traumatismes et empoisonnements (800-999);913;Lésion superficielle du coude, de l'avant-bras et du poignet;61;62
+17 - Traumatismes et empoisonnements (800-999);914;Lésion superficielle d'une ou des deux mains, excepté doigt(s) seul(s);27;169
+17 - Traumatismes et empoisonnements (800-999);915;Lésion superficielle d'un ou de plusieurs doigts;27;364
+17 - Traumatismes et empoisonnements (800-999);916;Lésion superficielle de la hanche, de la cuisse, de la jambe et de la cheville;113;83
+17 - Traumatismes et empoisonnements (800-999);917;Lésion superficielle du pied et d'un ou plusieurs orteils;43;145
+17 - Traumatismes et empoisonnements (800-999);918;Lésion superficielle de l'œil et de ses annexes;18;13
+17 - Traumatismes et empoisonnements (800-999);919;Lésion superficielle de sites autres, multiples ou non spécifiés;53;109
+17 - Traumatismes et empoisonnements (800-999);920;Contusion du cuir chevelu, du cou et de la face excepté les yeux;1253;52
+17 - Traumatismes et empoisonnements (800-999);921;Contusion de l'œil et de ses annexes;285;12
+17 - Traumatismes et empoisonnements (800-999);922;Contusion du tronc;1118;43
+17 - Traumatismes et empoisonnements (800-999);923;Contusion du membre supérieur;399;62
+17 - Traumatismes et empoisonnements (800-999);924;Contusion du membre inférieur et de sites autres et non spécifiés;2298;194
+17 - Traumatismes et empoisonnements (800-999);925;Écrasement de la face, du cuir chevelu et du cou;6;< 5
+17 - Traumatismes et empoisonnements (800-999);926;Écrasement du tronc;14;0
+17 - Traumatismes et empoisonnements (800-999);927;Écrasement du membre supérieur;239;324
+17 - Traumatismes et empoisonnements (800-999);928;Écrasement du membre inférieur;164;20
+17 - Traumatismes et empoisonnements (800-999);929;Écrasement de sites multiples ou non spécifiés;45;0
+17 - Traumatismes et empoisonnements (800-999);930;Corps étranger au niveau de l'œil externe;13;41
+17 - Traumatismes et empoisonnements (800-999);931;Corps étranger dans l'oreille;8;250
+17 - Traumatismes et empoisonnements (800-999);932;Corps étranger dans le nez;15;72
+17 - Traumatismes et empoisonnements (800-999);933;Corps étranger dans le pharynx et le larynx;267;70
+17 - Traumatismes et empoisonnements (800-999);934;Corps étranger dans la trachée, les bronches et les poumons;323;96
+17 - Traumatismes et empoisonnements (800-999);935;Corps étranger dans la bouche, l'œsophage et l'estomac;467;354
+17 - Traumatismes et empoisonnements (800-999);936;Corps étranger dans l'intestin et le côlon;92;10
+17 - Traumatismes et empoisonnements (800-999);937;Corps étranger dans l'anus et le rectum;44;41
+17 - Traumatismes et empoisonnements (800-999);938;Corps étranger dans le système digestif, non spécifié;59;18
+17 - Traumatismes et empoisonnements (800-999);939;Corps étranger dans le tractus génito-urinaire;22;38
+17 - Traumatismes et empoisonnements (800-999);940;Brûlure limitées à l'œil et à ses annexes;20;0
+17 - Traumatismes et empoisonnements (800-999);941;Brûlure de la face, de la tête et du cou;276;9
+17 - Traumatismes et empoisonnements (800-999);942;Brûlure du tronc;205;13
+17 - Traumatismes et empoisonnements (800-999);943;Brûlure du membre supérieur, excepté du poignet et de la main;209;28
+17 - Traumatismes et empoisonnements (800-999);944;Brûlure de poignet(s) et de main(s);191;48
+17 - Traumatismes et empoisonnements (800-999);945;Brûlure du membre inférieur;332;36
+17 - Traumatismes et empoisonnements (800-999);946;Brûlures de sites multiples spécifiés;14;0
+17 - Traumatismes et empoisonnements (800-999);947;Brûlure des organes internes;39;0
+17 - Traumatismes et empoisonnements (800-999);948;Brûlure classée selon la surface du corps atteinte;24;< 5
+17 - Traumatismes et empoisonnements (800-999);949;Brûlure non spécifiée;6;0
+17 - Traumatismes et empoisonnements (800-999);950;Lésions du nerf et des voies optiques;8;0
+17 - Traumatismes et empoisonnements (800-999);951;Lésion d'autre(s) nerf(s) crânien(s);15;< 5
+17 - Traumatismes et empoisonnements (800-999);952;Lésion de la moelle épinière sans signes de lésion des vertèbres;101;< 5
+17 - Traumatismes et empoisonnements (800-999);953;Lésion de racines nerveuses et du plexus rachidien;15;0
+17 - Traumatismes et empoisonnements (800-999);954;Lésion d'autre(s) nerf(s) du tronc, sauf ceux de l'épaule et de la ceinture pelvienne;< 5;0
+17 - Traumatismes et empoisonnements (800-999);955;Lésion de nerf(s) périphérique(s) de la ceinture scapulaire et du membre supérieur;140;240
+17 - Traumatismes et empoisonnements (800-999);956;Lésion de nerf(s) périphérique(s) de la ceinture pelvienne et du membre inférieur;20;14
+17 - Traumatismes et empoisonnements (800-999);957;Lésion de nerfs autres et non spécifiés;14;24
+17 - Traumatismes et empoisonnements (800-999);958;Diverses complications précoces de traumatismes;1596;104
+17 - Traumatismes et empoisonnements (800-999);959;Lésions, autres et non spécifiées;637;96
+17 - Traumatismes et empoisonnements (800-999);960;Intoxication par antibiotiques;36;0
+17 - Traumatismes et empoisonnements (800-999);961;Intoxication par d'autres médicaments anti-infectieux;30;0
+17 - Traumatismes et empoisonnements (800-999);962;Intoxication par hormones et dérivés synthétiques;353;< 5
+17 - Traumatismes et empoisonnements (800-999);963;Intoxication par agents essentiellement systémiques;101;0
+17 - Traumatismes et empoisonnements (800-999);964;Intoxication par agents affectant essentiellement les constituants du sang;109;0
+17 - Traumatismes et empoisonnements (800-999);965;Intoxication par analgésiques, antipyrétiques et antirhumatismaux;1830;< 5
+17 - Traumatismes et empoisonnements (800-999);966;Intoxication par médicaments anticonvulsivants et antiparkinsoniens;194;0
+17 - Traumatismes et empoisonnements (800-999);967;Intoxication par sédatifs et hypnotiques;613;< 5
+17 - Traumatismes et empoisonnements (800-999);968;Intoxication par d'autres dépresseurs du système nerveux central et anesthésiques;24;0
+17 - Traumatismes et empoisonnements (800-999);969;Intoxication par agents psychotropes;5914;10
+17 - Traumatismes et empoisonnements (800-999);970;Intoxication par stimulants du système nerveux central;96;< 5
+17 - Traumatismes et empoisonnements (800-999);971;Intoxication par médicaments affectant essentiellement le système nerveux autonome;148;0
+17 - Traumatismes et empoisonnements (800-999);972;Intoxication par agents affectant essentiellement le système cardio-vasculaire;336;0
+17 - Traumatismes et empoisonnements (800-999);973;Intoxication par agents affectant essentiellement le système gastro-intestinal;61;0
+17 - Traumatismes et empoisonnements (800-999);974;Intoxication par médicaments agissant sur le métabolisme hydrique, minéral et de l'acide urique;62;0
+17 - Traumatismes et empoisonnements (800-999);975;Intoxication par des agents agissant essentiellement sur les muscles lisses et squelettiques et sur le système respiratoire;84;< 5
+17 - Traumatismes et empoisonnements (800-999);976;Intoxication par des agents affectant essentiellement la peau et la membrane muqueuse, et par des médicaments utilisés en ophtalmologie, en ORL et en stomatologie;53;< 5
+17 - Traumatismes et empoisonnements (800-999);977;Intoxication par des médicaments autres et non spécifiés et par des substances médicamenteuses;573;< 5
+17 - Traumatismes et empoisonnements (800-999);978;Intoxication par vaccins bactériens;0;0
+17 - Traumatismes et empoisonnements (800-999);979;Intoxication par d'autres vaccins et substances biologiques;< 5;0
+17 - Traumatismes et empoisonnements (800-999);980;Effets toxiques de l'alcool;793;< 5
+17 - Traumatismes et empoisonnements (800-999);981;Effets toxiques de produits pétroliers;32;0
+17 - Traumatismes et empoisonnements (800-999);982;Effets toxiques de solvants non dérivés du pétrole;53;0
+17 - Traumatismes et empoisonnements (800-999);983;Effets toxiques d'aromatiques corrosifs, acides et alcalins caustiques;140;< 5
+17 - Traumatismes et empoisonnements (800-999);984;Effets toxiques du plomb et de ses composés (fumées incluses);< 5;0
+17 - Traumatismes et empoisonnements (800-999);985;Effets toxiques d'autres métaux;21;< 5
+17 - Traumatismes et empoisonnements (800-999);986;Effets toxiques du monoxyde de carbone;244;0
+17 - Traumatismes et empoisonnements (800-999);987;Effets toxiques d'autres gaz, fumées ou vapeurs;113;< 5
+17 - Traumatismes et empoisonnements (800-999);988;Effets toxiques de substances alimentaires nocives;87;0
+17 - Traumatismes et empoisonnements (800-999);989;Effets toxiques d'autres substances d'origine essentiellement non médicinales;382;< 5
+17 - Traumatismes et empoisonnements (800-999);990;Effets de radiations non spécifiées;22;6
+17 - Traumatismes et empoisonnements (800-999);991;Effets du froid;229;< 5
+17 - Traumatismes et empoisonnements (800-999);992;Effets de la chaleur et de la lumière;93;0
+17 - Traumatismes et empoisonnements (800-999);993;Effets de la pression atmosphérique;23;< 5
+17 - Traumatismes et empoisonnements (800-999);994;Effets d'autres agents externes;305;0
+17 - Traumatismes et empoisonnements (800-999);995;Effets indésirables divers non classés ailleurs;2008;24
+17 - Traumatismes et empoisonnements (800-999);996;Complications particulières de certaines interventions non spécifiées;23904;7443
+17 - Traumatismes et empoisonnements (800-999);997;Complications affectant des systèmes spécifiés, non classées ailleurs;5385;1063
+17 - Traumatismes et empoisonnements (800-999);998;Autres complications d'interventions, non classées ailleurs;12542;3038
+17 - Traumatismes et empoisonnements (800-999);999;Complications de soins médicaux, non classées ailleurs;809;81
+17 - Traumatismes et empoisonnements (800-999);;;179029;55154
+18 - Facteurs influençant l'état de santé (V01-V91);V01;Personnes potentiellement à risques, en contact avec des maladies transmissibles ou exposées à celles-ci;8;0
+18 - Facteurs influençant l'état de santé (V01-V91);V02;Personnes potentiellement à risques, porteuses ou porteuses possibles de maladies infectieuses;11;6
+18 - Facteurs influençant l'état de santé (V01-V91);V03;Nécessité de vaccination prophylactique et d'inoculation contre des maladies bactériennes;0;0
+18 - Facteurs influençant l'état de santé (V01-V91);V04;Nécessité de vaccination prophylactique et d'inoculation contre des maladies virales déterminées;< 5;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V05;Nécessité de vaccination prophylactique et d'inoculation contre des maladies simples;< 5;0
+18 - Facteurs influençant l'état de santé (V01-V91);V06;Nécessité de vaccination prophylactique et d'inoculation contre des combinaisons de maladies;7;0
+18 - Facteurs influençant l'état de santé (V01-V91);V07;Nécessité d'isolement et d'autres mesures prophylactiques ou de traitement;239;7135
+18 - Facteurs influençant l'état de santé (V01-V91);V08;État d'infection asymptomatique au virus HIV;7;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V09;Infection aux micro-organismes résistants aux médicaments;0;0
+18 - Facteurs influençant l'état de santé (V01-V91);V10;Antécédents personnels de néoplasme malin;61;394
+18 - Facteurs influençant l'état de santé (V01-V91);V11;Antécédents personnels de trouble mental;< 5;0
+18 - Facteurs influençant l'état de santé (V01-V91);V12;Antécédents personnels de certaines autres maladies;65;495
+18 - Facteurs influençant l'état de santé (V01-V91);V13;Antécédents personnels d'autres maladies;21;68
+18 - Facteurs influençant l'état de santé (V01-V91);V14;Antécédents personnels d'allergie à des agents médicamenteux;22;6
+18 - Facteurs influençant l'état de santé (V01-V91);V15;Autres antécédents personnels affectant la santé;1863;20
+18 - Facteurs influençant l'état de santé (V01-V91);V16;Antécédents familiaux de néoplasme malin;11;199
+18 - Facteurs influençant l'état de santé (V01-V91);V17;Antécédents familiaux de certaines maladies chroniques invalidantes;27;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V18;Antécédents familiaux de certaines autres affections spécifiques;< 5;49
+18 - Facteurs influençant l'état de santé (V01-V91);V19;Antécédents familiaux d'autres affections;< 5;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V20;Surveillance du nouveau-né ou de l'enfant;96;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V21;États constitutionnels pendant le développement;12;0
+18 - Facteurs influençant l'état de santé (V01-V91);V22;Grossesse normale;147;7
+18 - Facteurs influençant l'état de santé (V01-V91);V23;Supervision de grossesse à haut risque;7;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V24;Examen et soin post-partum;503;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V25;Contact pour mesures contraceptives;513;13755
+18 - Facteurs influençant l'état de santé (V01-V91);V26;Mesures procréatives;476;17562
+18 - Facteurs influençant l'état de santé (V01-V91);V27;Résultat de l'accouchement;21;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V28;Contact pour dépistage prénatal chez la mère;10;3317
+18 - Facteurs influençant l'état de santé (V01-V91);V29;Observation et évaluation de nouveau-nés pour affection suspectée non retrouvée;151;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V30;Enfant unique et vivant;3386;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V31;Enfant jumeau, l'autre jumeau né vivant;1022;0
+18 - Facteurs influençant l'état de santé (V01-V91);V32;Enfant jumeau, l'autre jumeau mort-né;18;0
+18 - Facteurs influençant l'état de santé (V01-V91);V33;Enfant jumeau, état de l'autre jumeau non spécifié;0;0
+18 - Facteurs influençant l'état de santé (V01-V91);V34;Autre naissance multiple, tous les enfants vivants;68;0
+18 - Facteurs influençant l'état de santé (V01-V91);V35;Autre naissance multiple, tous les enfants mort-nés;0;0
+18 - Facteurs influençant l'état de santé (V01-V91);V36;Autre naissance multiple, enfants vivants et mort-nés;< 5;0
+18 - Facteurs influençant l'état de santé (V01-V91);V37;Autre naissance multiple, état des enfants non spécifié;0;0
+18 - Facteurs influençant l'état de santé (V01-V91);V39;Enfant vivant, type de naissance non spécifiée;< 5;0
+18 - Facteurs influençant l'état de santé (V01-V91);V40;Problèmes mentaux et du comportement;8;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V41;Problèmes d'organes des sens spéciaux et d'autres fonctions spéciales;0;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V42;Organe ou tissu remplacés par transplantation;17;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V43;Organe ou tissu remplacés par d'autres moyens;35;19
+18 - Facteurs influençant l'état de santé (V01-V91);V44;Porteur d'un orifice artificiel;25;28
+18 - Facteurs influençant l'état de santé (V01-V91);V45;Autres états postopératoires;145;270
+18 - Facteurs influençant l'état de santé (V01-V91);V46;Autres dépendances à des appareils et du matériel;35;0
+18 - Facteurs influençant l'état de santé (V01-V91);V47;Autres problèmes d'organes internes;6;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V48;Problèmes relatifs à la tête, au cou et au tronc;< 5;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V49;Autres affections influençant l'état de santé;21;18
+18 - Facteurs influençant l'état de santé (V01-V91);V50;Chirurgie élective pour d'autres motifs qu'un problème de santé;3117;6002
+18 - Facteurs influençant l'état de santé (V01-V91);V51;Soins de suivi impliquant la chirurgie plastique;1728;794
+18 - Facteurs influençant l'état de santé (V01-V91);V52;Placement et ajustement de prothèse et d'implant;343;1178
+18 - Facteurs influençant l'état de santé (V01-V91);V53;Placements et ajustements d'autre matériel;7238;7456
+18 - Facteurs influençant l'état de santé (V01-V91);V54;Autres suites de soins orthopédiques;3787;17811
+18 - Facteurs influençant l'état de santé (V01-V91);V55;Soins d'orifices artificiels;2704;1445
+18 - Facteurs influençant l'état de santé (V01-V91);V56;Contact pour dialyse et dialyse par cathéter;692;404
+18 - Facteurs influençant l'état de santé (V01-V91);V57;Soins avec procédures de rééducation;24986;14
+18 - Facteurs influençant l'état de santé (V01-V91);V58;Contact pour interventions et soins de suivi autres et non spécifiés;36104;377757
+18 - Facteurs influençant l'état de santé (V01-V91);V59;Donneurs;172;413
+18 - Facteurs influençant l'état de santé (V01-V91);V60;Problèmes de logement, familiaux et économiques;1947;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V61;Autres situations familiales;312;249
+18 - Facteurs influençant l'état de santé (V01-V91);V62;Autres situations psychosociales;245;17
+18 - Facteurs influençant l'état de santé (V01-V91);V63;Indisponibilité des autres institutions de soins;359;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V64;Personnes en contact avec les services de santé pour des interventions spécifiques non exécutées;81;80
+18 - Facteurs influençant l'état de santé (V01-V91);V65;Autres personnes venues consulter;2286;22
+18 - Facteurs influençant l'état de santé (V01-V91);V66;Convalescence et soins palliatifs;389;43
+18 - Facteurs influençant l'état de santé (V01-V91);V67;Examens de suivi;6364;28761
+18 - Facteurs influençant l'état de santé (V01-V91);V68;Contacts pour raison administrative;2691;30
+18 - Facteurs influençant l'état de santé (V01-V91);V69;Problèmes liés au mode de vie;299;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V70;Examen médical général;2373;151
+18 - Facteurs influençant l'état de santé (V01-V91);V71;Observation et évaluation pour affection suspectée non trouvée;15250;5945
+18 - Facteurs influençant l'état de santé (V01-V91);V72;Investigations et examens spéciaux;22480;38406
+18 - Facteurs influençant l'état de santé (V01-V91);V73;Examen spécial de dépistage de maladies virales et à chlamydia;< 5;24
+18 - Facteurs influençant l'état de santé (V01-V91);V74;Examen spécial de dépistage de maladies bactériennes et à spirochètes;5;10
+18 - Facteurs influençant l'état de santé (V01-V91);V75;Examen spécial de dépistage d'autres maladies infectieuses;0;10
+18 - Facteurs influençant l'état de santé (V01-V91);V76;Dépistage spécial de néoplasmes malins;586;27769
+18 - Facteurs influençant l'état de santé (V01-V91);V77;Dépistage spécial de troubles endocriniens, nutritionnels, métaboliques et immunitaires;10;5
+18 - Facteurs influençant l'état de santé (V01-V91);V78;Dépistage spécial des troubles du sang et de l'hématopoïèse;< 5;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V79;Dépistage spécial de troubles mentaux et de handicaps développementaux;0;0
+18 - Facteurs influençant l'état de santé (V01-V91);V80;Dépistage spécial de maladies neurologiques, de l'œil et de l'oreille;55;11
+18 - Facteurs influençant l'état de santé (V01-V91);V81;Dépistage spécial de maladies cardio-vasculaire, respiratoire et génito-urinaire;194;177
+18 - Facteurs influençant l'état de santé (V01-V91);V82;Dépistage spécial d'autres affections;113;1809
+18 - Facteurs influençant l'état de santé (V01-V91);V83;Statut de porteur génétique;5;8
+18 - Facteurs influençant l'état de santé (V01-V91);V84;Prédisposition génétique à une maladie;33;28
+18 - Facteurs influençant l'état de santé (V01-V91);V85;Indice de masse corporelle (IMC);29;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V86;Statut des récepteurs à œstrogènes;0;0
+18 - Facteurs influençant l'état de santé (V01-V91);V87;Autres expositions personnelles et antécédents spécifiés présentant des risques pour la santé;12;16
+18 - Facteurs influençant l'état de santé (V01-V91);V88;Absences acquises d'autres organes et de tissus;8;< 5
+18 - Facteurs influençant l'état de santé (V01-V91);V89;Autres affections suspectées non retrouvées;104;72
+18 - Facteurs influençant l'état de santé (V01-V91);V90;Rétention de corps étrangers;8;87
+18 - Facteurs influençant l'état de santé (V01-V91);V91;Statut du placenta lors d'une gestation multiple.;5;0
+18 - Facteurs influençant l'état de santé (V01-V91);;;146200;560396
+18 - Facteurs influençant l'état de santé (V01-V91);AAA;Spécialité psychiatrique;0;0
+18 - Facteurs influençant l'état de santé (V01-V91);MMM;Hospitalisation de jour : prestation avec miniforfait ou sans forfait;0;27612
+18 - Facteurs influençant l'état de santé (V01-V91);UUU;Urgences;0;0
+18 - Facteurs influençant l'état de santé (V01-V91);XXX;Diagnostic factice;0;0
+18 - Facteurs influençant l'état de santé (V01-V91);;;0;27612
